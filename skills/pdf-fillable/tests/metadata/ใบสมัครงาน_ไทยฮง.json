@@ -1,0 +1,5930 @@
+{
+  "form_name": "ใบสมัครงาน_ไทยฮง",
+  "fields": [
+    {
+      "field_name": "p1_uline_1",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        492.0,
+        266.2,
+        510.0,
+        280.7
+      ],
+      "ocr_label": "",
+      "label": "วันที่สมัคร (วัน)",
+      "name_en": "application_date_day",
+      "description": "วันที่ยื่นใบสมัคร (วัน)"
+    },
+    {
+      "field_name": "p1_uline_2",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        513.8,
+        266.2,
+        531.8,
+        280.7
+      ],
+      "ocr_label": "",
+      "label": "วันที่สมัคร (เดือน)",
+      "name_en": "application_date_month",
+      "description": "วันที่ยื่นใบสมัคร (เดือน)"
+    },
+    {
+      "field_name": "p1_uline_3",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        535.7,
+        266.2,
+        553.8,
+        280.7
+      ],
+      "ocr_label": "",
+      "label": "วันที่สมัคร (ปี)",
+      "name_en": "application_date_year",
+      "description": "วันที่ยื่นใบสมัคร (ปี พ.ศ.)"
+    },
+    {
+      "field_name": "p1_uline_4",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        124.1,
+        292.5,
+        260.1,
+        307.0
+      ],
+      "ocr_label": "",
+      "label": "สมัครงานในตำแหน่ง",
+      "name_en": "position_applied",
+      "description": "ตำแหน่งงานที่สมัคร"
+    },
+    {
+      "field_name": "p1_uline_5",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        387.3,
+        292.5,
+        536.2,
+        307.0
+      ],
+      "ocr_label": "",
+      "label": "ตำแหน่งอื่นที่คิดว่าเหมาะสม",
+      "name_en": "other_suitable_position",
+      "description": "ตำแหน่งอื่นที่ผู้สมัครคิดว่าเหมาะสม"
+    },
+    {
+      "field_name": "p1_uline_6",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        113.3,
+        312.0,
+        259.0,
+        326.5
+      ],
+      "ocr_label": "",
+      "label": "พร้อมเริ่มงานวันที่",
+      "name_en": "available_start_date",
+      "description": "วันที่พร้อมเริ่มงาน"
+    },
+    {
+      "field_name": "p1_uline_7",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        372.7,
+        312.0,
+        447.1,
+        326.5
+      ],
+      "ocr_label": "",
+      "label": "เงินเดือนที่คาดหวัง ขั้นต่ำ",
+      "name_en": "expected_salary_min",
+      "description": "เงินเดือนที่คาดหวังขั้นต่ำ (บาท)"
+    },
+    {
+      "field_name": "p1_uline_8",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        469.3,
+        312.0,
+        543.7,
+        326.5
+      ],
+      "ocr_label": "",
+      "label": "เงินเดือนที่คาดหวัง ขั้นสูง",
+      "name_en": "expected_salary_max",
+      "description": "เงินเดือนที่คาดหวังขั้นสูง (บาท)"
+    },
+    {
+      "field_name": "p1_uline_9",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        149.2,
+        371.9,
+        350.0,
+        386.4
+      ],
+      "ocr_label": "",
+      "label": "ชื่อ-สกุล (ภาษาไทย)",
+      "name_en": "full_name_th",
+      "description": "ชื่อ-นามสกุล นาย/นาง/นางสาว"
+    },
+    {
+      "field_name": "p1_uline_10",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        379.9,
+        371.9,
+        428.4,
+        386.4
+      ],
+      "ocr_label": "",
+      "label": "ชื่อเล่น",
+      "name_en": "nickname",
+      "description": "ชื่อเล่นของผู้สมัคร"
+    },
+    {
+      "field_name": "p1_uline_11",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        496.5,
+        371.9,
+        561.2,
+        386.4
+      ],
+      "ocr_label": "",
+      "label": "วัน/เดือน/ปีเกิด",
+      "name_en": "date_of_birth",
+      "description": "วัน/เดือน/ปีเกิดของผู้สมัคร"
+    },
+    {
+      "field_name": "p1_uline_12",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        134.4,
+        391.6,
+        348.2,
+        406.1
+      ],
+      "ocr_label": "",
+      "label": "ชื่อ-สกุล (ภาษาอังกฤษ)",
+      "name_en": "full_name_en",
+      "description": "ชื่อ-นามสกุลเป็นภาษาอังกฤษ"
+    },
+    {
+      "field_name": "p1_uline_13",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        366.8,
+        391.6,
+        396.0,
+        406.1
+      ],
+      "ocr_label": "",
+      "label": "อายุ (ปี)",
+      "name_en": "age_years",
+      "description": "อายุของผู้สมัคร (ปี)"
+    },
+    {
+      "field_name": "p1_uline_14",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        436.1,
+        391.6,
+        465.3,
+        406.1
+      ],
+      "ocr_label": "",
+      "label": "ส่วนสูง (ซม.)",
+      "name_en": "height_cm",
+      "description": "ส่วนสูงของผู้สมัคร (เซนติเมตร)"
+    },
+    {
+      "field_name": "p1_uline_15",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        515.6,
+        391.6,
+        547.9,
+        406.1
+      ],
+      "ocr_label": "",
+      "label": "น้ำหนัก (กก.)",
+      "name_en": "weight_kg",
+      "description": "น้ำหนักของผู้สมัคร (กิโลกรัม)"
+    },
+    {
+      "field_name": "p1_uline_16",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        72.6,
+        411.3,
+        140.7,
+        425.8
+      ],
+      "ocr_label": "",
+      "label": "สัญชาติ",
+      "name_en": "nationality",
+      "description": "สัญชาติของผู้สมัคร"
+    },
+    {
+      "field_name": "p1_uline_17",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        171.4,
+        411.3,
+        245.9,
+        425.8
+      ],
+      "ocr_label": "",
+      "label": "ศาสนา",
+      "name_en": "religion",
+      "description": "ศาสนาของผู้สมัคร"
+    },
+    {
+      "field_name": "p1_uline_18",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        323.0,
+        411.3,
+        446.0,
+        425.8
+      ],
+      "ocr_label": "",
+      "label": "บัตรประชาชนเลขที่",
+      "name_en": "national_id",
+      "description": "เลขบัตรประชาชน 13 หลัก"
+    },
+    {
+      "field_name": "p1_uline_19",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        491.9,
+        411.3,
+        559.8,
+        425.8
+      ],
+      "ocr_label": "",
+      "label": "วันหมดอายุบัตร",
+      "name_en": "id_expiry_date",
+      "description": "วันหมดอายุของบัตรประชาชน"
+    },
+    {
+      "field_name": "p1_uline_20",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        96.5,
+        430.8,
+        245.6,
+        445.3
+      ],
+      "ocr_label": "",
+      "label": "ที่อยู่ปัจจุบัน",
+      "name_en": "current_address",
+      "description": "ที่อยู่ปัจจุบันของผู้สมัคร"
+    },
+    {
+      "field_name": "p1_uline_21",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        299.6,
+        430.8,
+        416.2,
+        445.3
+      ],
+      "ocr_label": "",
+      "label": "ตำบล/แขวง (ที่อยู่ปัจจุบัน)",
+      "name_en": "current_subdistrict",
+      "description": "ตำบล/แขวง ของที่อยู่ปัจจุบัน"
+    },
+    {
+      "field_name": "p1_uline_22",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        463.8,
+        430.8,
+        561.1,
+        445.3
+      ],
+      "ocr_label": "",
+      "label": "อำเภอ/เขต (ที่อยู่ปัจจุบัน)",
+      "name_en": "current_district",
+      "description": "อำเภอ/เขต ของที่อยู่ปัจจุบัน"
+    },
+    {
+      "field_name": "p1_uline_23",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        66.7,
+        450.5,
+        245.0,
+        465.0
+      ],
+      "ocr_label": "",
+      "label": "จังหวัด (ที่อยู่ปัจจุบัน)",
+      "name_en": "current_province",
+      "description": "จังหวัดของที่อยู่ปัจจุบัน"
+    },
+    {
+      "field_name": "p1_cb_1_ใช้ที่อยู่ตามที่อยู่ปัจจุบัน",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        143.6,
+        470.7,
+        150.6,
+        484.0
+      ],
+      "ocr_label": "ใช้ที่อยู่ตามที่อยู่ปัจจุบัน",
+      "label": "ใช้ที่อยู่ตามที่อยู่ปัจจุบัน",
+      "name_en": "same_as_current_address",
+      "description": "เลือกหากที่อยู่ตามบัตรประชาชนเหมือนที่อยู่ปัจจุบัน"
+    },
+    {
+      "field_name": "p1_uline_24",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        139.1,
+        489.9,
+        268.7,
+        504.4
+      ],
+      "ocr_label": "",
+      "label": "ที่อยู่ตามบัตรประชาชน",
+      "name_en": "id_card_address",
+      "description": "ที่อยู่ตามบัตรประชาชน"
+    },
+    {
+      "field_name": "p1_uline_25",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        322.9,
+        489.9,
+        423.2,
+        504.4
+      ],
+      "ocr_label": "",
+      "label": "ตำบล/แขวง (ตามบัตร)",
+      "name_en": "id_subdistrict",
+      "description": "ตำบล/แขวง ตามบัตรประชาชน"
+    },
+    {
+      "field_name": "p1_uline_26",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        470.7,
+        489.9,
+        561.6,
+        504.4
+      ],
+      "ocr_label": "",
+      "label": "อำเภอ/เขต (ตามบัตร)",
+      "name_en": "id_district",
+      "description": "อำเภอ/เขต ตามบัตรประชาชน"
+    },
+    {
+      "field_name": "p1_uline_27",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        66.7,
+        509.5,
+        267.6,
+        524.0
+      ],
+      "ocr_label": "",
+      "label": "จังหวัด (ตามบัตร)",
+      "name_en": "id_province",
+      "description": "จังหวัดตามบัตรประชาชน"
+    },
+    {
+      "field_name": "p1_cb_2_อาศัยกับครอบครัวตัวเอง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        130.3,
+        529.7,
+        137.3,
+        543.0
+      ],
+      "ocr_label": "อาศัยกับครอบครัวตัวเอง",
+      "label": "อาศัยกับครอบครัวตัวเอง",
+      "name_en": "housing_own_family",
+      "description": "เลือกหากอาศัยกับครอบครัวตัวเอง"
+    },
+    {
+      "field_name": "p1_cb_3_บ้านเช่า_□_หอพัก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        258.5,
+        529.7,
+        265.5,
+        543.0
+      ],
+      "ocr_label": "บ้านเช่า □ หอพัก",
+      "label": "บ้านเช่า",
+      "name_en": "housing_rented",
+      "description": "เลือกหากอาศัยบ้านเช่า"
+    },
+    {
+      "field_name": "p1_cb_4_หอพัก_□_อื่นๆ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        330.5,
+        529.7,
+        337.5,
+        543.0
+      ],
+      "ocr_label": "หอพัก □ อื่นๆ",
+      "label": "หอพัก",
+      "name_en": "housing_dormitory",
+      "description": "เลือกหากอาศัยหอพัก"
+    },
+    {
+      "field_name": "p1_cb_5_อื่นๆ_ระบุ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        396.0,
+        529.7,
+        403.0,
+        543.0
+      ],
+      "ocr_label": "อื่นๆ ระบุ",
+      "label": "อื่นๆ (ที่พักอาศัย)",
+      "name_en": "housing_other",
+      "description": "เลือกหากที่พักอาศัยเป็นประเภทอื่น"
+    },
+    {
+      "field_name": "p1_uline_28",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        444.8,
+        529.1,
+        561.3,
+        543.6
+      ],
+      "ocr_label": "",
+      "label": "ระบุที่พักอาศัยอื่นๆ",
+      "name_en": "housing_other_detail",
+      "description": "ระบุรายละเอียดที่พักอาศัยอื่นๆ"
+    },
+    {
+      "field_name": "p1_uline_29",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        121.8,
+        548.8,
+        228.6,
+        563.3
+      ],
+      "ocr_label": "",
+      "label": "โทรศัพท์ที่ติดต่อได้",
+      "name_en": "phone_number",
+      "description": "หมายเลขโทรศัพท์ที่ติดต่อได้"
+    },
+    {
+      "field_name": "p1_uline_30",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        307.6,
+        548.8,
+        391.9,
+        563.3
+      ],
+      "ocr_label": "",
+      "label": "ID LINE",
+      "name_en": "line_id",
+      "description": "ไอดีไลน์ของผู้สมัคร"
+    },
+    {
+      "field_name": "p1_uline_31",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        451.4,
+        548.8,
+        555.1,
+        563.3
+      ],
+      "ocr_label": "",
+      "label": "E-mail",
+      "name_en": "email",
+      "description": "อีเมลของผู้สมัคร"
+    },
+    {
+      "field_name": "p1_cb_6_โสด_□_สมรส",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        118.9,
+        569.0,
+        125.9,
+        582.3
+      ],
+      "ocr_label": "โสด □ สมรส",
+      "label": "โสด",
+      "name_en": "status_single",
+      "description": "เลือกหากสถานภาพโสด"
+    },
+    {
+      "field_name": "p1_cb_7_สมรส_□_หย่า",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        185.1,
+        569.0,
+        192.1,
+        582.3
+      ],
+      "ocr_label": "สมรส □ หย่า",
+      "label": "สมรส",
+      "name_en": "status_married",
+      "description": "เลือกหากสถานภาพสมรส"
+    },
+    {
+      "field_name": "p1_cb_8_หย่า_□_หม้าย",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        258.6,
+        569.0,
+        265.6,
+        582.3
+      ],
+      "ocr_label": "หย่า □ หม้าย",
+      "label": "หย่า",
+      "name_en": "status_divorced",
+      "description": "เลือกหากสถานภาพหย่า"
+    },
+    {
+      "field_name": "p1_cb_9_หม้าย",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        320.0,
+        569.0,
+        327.0,
+        582.3
+      ],
+      "ocr_label": "หม้าย",
+      "label": "หม้าย",
+      "name_en": "status_widowed",
+      "description": "เลือกหากสถานภาพหม้าย"
+    },
+    {
+      "field_name": "p1_uline_32",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        97.6,
+        626.8,
+        243.3,
+        641.3
+      ],
+      "ocr_label": "",
+      "label": "บิดา ชื่อ-สกุล",
+      "name_en": "father_name",
+      "description": "ชื่อ-นามสกุลบิดา"
+    },
+    {
+      "field_name": "p1_uline_33",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        262.7,
+        626.8,
+        285.4,
+        641.3
+      ],
+      "ocr_label": "",
+      "label": "บิดา อายุ (ปี)",
+      "name_en": "father_age",
+      "description": "อายุบิดา (ปี)"
+    },
+    {
+      "field_name": "p1_uline_34",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        352.4,
+        626.8,
+        439.8,
+        641.3
+      ],
+      "ocr_label": "",
+      "label": "บิดา เบอร์โทรศัพท์",
+      "name_en": "father_phone",
+      "description": "เบอร์โทรศัพท์บิดา"
+    },
+    {
+      "field_name": "p1_uline_35",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        466.1,
+        626.8,
+        559.9,
+        641.3
+      ],
+      "ocr_label": "",
+      "label": "บิดา อาชีพ",
+      "name_en": "father_occupation",
+      "description": "อาชีพบิดา"
+    },
+    {
+      "field_name": "p1_uline_36",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        106.7,
+        649.5,
+        245.9,
+        664.0
+      ],
+      "ocr_label": "",
+      "label": "มารดา ชื่อ-สกุล",
+      "name_en": "mother_name",
+      "description": "ชื่อ-นามสกุลมารดา"
+    },
+    {
+      "field_name": "p1_uline_37",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        265.4,
+        649.5,
+        288.0,
+        664.0
+      ],
+      "ocr_label": "",
+      "label": "มารดา อายุ (ปี)",
+      "name_en": "mother_age",
+      "description": "อายุมารดา (ปี)"
+    },
+    {
+      "field_name": "p1_uline_38",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        355.0,
+        649.5,
+        439.1,
+        664.0
+      ],
+      "ocr_label": "",
+      "label": "มารดา เบอร์โทรศัพท์",
+      "name_en": "mother_phone",
+      "description": "เบอร์โทรศัพท์มารดา"
+    },
+    {
+      "field_name": "p1_uline_39",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        465.5,
+        649.5,
+        559.3,
+        664.0
+      ],
+      "ocr_label": "",
+      "label": "มารดา อาชีพ",
+      "name_en": "mother_occupation",
+      "description": "อาชีพมารดา"
+    },
+    {
+      "field_name": "p1_uline_40",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        108.6,
+        672.1,
+        247.8,
+        686.6
+      ],
+      "ocr_label": "",
+      "label": "คู่สมรส ชื่อ-สกุล",
+      "name_en": "spouse_name",
+      "description": "ชื่อ-นามสกุลคู่สมรส"
+    },
+    {
+      "field_name": "p1_uline_41",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        267.3,
+        672.1,
+        290.0,
+        686.6
+      ],
+      "ocr_label": "",
+      "label": "คู่สมรส อายุ (ปี)",
+      "name_en": "spouse_age",
+      "description": "อายุคู่สมรส (ปี)"
+    },
+    {
+      "field_name": "p1_uline_42",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        357.0,
+        672.1,
+        441.1,
+        686.6
+      ],
+      "ocr_label": "",
+      "label": "คู่สมรส เบอร์โทรศัพท์",
+      "name_en": "spouse_phone",
+      "description": "เบอร์โทรศัพท์คู่สมรส"
+    },
+    {
+      "field_name": "p1_uline_43",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        467.4,
+        672.1,
+        561.2,
+        686.6
+      ],
+      "ocr_label": "",
+      "label": "คู่สมรส อาชีพ",
+      "name_en": "spouse_occupation",
+      "description": "อาชีพคู่สมรส"
+    },
+    {
+      "field_name": "p1_uline_44",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        147.6,
+        694.6,
+        163.7,
+        709.1
+      ],
+      "ocr_label": "",
+      "label": "พี่น้องทั้งหมด (คน)",
+      "name_en": "total_siblings",
+      "description": "จำนวนพี่น้องทั้งหมด (คน)"
+    },
+    {
+      "field_name": "p1_uline_45",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        234.4,
+        694.6,
+        257.1,
+        709.1
+      ],
+      "ocr_label": "",
+      "label": "ท่านเป็นคนที่",
+      "name_en": "birth_order",
+      "description": "ลำดับที่ของผู้สมัครในพี่น้อง"
+    },
+    {
+      "field_name": "p1_cb_10_ไม่มี_□_มี",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        142.0,
+        717.8,
+        149.0,
+        731.2
+      ],
+      "ocr_label": "ไม่มี □ มี",
+      "label": "ไม่มีบุตร",
+      "name_en": "no_children",
+      "description": "เลือกหากไม่มีบุตร"
+    },
+    {
+      "field_name": "p1_cb_11_มี_จำนวน_คน",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        182.2,
+        717.8,
+        189.2,
+        731.2
+      ],
+      "ocr_label": "มี จำนวน คน",
+      "label": "มีบุตร",
+      "name_en": "has_children",
+      "description": "เลือกหากมีบุตร"
+    },
+    {
+      "field_name": "p1_uline_46",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        236.7,
+        717.3,
+        259.4,
+        731.8
+      ],
+      "ocr_label": "",
+      "label": "จำนวนบุตร (คน)",
+      "name_en": "number_of_children",
+      "description": "จำนวนบุตรทั้งหมด (คน)"
+    },
+    {
+      "field_name": "p1_uline_47",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        119.3,
+        739.9,
+        290.9,
+        754.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 ชื่อ-สกุล",
+      "name_en": "child1_name",
+      "description": "ชื่อ-นามสกุลบุตรคนที่ 1"
+    },
+    {
+      "field_name": "p1_uline_48",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        355.9,
+        739.9,
+        372.1,
+        754.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 วันเกิด (วัน)",
+      "name_en": "child1_birth_day",
+      "description": "วันเกิดบุตรคนที่ 1 (วัน)"
+    },
+    {
+      "field_name": "p1_uline_49",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        376.1,
+        739.9,
+        392.4,
+        754.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 วันเกิด (เดือน)",
+      "name_en": "child1_birth_month",
+      "description": "วันเกิดบุตรคนที่ 1 (เดือน)"
+    },
+    {
+      "field_name": "p1_uline_50",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        396.4,
+        739.9,
+        412.5,
+        754.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 วันเกิด (ปี)",
+      "name_en": "child1_birth_year",
+      "description": "วันเกิดบุตรคนที่ 1 (ปี)"
+    },
+    {
+      "field_name": "p1_uline_51",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        432.0,
+        739.9,
+        454.7,
+        754.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 อายุ (ปี)",
+      "name_en": "child1_age",
+      "description": "อายุบุตรคนที่ 1 (ปี)"
+    },
+    {
+      "field_name": "p1_cb_12_ชาย_□_หญิง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        490.7,
+        740.4,
+        497.7,
+        753.7
+      ],
+      "ocr_label": "ชาย □ หญิง",
+      "label": "บุตรคนที่ 1 เพศชาย",
+      "name_en": "child1_male",
+      "description": "เลือกหากบุตรคนที่ 1 เป็นเพศชาย"
+    },
+    {
+      "field_name": "p1_cb_13_หญิง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        531.4,
+        740.4,
+        538.4,
+        753.7
+      ],
+      "ocr_label": "หญิง",
+      "label": "บุตรคนที่ 1 เพศหญิง",
+      "name_en": "child1_female",
+      "description": "เลือกหากบุตรคนที่ 1 เป็นเพศหญิง"
+    },
+    {
+      "field_name": "p1_uline_52",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        119.3,
+        762.4,
+        294.2,
+        776.9
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 ชื่อ-สกุล",
+      "name_en": "child2_name",
+      "description": "ชื่อ-นามสกุลบุตรคนที่ 2"
+    },
+    {
+      "field_name": "p1_uline_53",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        355.9,
+        762.4,
+        372.1,
+        776.9
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 วันเกิด (วัน)",
+      "name_en": "child2_birth_day",
+      "description": "วันเกิดบุตรคนที่ 2 (วัน)"
+    },
+    {
+      "field_name": "p1_uline_54",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        376.1,
+        762.4,
+        392.4,
+        776.9
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 วันเกิด (เดือน)",
+      "name_en": "child2_birth_month",
+      "description": "วันเกิดบุตรคนที่ 2 (เดือน)"
+    },
+    {
+      "field_name": "p1_uline_55",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        396.4,
+        762.4,
+        412.5,
+        776.9
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 วันเกิด (ปี)",
+      "name_en": "child2_birth_year",
+      "description": "วันเกิดบุตรคนที่ 2 (ปี)"
+    },
+    {
+      "field_name": "p1_uline_56",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        432.0,
+        762.4,
+        454.7,
+        776.9
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 อายุ (ปี)",
+      "name_en": "child2_age",
+      "description": "อายุบุตรคนที่ 2 (ปี)"
+    },
+    {
+      "field_name": "p1_cb_14_ชาย_□_หญิง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        490.7,
+        763.0,
+        497.7,
+        776.3
+      ],
+      "ocr_label": "ชาย □ หญิง",
+      "label": "บุตรคนที่ 2 เพศชาย",
+      "name_en": "child2_male",
+      "description": "เลือกหากบุตรคนที่ 2 เป็นเพศชาย"
+    },
+    {
+      "field_name": "p1_cb_15_หญิง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        531.4,
+        763.0,
+        538.4,
+        776.3
+      ],
+      "ocr_label": "หญิง",
+      "label": "บุตรคนที่ 2 เพศหญิง",
+      "name_en": "child2_female",
+      "description": "เลือกหากบุตรคนที่ 2 เป็นเพศหญิง"
+    },
+    {
+      "field_name": "p1_uline_57",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        119.3,
+        785.1,
+        294.2,
+        799.6
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 ชื่อ-สกุล",
+      "name_en": "child3_name",
+      "description": "ชื่อ-นามสกุลบุตรคนที่ 3"
+    },
+    {
+      "field_name": "p1_uline_58",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        355.9,
+        785.1,
+        372.1,
+        799.6
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 วันเกิด (วัน)",
+      "name_en": "child3_birth_day",
+      "description": "วันเกิดบุตรคนที่ 3 (วัน)"
+    },
+    {
+      "field_name": "p1_uline_59",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        376.1,
+        785.1,
+        392.4,
+        799.6
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 วันเกิด (เดือน)",
+      "name_en": "child3_birth_month",
+      "description": "วันเกิดบุตรคนที่ 3 (เดือน)"
+    },
+    {
+      "field_name": "p1_uline_60",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        396.4,
+        785.1,
+        412.5,
+        799.6
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 วันเกิด (ปี)",
+      "name_en": "child3_birth_year",
+      "description": "วันเกิดบุตรคนที่ 3 (ปี)"
+    },
+    {
+      "field_name": "p1_uline_61",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        432.0,
+        785.1,
+        454.7,
+        799.6
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 อายุ (ปี)",
+      "name_en": "child3_age",
+      "description": "อายุบุตรคนที่ 3 (ปี)"
+    },
+    {
+      "field_name": "p1_cb_16_ชาย_□_หญิง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        490.7,
+        785.6,
+        497.7,
+        799.0
+      ],
+      "ocr_label": "ชาย □ หญิง",
+      "label": "บุตรคนที่ 3 เพศชาย",
+      "name_en": "child3_male",
+      "description": "เลือกหากบุตรคนที่ 3 เป็นเพศชาย"
+    },
+    {
+      "field_name": "p1_cb_17_หญิง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        531.4,
+        785.6,
+        538.4,
+        799.0
+      ],
+      "ocr_label": "หญิง",
+      "label": "บุตรคนที่ 3 เพศหญิง",
+      "name_en": "child3_female",
+      "description": "เลือกหากบุตรคนที่ 3 เป็นเพศหญิง"
+    },
+    {
+      "field_name": "p2_field_1",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        146.4,
+        191.4,
+        248.5,
+        205.6
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนต้น - สถาบันการศึกษา",
+      "name_en": "edu_lower_secondary_institution",
+      "description": "ชื่อสถาบันการศึกษา ระดับมัธยมศึกษาตอนต้น"
+    },
+    {
+      "field_name": "p2_field_2",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        260.5,
+        191.4,
+        333.2,
+        205.6
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนต้น - คณะ",
+      "name_en": "edu_lower_secondary_faculty",
+      "description": "คณะที่ศึกษา ระดับมัธยมศึกษาตอนต้น"
+    },
+    {
+      "field_name": "p2_field_3",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        345.2,
+        191.4,
+        417.9,
+        205.6
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนต้น - สาขาวิชา",
+      "name_en": "edu_lower_secondary_major",
+      "description": "สาขาวิชาที่ศึกษา ระดับมัธยมศึกษาตอนต้น"
+    },
+    {
+      "field_name": "p2_field_4",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        435.2,
+        191.4,
+        469.3,
+        205.6
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนต้น - ปีเริ่มการศึกษา",
+      "name_en": "edu_lower_secondary_year_start",
+      "description": "ปีที่เริ่มศึกษา (พ.ศ.) ระดับมัธยมศึกษาตอนต้น"
+    },
+    {
+      "field_name": "p2_field_5",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        492.0,
+        191.4,
+        526.0,
+        205.6
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนต้น - ปีจบการศึกษา",
+      "name_en": "edu_lower_secondary_year_end",
+      "description": "ปีที่จบการศึกษา (พ.ศ.) ระดับมัธยมศึกษาตอนต้น"
+    },
+    {
+      "field_name": "p2_field_6",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        546.0,
+        191.4,
+        564.2,
+        205.6
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนต้น - เกรดเฉลี่ย",
+      "name_en": "edu_lower_secondary_gpa",
+      "description": "เกรดเฉลี่ยสะสม ระดับมัธยมศึกษาตอนต้น"
+    },
+    {
+      "field_name": "p2_field_7",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        146.4,
+        231.2,
+        248.5,
+        245.5
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนปลาย/ปวช. - สถาบันการศึกษา",
+      "name_en": "edu_upper_secondary_institution",
+      "description": "ชื่อสถาบันการศึกษา ระดับมัธยมศึกษาตอนปลาย/ปวช."
+    },
+    {
+      "field_name": "p2_field_8",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        260.5,
+        231.2,
+        333.2,
+        245.5
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนปลาย/ปวช. - คณะ",
+      "name_en": "edu_upper_secondary_faculty",
+      "description": "คณะที่ศึกษา ระดับมัธยมศึกษาตอนปลาย/ปวช."
+    },
+    {
+      "field_name": "p2_field_9",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        345.2,
+        231.2,
+        417.9,
+        245.5
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนปลาย/ปวช. - สาขาวิชา",
+      "name_en": "edu_upper_secondary_major",
+      "description": "สาขาวิชาที่ศึกษา ระดับมัธยมศึกษาตอนปลาย/ปวช."
+    },
+    {
+      "field_name": "p2_field_10",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        435.2,
+        231.2,
+        469.3,
+        245.5
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนปลาย/ปวช. - ปีเริ่มการศึกษา",
+      "name_en": "edu_upper_secondary_year_start",
+      "description": "ปีที่เริ่มศึกษา (พ.ศ.) ระดับมัธยมศึกษาตอนปลาย/ปวช."
+    },
+    {
+      "field_name": "p2_field_11",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        492.0,
+        231.2,
+        526.0,
+        245.5
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนปลาย/ปวช. - ปีจบการศึกษา",
+      "name_en": "edu_upper_secondary_year_end",
+      "description": "ปีที่จบการศึกษา (พ.ศ.) ระดับมัธยมศึกษาตอนปลาย/ปวช."
+    },
+    {
+      "field_name": "p2_field_12",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        546.0,
+        231.2,
+        564.2,
+        245.5
+      ],
+      "ocr_label": "",
+      "label": "มัธยมศึกษาตอนปลาย/ปวช. - เกรดเฉลี่ย",
+      "name_en": "edu_upper_secondary_gpa",
+      "description": "เกรดเฉลี่ยสะสม ระดับมัธยมศึกษาตอนปลาย/ปวช."
+    },
+    {
+      "field_name": "p2_field_13",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        146.4,
+        269.4,
+        248.5,
+        283.6
+      ],
+      "ocr_label": "",
+      "label": "อนุปริญญาตรี/ปวท./ปวส. - สถาบันการศึกษา",
+      "name_en": "edu_associate_institution",
+      "description": "ชื่อสถาบันการศึกษา ระดับอนุปริญญาตรี/ปวท./ปวส."
+    },
+    {
+      "field_name": "p2_field_14",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        260.5,
+        269.4,
+        333.2,
+        283.6
+      ],
+      "ocr_label": "",
+      "label": "อนุปริญญาตรี/ปวท./ปวส. - คณะ",
+      "name_en": "edu_associate_faculty",
+      "description": "คณะที่ศึกษา ระดับอนุปริญญาตรี/ปวท./ปวส."
+    },
+    {
+      "field_name": "p2_field_15",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        345.2,
+        269.4,
+        417.9,
+        283.6
+      ],
+      "ocr_label": "",
+      "label": "อนุปริญญาตรี/ปวท./ปวส. - สาขาวิชา",
+      "name_en": "edu_associate_major",
+      "description": "สาขาวิชาที่ศึกษา ระดับอนุปริญญาตรี/ปวท./ปวส."
+    },
+    {
+      "field_name": "p2_field_16",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        435.2,
+        269.4,
+        469.3,
+        283.6
+      ],
+      "ocr_label": "",
+      "label": "อนุปริญญาตรี/ปวท./ปวส. - ปีเริ่มการศึกษา",
+      "name_en": "edu_associate_year_start",
+      "description": "ปีที่เริ่มศึกษา (พ.ศ.) ระดับอนุปริญญาตรี/ปวท./ปวส."
+    },
+    {
+      "field_name": "p2_field_17",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        492.0,
+        269.4,
+        526.0,
+        283.6
+      ],
+      "ocr_label": "",
+      "label": "อนุปริญญาตรี/ปวท./ปวส. - ปีจบการศึกษา",
+      "name_en": "edu_associate_year_end",
+      "description": "ปีที่จบการศึกษา (พ.ศ.) ระดับอนุปริญญาตรี/ปวท./ปวส."
+    },
+    {
+      "field_name": "p2_field_18",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        546.0,
+        269.4,
+        564.2,
+        283.6
+      ],
+      "ocr_label": "",
+      "label": "อนุปริญญาตรี/ปวท./ปวส. - เกรดเฉลี่ย",
+      "name_en": "edu_associate_gpa",
+      "description": "เกรดเฉลี่ยสะสม ระดับอนุปริญญาตรี/ปวท./ปวส."
+    },
+    {
+      "field_name": "p2_field_19",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        146.4,
+        305.3,
+        248.5,
+        319.5
+      ],
+      "ocr_label": "ปริญญาตร ี",
+      "label": "ปริญญาตรี - สถาบันการศึกษา",
+      "name_en": "edu_bachelor_institution",
+      "description": "ชื่อสถาบันการศึกษา ระดับปริญญาตรี"
+    },
+    {
+      "field_name": "p2_field_20",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        260.5,
+        305.3,
+        333.2,
+        319.5
+      ],
+      "ocr_label": "",
+      "label": "ปริญญาตรี - คณะ",
+      "name_en": "edu_bachelor_faculty",
+      "description": "คณะที่ศึกษา ระดับปริญญาตรี"
+    },
+    {
+      "field_name": "p2_field_21",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        345.2,
+        305.3,
+        417.9,
+        319.5
+      ],
+      "ocr_label": "",
+      "label": "ปริญญาตรี - สาขาวิชา",
+      "name_en": "edu_bachelor_major",
+      "description": "สาขาวิชาที่ศึกษา ระดับปริญญาตรี"
+    },
+    {
+      "field_name": "p2_field_22",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        435.2,
+        305.3,
+        469.3,
+        319.5
+      ],
+      "ocr_label": "",
+      "label": "ปริญญาตรี - ปีเริ่มการศึกษา",
+      "name_en": "edu_bachelor_year_start",
+      "description": "ปีที่เริ่มศึกษา (พ.ศ.) ระดับปริญญาตรี"
+    },
+    {
+      "field_name": "p2_field_23",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        492.0,
+        305.3,
+        526.0,
+        319.5
+      ],
+      "ocr_label": "",
+      "label": "ปริญญาตรี - ปีจบการศึกษา",
+      "name_en": "edu_bachelor_year_end",
+      "description": "ปีที่จบการศึกษา (พ.ศ.) ระดับปริญญาตรี"
+    },
+    {
+      "field_name": "p2_field_24",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        546.0,
+        305.3,
+        564.2,
+        319.5
+      ],
+      "ocr_label": "",
+      "label": "ปริญญาตรี - เกรดเฉลี่ย",
+      "name_en": "edu_bachelor_gpa",
+      "description": "เกรดเฉลี่ยสะสม ระดับปริญญาตรี"
+    },
+    {
+      "field_name": "p2_field_25",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        146.4,
+        338.9,
+        248.5,
+        353.1
+      ],
+      "ocr_label": "",
+      "label": "การศึกษาสูงสุด (ปริญญาโทขึ้นไป) - สถาบันการศึกษา",
+      "name_en": "edu_highest_institution",
+      "description": "ชื่อสถาบันการศึกษา ระดับการศึกษาสูงสุด (ปริญญาโทขึ้นไป)"
+    },
+    {
+      "field_name": "p2_field_26",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        260.5,
+        338.9,
+        333.2,
+        353.1
+      ],
+      "ocr_label": "",
+      "label": "การศึกษาสูงสุด (ปริญญาโทขึ้นไป) - คณะ",
+      "name_en": "edu_highest_faculty",
+      "description": "คณะที่ศึกษา ระดับการศึกษาสูงสุด (ปริญญาโทขึ้นไป)"
+    },
+    {
+      "field_name": "p2_field_27",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        345.2,
+        338.9,
+        417.9,
+        353.1
+      ],
+      "ocr_label": "",
+      "label": "การศึกษาสูงสุด (ปริญญาโทขึ้นไป) - สาขาวิชา",
+      "name_en": "edu_highest_major",
+      "description": "สาขาวิชาที่ศึกษา ระดับการศึกษาสูงสุด (ปริญญาโทขึ้นไป)"
+    },
+    {
+      "field_name": "p2_field_28",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        435.2,
+        338.9,
+        469.3,
+        353.1
+      ],
+      "ocr_label": "",
+      "label": "การศึกษาสูงสุด (ปริญญาโทขึ้นไป) - ปีเริ่มการศึกษา",
+      "name_en": "edu_highest_year_start",
+      "description": "ปีที่เริ่มศึกษา (พ.ศ.) ระดับการศึกษาสูงสุด (ปริญญาโทขึ้นไป)"
+    },
+    {
+      "field_name": "p2_field_29",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        492.0,
+        338.9,
+        526.0,
+        353.1
+      ],
+      "ocr_label": "",
+      "label": "การศึกษาสูงสุด (ปริญญาโทขึ้นไป) - ปีจบการศึกษา",
+      "name_en": "edu_highest_year_end",
+      "description": "ปีที่จบการศึกษา (พ.ศ.) ระดับการศึกษาสูงสุด (ปริญญาโทขึ้นไป)"
+    },
+    {
+      "field_name": "p2_field_30",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        546.0,
+        338.9,
+        564.2,
+        353.1
+      ],
+      "ocr_label": "",
+      "label": "การศึกษาสูงสุด (ปริญญาโทขึ้นไป) - เกรดเฉลี่ย",
+      "name_en": "edu_highest_gpa",
+      "description": "เกรดเฉลี่ยสะสม ระดับการศึกษาสูงสุด (ปริญญาโทขึ้นไป)"
+    },
+    {
+      "field_name": "p2_cb_18_ดี_□_ปานกลาง",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        151.6,
+        397.2,
+        158.6,
+        410.5
+      ],
+      "ocr_label": "ดี □ ปานกลาง",
+      "label": "ภาษาอังกฤษ ดี",
+      "name_en": "english_good",
+      "description": "เลือกหากความสามารถภาษาอังกฤษอยู่ในระดับดี"
+    },
+    {
+      "field_name": "p2_cb_19_ปานกลาง_□_ใช้ภาษาได้อย่างคล่อง",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        187.6,
+        397.2,
+        194.6,
+        410.5
+      ],
+      "ocr_label": "ปานกลาง □ ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "label": "ภาษาอังกฤษ ปานกลาง",
+      "name_en": "english_fair",
+      "description": "เลือกหากความสามารถภาษาอังกฤษอยู่ในระดับปานกลาง"
+    },
+    {
+      "field_name": "p2_cb_20_ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        259.6,
+        397.2,
+        266.6,
+        410.5
+      ],
+      "ocr_label": "ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "label": "ภาษาอังกฤษ คล่องแคล่ว",
+      "name_en": "english_fluent",
+      "description": "เลือกหากใช้ภาษาอังกฤษได้อย่างคล่องแคล่ว"
+    },
+    {
+      "field_name": "p2_cb_21_ใช้เป็นภาษาแม่ในชีวิตประจำ",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        403.7,
+        397.2,
+        410.7,
+        410.5
+      ],
+      "ocr_label": "ใช้เป็นภาษาแม่ในชีวิตประจำ",
+      "label": "ภาษาอังกฤษ ภาษาแม่",
+      "name_en": "english_native",
+      "description": "เลือกหากใช้ภาษาอังกฤษเป็นภาษาแม่"
+    },
+    {
+      "field_name": "p2_cb_22_ดี_□_ปานกลาง",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        151.6,
+        416.7,
+        158.6,
+        430.0
+      ],
+      "ocr_label": "ดี □ ปานกลาง",
+      "label": "ภาษาจีน ดี",
+      "name_en": "chinese_good",
+      "description": "เลือกหากความสามารถภาษาจีนอยู่ในระดับดี"
+    },
+    {
+      "field_name": "p2_cb_23_ปานกลาง_□_ใช้ภาษาได้อย่างคล่อง",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        187.6,
+        416.7,
+        194.6,
+        430.0
+      ],
+      "ocr_label": "ปานกลาง □ ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "label": "ภาษาจีน ปานกลาง",
+      "name_en": "chinese_fair",
+      "description": "เลือกหากความสามารถภาษาจีนอยู่ในระดับปานกลาง"
+    },
+    {
+      "field_name": "p2_cb_24_ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        259.6,
+        416.7,
+        266.6,
+        430.0
+      ],
+      "ocr_label": "ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "label": "ภาษาจีน คล่องแคล่ว",
+      "name_en": "chinese_fluent",
+      "description": "เลือกหากใช้ภาษาจีนได้อย่างคล่องแคล่ว"
+    },
+    {
+      "field_name": "p2_cb_25_ใช้เป็นภาษาแม่ในชีวิตประจำ",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        403.7,
+        416.7,
+        410.7,
+        430.0
+      ],
+      "ocr_label": "ใช้เป็นภาษาแม่ในชีวิตประจำ",
+      "label": "ภาษาจีน ภาษาแม่",
+      "name_en": "chinese_native",
+      "description": "เลือกหากใช้ภาษาจีนเป็นภาษาแม่"
+    },
+    {
+      "field_name": "p2_uline_1",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        65.1,
+        435.9,
+        114.6,
+        450.4
+      ],
+      "ocr_label": "",
+      "label": "ภาษาอื่น (ระบุ)",
+      "name_en": "other_language_name",
+      "description": "ชื่อภาษาอื่นที่มีความสามารถ"
+    },
+    {
+      "field_name": "p2_cb_26_ดี_□_ปานกลาง",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        151.6,
+        436.4,
+        158.6,
+        449.7
+      ],
+      "ocr_label": "ดี □ ปานกลาง",
+      "label": "ภาษาอื่น ดี",
+      "name_en": "other_lang_good",
+      "description": "เลือกหากความสามารถภาษาอื่นอยู่ในระดับดี"
+    },
+    {
+      "field_name": "p2_cb_27_ปานกลาง_□_ใช้ภาษาได้อย่างคล่อง",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        187.6,
+        436.4,
+        194.6,
+        449.7
+      ],
+      "ocr_label": "ปานกลาง □ ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "label": "ภาษาอื่น ปานกลาง",
+      "name_en": "other_lang_fair",
+      "description": "เลือกหากความสามารถภาษาอื่นอยู่ในระดับปานกลาง"
+    },
+    {
+      "field_name": "p2_cb_28_ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        259.6,
+        436.4,
+        266.6,
+        449.7
+      ],
+      "ocr_label": "ใช้ภาษาได้อย่างคล่องแคล่ว",
+      "label": "ภาษาอื่น คล่องแคล่ว",
+      "name_en": "other_lang_fluent",
+      "description": "เลือกหากใช้ภาษาอื่นได้อย่างคล่องแคล่ว"
+    },
+    {
+      "field_name": "p2_cb_29_ใช้เป็นภาษาแม่ในชีวิตประจำ",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        403.7,
+        436.4,
+        410.7,
+        449.7
+      ],
+      "ocr_label": "ใช้เป็นภาษาแม่ในชีวิตประจำ",
+      "label": "ภาษาอื่น ภาษาแม่",
+      "name_en": "other_lang_native",
+      "description": "เลือกหากใช้ภาษาอื่นเป็นภาษาแม่"
+    },
+    {
+      "field_name": "p2_uline_2",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        187.5,
+        478.1,
+        307.4,
+        492.6
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 1 - หลักสูตร/เรื่องการอบรม",
+      "name_en": "training1_course",
+      "description": "ชื่อหลักสูตรหรือเรื่องที่อบรม (การอบรมลำดับที่ 1)"
+    },
+    {
+      "field_name": "p2_uline_3",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        348.4,
+        478.1,
+        442.9,
+        492.6
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 1 - สถาบัน",
+      "name_en": "training1_institution",
+      "description": "ชื่อสถาบันที่จัดอบรม (การอบรมลำดับที่ 1)"
+    },
+    {
+      "field_name": "p2_uline_4",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        517.9,
+        478.1,
+        553.5,
+        492.6
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 1 - ระยะเวลาอบรม",
+      "name_en": "training1_duration",
+      "description": "ระยะเวลาการอบรม (การอบรมลำดับที่ 1)"
+    },
+    {
+      "field_name": "p2_uline_5",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        187.5,
+        500.7,
+        304.1,
+        515.2
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 2 - หลักสูตร/เรื่องการอบรม",
+      "name_en": "training2_course",
+      "description": "ชื่อหลักสูตรหรือเรื่องที่อบรม (การอบรมลำดับที่ 2)"
+    },
+    {
+      "field_name": "p2_uline_6",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        345.2,
+        500.7,
+        445.6,
+        515.2
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 2 - สถาบัน",
+      "name_en": "training2_institution",
+      "description": "ชื่อสถาบันที่จัดอบรม (การอบรมลำดับที่ 2)"
+    },
+    {
+      "field_name": "p2_uline_7",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        520.7,
+        500.7,
+        552.9,
+        515.2
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 2 - ระยะเวลาอบรม",
+      "name_en": "training2_duration",
+      "description": "ระยะเวลาการอบรม (การอบรมลำดับที่ 2)"
+    },
+    {
+      "field_name": "p2_uline_8",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        187.5,
+        523.3,
+        307.5,
+        537.8
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 3 - หลักสูตร/เรื่องการอบรม",
+      "name_en": "training3_course",
+      "description": "ชื่อหลักสูตรหรือเรื่องที่อบรม (การอบรมลำดับที่ 3)"
+    },
+    {
+      "field_name": "p2_uline_9",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        348.7,
+        523.3,
+        445.8,
+        537.8
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 3 - สถาบัน",
+      "name_en": "training3_institution",
+      "description": "ชื่อสถาบันที่จัดอบรม (การอบรมลำดับที่ 3)"
+    },
+    {
+      "field_name": "p2_uline_10",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        520.8,
+        523.3,
+        553.2,
+        537.8
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 3 - ระยะเวลาอบรม",
+      "name_en": "training3_duration",
+      "description": "ระยะเวลาการอบรม (การอบรมลำดับที่ 3)"
+    },
+    {
+      "field_name": "p2_uline_11",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        187.5,
+        545.8,
+        307.4,
+        560.3
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 4 - หลักสูตร/เรื่องการอบรม",
+      "name_en": "training4_course",
+      "description": "ชื่อหลักสูตรหรือเรื่องที่อบรม (การอบรมลำดับที่ 4)"
+    },
+    {
+      "field_name": "p2_uline_12",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        348.4,
+        545.8,
+        448.9,
+        560.3
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 4 - สถาบัน",
+      "name_en": "training4_institution",
+      "description": "ชื่อสถาบันที่จัดอบรม (การอบรมลำดับที่ 4)"
+    },
+    {
+      "field_name": "p2_uline_13",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        523.8,
+        545.8,
+        553.1,
+        560.3
+      ],
+      "ocr_label": "",
+      "label": "การอบรมที่ 4 - ระยะเวลาอบรม",
+      "name_en": "training4_duration",
+      "description": "ระยะเวลาการอบรม (การอบรมลำดับที่ 4)"
+    },
+    {
+      "field_name": "p2_cb_30_ไม่ได้_□_ได้",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        115.6,
+        591.6,
+        122.6,
+        604.9
+      ],
+      "ocr_label": "ไม่ได้ □ ได้",
+      "label": "พิมพ์ดีด ไม่ได้",
+      "name_en": "typing_cannot",
+      "description": "เลือกหากพิมพ์ดีดไม่ได้"
+    },
+    {
+      "field_name": "p2_cb_31_ได้_ไทย_ต่อนาที",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        187.6,
+        591.6,
+        194.6,
+        604.9
+      ],
+      "ocr_label": "ได้ ไทย ต่อนาที",
+      "label": "พิมพ์ดีด ได้",
+      "name_en": "typing_can",
+      "description": "เลือกหากพิมพ์ดีดได้"
+    },
+    {
+      "field_name": "p2_uline_14",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        238.5,
+        591.0,
+        270.9,
+        605.5
+      ],
+      "ocr_label": "",
+      "label": "พิมพ์ดีดไทย (คำ/นาที)",
+      "name_en": "typing_thai_wpm",
+      "description": "ความเร็วพิมพ์ดีดภาษาไทย (คำต่อนาที)"
+    },
+    {
+      "field_name": "p2_uline_15",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        358.9,
+        591.0,
+        391.3,
+        605.5
+      ],
+      "ocr_label": "",
+      "label": "พิมพ์ดีดอังกฤษ (คำ/นาที)",
+      "name_en": "typing_english_wpm",
+      "description": "ความเร็วพิมพ์ดีดภาษาอังกฤษ (คำต่อนาที)"
+    },
+    {
+      "field_name": "p2_cb_32_ไม่ได้_□_ได้",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        115.6,
+        614.1,
+        122.6,
+        627.5
+      ],
+      "ocr_label": "ไม่ได้ □ ได้",
+      "label": "คอมพิวเตอร์ ไม่ได้",
+      "name_en": "computer_cannot",
+      "description": "เลือกหากใช้คอมพิวเตอร์ไม่ได้"
+    },
+    {
+      "field_name": "p2_cb_33_ได้_ระบุโปรแกรม",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        187.6,
+        614.1,
+        194.6,
+        627.5
+      ],
+      "ocr_label": "ได้ ระบุโปรแกรม",
+      "label": "คอมพิวเตอร์ ได้",
+      "name_en": "computer_can",
+      "description": "เลือกหากใช้คอมพิวเตอร์ได้"
+    },
+    {
+      "field_name": "p2_uline_16",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        276.4,
+        613.6,
+        428.6,
+        628.1
+      ],
+      "ocr_label": "",
+      "label": "ระบุโปรแกรมคอมพิวเตอร์",
+      "name_en": "computer_programs",
+      "description": "ระบุโปรแกรมคอมพิวเตอร์ที่ใช้ได้"
+    },
+    {
+      "field_name": "p2_uline_17",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        166.5,
+        636.3,
+        545.6,
+        650.8
+      ],
+      "ocr_label": "",
+      "label": "ความสามารถทางด้านอื่นๆ",
+      "name_en": "other_skills",
+      "description": "ระบุความสามารถทางด้านอื่นๆ"
+    },
+    {
+      "field_name": "p2_cb_34_ขับรถจักรยานยนต์_ประสบการณ์",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        43.6,
+        682.0,
+        50.6,
+        695.3
+      ],
+      "ocr_label": "ขับรถจักรยานยนต์ ประสบการณ์",
+      "label": "ขับรถจักรยานยนต์",
+      "name_en": "drive_motorcycle",
+      "description": "เลือกหากขับรถจักรยานยนต์ได้"
+    },
+    {
+      "field_name": "p2_uline_18",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        203.0,
+        681.4,
+        222.4,
+        695.9
+      ],
+      "ocr_label": "",
+      "label": "ประสบการณ์ขับมอเตอร์ไซค์ (ปี)",
+      "name_en": "motorcycle_exp_years",
+      "description": "จำนวนปีประสบการณ์ขับรถจักรยานยนต์"
+    },
+    {
+      "field_name": "p2_cb_35_ไม่มี_□_มี",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        334.3,
+        682.0,
+        341.3,
+        695.3
+      ],
+      "ocr_label": "ไม่มี □ มี",
+      "label": "ใบขับขี่มอเตอร์ไซค์ ไม่มี",
+      "name_en": "motorcycle_license_no",
+      "description": "เลือกหากไม่มีใบขับขี่รถจักรยานยนต์"
+    },
+    {
+      "field_name": "p2_cb_36_มี_วันที่ได้ใบขับขี่_/",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        380.5,
+        682.0,
+        387.5,
+        695.3
+      ],
+      "ocr_label": "มี วันที่ได้ใบขับขี่ /",
+      "label": "ใบขับขี่มอเตอร์ไซค์ มี",
+      "name_en": "motorcycle_license_yes",
+      "description": "เลือกหากมีใบขับขี่รถจักรยานยนต์"
+    },
+    {
+      "field_name": "p2_uline_19",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        458.5,
+        681.4,
+        474.7,
+        695.9
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่มอเตอร์ไซค์ (วัน)",
+      "name_en": "motorcycle_license_day",
+      "description": "วันที่ได้รับใบขับขี่รถจักรยานยนต์ (วัน)"
+    },
+    {
+      "field_name": "p2_uline_20",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        478.8,
+        681.4,
+        494.9,
+        695.9
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่มอเตอร์ไซค์ (เดือน)",
+      "name_en": "motorcycle_license_month",
+      "description": "วันที่ได้รับใบขับขี่รถจักรยานยนต์ (เดือน)"
+    },
+    {
+      "field_name": "p2_uline_21",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        498.9,
+        681.4,
+        518.3,
+        695.9
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่มอเตอร์ไซค์ (ปี)",
+      "name_en": "motorcycle_license_year",
+      "description": "วันที่ได้รับใบขับขี่รถจักรยานยนต์ (ปี)"
+    },
+    {
+      "field_name": "p2_cb_37_ขับรถ_4_ล้อ",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        43.6,
+        704.6,
+        50.6,
+        718.0
+      ],
+      "ocr_label": "ขับรถ 4 ล้อ",
+      "label": "ขับรถ 4 ล้อ",
+      "name_en": "drive_car",
+      "description": "เลือกหากขับรถยนต์ 4 ล้อได้"
+    },
+    {
+      "field_name": "p2_uline_22",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        203.0,
+        704.1,
+        225.6,
+        718.6
+      ],
+      "ocr_label": "",
+      "label": "ประสบการณ์ขับรถ 4 ล้อ (ปี)",
+      "name_en": "car_exp_years",
+      "description": "จำนวนปีประสบการณ์ขับรถยนต์ 4 ล้อ"
+    },
+    {
+      "field_name": "p2_cb_38_ไม่มี_□_มี",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        334.3,
+        704.6,
+        341.3,
+        718.0
+      ],
+      "ocr_label": "ไม่มี □ มี",
+      "label": "ใบขับขี่รถ 4 ล้อ ไม่มี",
+      "name_en": "car_license_no",
+      "description": "เลือกหากไม่มีใบขับขี่รถยนต์ 4 ล้อ"
+    },
+    {
+      "field_name": "p2_cb_39_มี_วันที่ได้ใบขับขี่_/",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        380.5,
+        704.6,
+        387.5,
+        718.0
+      ],
+      "ocr_label": "มี วันที่ได้ใบขับขี่ /",
+      "label": "ใบขับขี่รถ 4 ล้อ มี",
+      "name_en": "car_license_yes",
+      "description": "เลือกหากมีใบขับขี่รถยนต์ 4 ล้อ"
+    },
+    {
+      "field_name": "p2_uline_23",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        457.9,
+        704.1,
+        474.1,
+        718.6
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่รถ 4 ล้อ (วัน)",
+      "name_en": "car_license_day",
+      "description": "วันที่ได้รับใบขับขี่รถยนต์ 4 ล้อ (วัน)"
+    },
+    {
+      "field_name": "p2_uline_24",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        478.2,
+        704.1,
+        494.4,
+        718.6
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่รถ 4 ล้อ (เดือน)",
+      "name_en": "car_license_month",
+      "description": "วันที่ได้รับใบขับขี่รถยนต์ 4 ล้อ (เดือน)"
+    },
+    {
+      "field_name": "p2_uline_25",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        498.5,
+        704.1,
+        517.9,
+        718.6
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่รถ 4 ล้อ (ปี)",
+      "name_en": "car_license_year",
+      "description": "วันที่ได้รับใบขับขี่รถยนต์ 4 ล้อ (ปี)"
+    },
+    {
+      "field_name": "p2_cb_40_อื่นๆ_ประสบการณ์",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        43.6,
+        727.2,
+        50.6,
+        740.5
+      ],
+      "ocr_label": "อื่นๆ ประสบการณ์",
+      "label": "ขับรถอื่นๆ",
+      "name_en": "drive_other",
+      "description": "เลือกหากขับรถประเภทอื่นได้"
+    },
+    {
+      "field_name": "p2_uline_26",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        75.3,
+        726.7,
+        130.2,
+        741.2
+      ],
+      "ocr_label": "",
+      "label": "ระบุประเภทรถอื่นๆ",
+      "name_en": "other_vehicle_type",
+      "description": "ระบุประเภทรถอื่นๆ ที่ขับได้"
+    },
+    {
+      "field_name": "p2_uline_27",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        203.0,
+        726.7,
+        225.6,
+        741.2
+      ],
+      "ocr_label": "",
+      "label": "ประสบการณ์ขับรถอื่นๆ (ปี)",
+      "name_en": "other_vehicle_exp_years",
+      "description": "จำนวนปีประสบการณ์ขับรถอื่นๆ"
+    },
+    {
+      "field_name": "p2_cb_41_ไม่มี_□_มีวันที่ได้ใบขับขี่",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        334.3,
+        727.2,
+        341.3,
+        740.5
+      ],
+      "ocr_label": "ไม่มี □ มีวันที่ได้ใบขับขี่",
+      "label": "ใบขับขี่รถอื่นๆ ไม่มี",
+      "name_en": "other_license_no",
+      "description": "เลือกหากไม่มีใบขับขี่รถอื่นๆ"
+    },
+    {
+      "field_name": "p2_cb_42_มีวันที่ได้ใบขับขี่_/",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        380.5,
+        727.2,
+        387.5,
+        740.5
+      ],
+      "ocr_label": "มีวันที่ได้ใบขับขี่ /",
+      "label": "ใบขับขี่รถอื่นๆ มี",
+      "name_en": "other_license_yes",
+      "description": "เลือกหากมีใบขับขี่รถอื่นๆ"
+    },
+    {
+      "field_name": "p2_uline_28",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        455.3,
+        726.7,
+        471.5,
+        741.2
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่รถอื่นๆ (วัน)",
+      "name_en": "other_license_day",
+      "description": "วันที่ได้รับใบขับขี่รถอื่นๆ (วัน)"
+    },
+    {
+      "field_name": "p2_uline_29",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        475.5,
+        726.7,
+        491.6,
+        741.2
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่รถอื่นๆ (เดือน)",
+      "name_en": "other_license_month",
+      "description": "วันที่ได้รับใบขับขี่รถอื่นๆ (เดือน)"
+    },
+    {
+      "field_name": "p2_uline_30",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        495.7,
+        726.7,
+        518.3,
+        741.2
+      ],
+      "ocr_label": "",
+      "label": "วันที่ได้ใบขับขี่รถอื่นๆ (ปี)",
+      "name_en": "other_license_year",
+      "description": "วันที่ได้รับใบขับขี่รถอื่นๆ (ปี)"
+    },
+    {
+      "field_name": "p2_cb_43_ผ่านการเกณฑ์_□",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        43.6,
+        772.4,
+        50.6,
+        785.8
+      ],
+      "ocr_label": "ผ่านการเกณฑ์ □",
+      "label": "ผ่านการเกณฑ์ทหาร",
+      "name_en": "military_completed",
+      "description": "เลือกหากผ่านการเกณฑ์ทหารแล้ว"
+    },
+    {
+      "field_name": "p2_cb_44_รอเกณฑ์_ปี_□",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        151.6,
+        772.4,
+        158.6,
+        785.8
+      ],
+      "ocr_label": "รอเกณฑ์ ปี □",
+      "label": "รอเกณฑ์ทหาร",
+      "name_en": "military_pending",
+      "description": "เลือกหากรอเกณฑ์ทหาร"
+    },
+    {
+      "field_name": "p2_uline_31",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        209.3,
+        771.9,
+        235.6,
+        786.4
+      ],
+      "ocr_label": "",
+      "label": "รอเกณฑ์ ปี พ.ศ.",
+      "name_en": "military_pending_year",
+      "description": "ปี พ.ศ. ที่รอเกณฑ์ทหาร"
+    },
+    {
+      "field_name": "p2_cb_45_ได้รับการยกเว้น_เพราะ",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        259.6,
+        772.4,
+        266.6,
+        785.8
+      ],
+      "ocr_label": "ได้รับการยกเว้น เพราะ",
+      "label": "ได้รับการยกเว้น",
+      "name_en": "military_exempt",
+      "description": "เลือกหากได้รับการยกเว้นการเกณฑ์ทหาร"
+    },
+    {
+      "field_name": "p2_uline_32",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        363.1,
+        771.9,
+        525.0,
+        786.4
+      ],
+      "ocr_label": "",
+      "label": "เหตุผลได้รับการยกเว้น",
+      "name_en": "military_exempt_reason",
+      "description": "ระบุเหตุผลที่ได้รับการยกเว้นการเกณฑ์ทหาร"
+    },
+    {
+      "field_name": "p3_uline_1",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        193.0,
+        176.8,
+        209.2,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - วันที่เริ่มงาน (วัน)",
+      "name_en": "job1_start_day",
+      "description": "วันที่เริ่มงาน (วัน) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_2",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        213.3,
+        176.8,
+        229.5,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - วันที่เริ่มงาน (เดือน)",
+      "name_en": "job1_start_month",
+      "description": "วันที่เริ่มงาน (เดือน) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_3",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        233.6,
+        176.8,
+        253.0,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - วันที่เริ่มงาน (ปี)",
+      "name_en": "job1_start_year",
+      "description": "วันที่เริ่มงาน (ปี พ.ศ.) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_4",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        319.5,
+        176.8,
+        335.7,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - วันที่สิ้นสุด (วัน)",
+      "name_en": "job1_end_day",
+      "description": "วันที่สิ้นสุดการทำงาน (วัน) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_5",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        339.8,
+        176.8,
+        355.9,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - วันที่สิ้นสุด (เดือน)",
+      "name_en": "job1_end_month",
+      "description": "วันที่สิ้นสุดการทำงาน (เดือน) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_6",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        360.0,
+        176.8,
+        379.4,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - วันที่สิ้นสุด (ปี)",
+      "name_en": "job1_end_year",
+      "description": "วันที่สิ้นสุดการทำงาน (ปี พ.ศ.) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_7",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        461.9,
+        176.8,
+        481.2,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - อายุงานรวม (ปี)",
+      "name_en": "job1_tenure_years",
+      "description": "อายุงานรวม (ปี) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_8",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        487.7,
+        176.8,
+        507.1,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - อายุงานรวม (เดือน)",
+      "name_en": "job1_tenure_months",
+      "description": "อายุงานรวม (เดือน) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_9",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        528.0,
+        176.8,
+        547.4,
+        191.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - อายุงานรวม (วัน)",
+      "name_en": "job1_tenure_days",
+      "description": "อายุงานรวม (วัน) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_10",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        94.6,
+        196.3,
+        402.6,
+        210.8
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - บริษัท/องค์กร",
+      "name_en": "job1_company",
+      "description": "ชื่อบริษัทหรือองค์กร (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_11",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        454.8,
+        196.3,
+        555.2,
+        210.8
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - ตำแหน่งงาน",
+      "name_en": "job1_position",
+      "description": "ตำแหน่งงาน (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_12",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        90.6,
+        216.0,
+        171.5,
+        230.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - ฐานเงินเดือน",
+      "name_en": "job1_base_salary",
+      "description": "เงินเดือนฐาน (บาท) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_13",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        266.9,
+        216.0,
+        354.3,
+        230.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - เงินเดือนรวมเงินได้อื่นๆ",
+      "name_en": "job1_total_salary",
+      "description": "เงินเดือนรวมเงินได้อื่นๆ (บาท) (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_14",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        416.7,
+        216.0,
+        556.2,
+        230.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - สาเหตุที่ลาออก",
+      "name_en": "job1_reason_leaving",
+      "description": "สาเหตุที่ลาออกจากงาน (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_15",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        105.3,
+        235.7,
+        555.7,
+        250.2
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 1 - ความรับผิดชอบ",
+      "name_en": "job1_responsibilities",
+      "description": "รายละเอียดความรับผิดชอบในตำแหน่ง (งานลำดับที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_16",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        193.0,
+        287.0,
+        209.2,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - วันที่เริ่มงาน (วัน)",
+      "name_en": "job2_start_day",
+      "description": "วันที่เริ่มงาน (วัน) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_17",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        213.3,
+        287.0,
+        229.5,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - วันที่เริ่มงาน (เดือน)",
+      "name_en": "job2_start_month",
+      "description": "วันที่เริ่มงาน (เดือน) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_18",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        233.6,
+        287.0,
+        253.0,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - วันที่เริ่มงาน (ปี)",
+      "name_en": "job2_start_year",
+      "description": "วันที่เริ่มงาน (ปี พ.ศ.) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_19",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        319.5,
+        287.0,
+        335.7,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - วันที่สิ้นสุด (วัน)",
+      "name_en": "job2_end_day",
+      "description": "วันที่สิ้นสุดการทำงาน (วัน) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_20",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        339.8,
+        287.0,
+        355.9,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - วันที่สิ้นสุด (เดือน)",
+      "name_en": "job2_end_month",
+      "description": "วันที่สิ้นสุดการทำงาน (เดือน) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_21",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        360.0,
+        287.0,
+        379.4,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - วันที่สิ้นสุด (ปี)",
+      "name_en": "job2_end_year",
+      "description": "วันที่สิ้นสุดการทำงาน (ปี พ.ศ.) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_22",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        461.9,
+        287.0,
+        481.2,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - อายุงานรวม (ปี)",
+      "name_en": "job2_tenure_years",
+      "description": "อายุงานรวม (ปี) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_23",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        487.7,
+        287.0,
+        507.1,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - อายุงานรวม (เดือน)",
+      "name_en": "job2_tenure_months",
+      "description": "อายุงานรวม (เดือน) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_24",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        528.0,
+        287.0,
+        547.4,
+        301.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - อายุงานรวม (วัน)",
+      "name_en": "job2_tenure_days",
+      "description": "อายุงานรวม (วัน) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_25",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        94.6,
+        306.6,
+        402.6,
+        321.1
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - บริษัท/องค์กร",
+      "name_en": "job2_company",
+      "description": "ชื่อบริษัทหรือองค์กร (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_26",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        454.8,
+        306.6,
+        555.2,
+        321.1
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - ตำแหน่งงาน",
+      "name_en": "job2_position",
+      "description": "ตำแหน่งงาน (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_27",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        90.6,
+        326.3,
+        171.5,
+        340.8
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - ฐานเงินเดือน",
+      "name_en": "job2_base_salary",
+      "description": "เงินเดือนฐาน (บาท) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_28",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        266.9,
+        326.3,
+        354.3,
+        340.8
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - เงินเดือนรวมเงินได้อื่นๆ",
+      "name_en": "job2_total_salary",
+      "description": "เงินเดือนรวมเงินได้อื่นๆ (บาท) (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_29",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        416.7,
+        326.3,
+        556.2,
+        340.8
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - สาเหตุที่ลาออก",
+      "name_en": "job2_reason_leaving",
+      "description": "สาเหตุที่ลาออกจากงาน (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_30",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        105.3,
+        346.0,
+        555.7,
+        360.5
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 2 - ความรับผิดชอบ",
+      "name_en": "job2_responsibilities",
+      "description": "รายละเอียดความรับผิดชอบในตำแหน่ง (งานลำดับที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_31",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        193.0,
+        397.2,
+        209.2,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - วันที่เริ่มงาน (วัน)",
+      "name_en": "job3_start_day",
+      "description": "วันที่เริ่มงาน (วัน) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_32",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        213.3,
+        397.2,
+        229.5,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - วันที่เริ่มงาน (เดือน)",
+      "name_en": "job3_start_month",
+      "description": "วันที่เริ่มงาน (เดือน) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_33",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        233.6,
+        397.2,
+        253.0,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - วันที่เริ่มงาน (ปี)",
+      "name_en": "job3_start_year",
+      "description": "วันที่เริ่มงาน (ปี พ.ศ.) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_34",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        319.5,
+        397.2,
+        335.7,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - วันที่สิ้นสุด (วัน)",
+      "name_en": "job3_end_day",
+      "description": "วันที่สิ้นสุดการทำงาน (วัน) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_35",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        339.8,
+        397.2,
+        355.9,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - วันที่สิ้นสุด (เดือน)",
+      "name_en": "job3_end_month",
+      "description": "วันที่สิ้นสุดการทำงาน (เดือน) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_36",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        360.0,
+        397.2,
+        379.4,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - วันที่สิ้นสุด (ปี)",
+      "name_en": "job3_end_year",
+      "description": "วันที่สิ้นสุดการทำงาน (ปี พ.ศ.) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_37",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        461.9,
+        397.2,
+        481.2,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - อายุงานรวม (ปี)",
+      "name_en": "job3_tenure_years",
+      "description": "อายุงานรวม (ปี) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_38",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        487.7,
+        397.2,
+        507.1,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - อายุงานรวม (เดือน)",
+      "name_en": "job3_tenure_months",
+      "description": "อายุงานรวม (เดือน) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_39",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        528.0,
+        397.2,
+        547.4,
+        411.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - อายุงานรวม (วัน)",
+      "name_en": "job3_tenure_days",
+      "description": "อายุงานรวม (วัน) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_40",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        94.6,
+        416.9,
+        402.6,
+        431.4
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - บริษัท/องค์กร",
+      "name_en": "job3_company",
+      "description": "ชื่อบริษัทหรือองค์กร (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_41",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        454.8,
+        416.9,
+        555.2,
+        431.4
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - ตำแหน่งงาน",
+      "name_en": "job3_position",
+      "description": "ตำแหน่งงาน (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_42",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        90.6,
+        436.6,
+        171.5,
+        451.1
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - ฐานเงินเดือน",
+      "name_en": "job3_base_salary",
+      "description": "เงินเดือนฐาน (บาท) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_43",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        266.9,
+        436.6,
+        354.3,
+        451.1
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - เงินเดือนรวมเงินได้อื่นๆ",
+      "name_en": "job3_total_salary",
+      "description": "เงินเดือนรวมเงินได้อื่นๆ (บาท) (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_44",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        416.7,
+        436.6,
+        556.2,
+        451.1
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - สาเหตุที่ลาออก",
+      "name_en": "job3_reason_leaving",
+      "description": "สาเหตุที่ลาออกจากงาน (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_45",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        105.3,
+        456.1,
+        555.7,
+        470.6
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 3 - ความรับผิดชอบ",
+      "name_en": "job3_responsibilities",
+      "description": "รายละเอียดความรับผิดชอบในตำแหน่ง (งานลำดับที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_46",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        193.0,
+        507.5,
+        209.2,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - วันที่เริ่มงาน (วัน)",
+      "name_en": "job4_start_day",
+      "description": "วันที่เริ่มงาน (วัน) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_47",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        213.3,
+        507.5,
+        229.5,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - วันที่เริ่มงาน (เดือน)",
+      "name_en": "job4_start_month",
+      "description": "วันที่เริ่มงาน (เดือน) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_48",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        233.6,
+        507.5,
+        253.0,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - วันที่เริ่มงาน (ปี)",
+      "name_en": "job4_start_year",
+      "description": "วันที่เริ่มงาน (ปี พ.ศ.) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_49",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        319.5,
+        507.5,
+        335.7,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - วันที่สิ้นสุด (วัน)",
+      "name_en": "job4_end_day",
+      "description": "วันที่สิ้นสุดการทำงาน (วัน) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_50",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        339.8,
+        507.5,
+        355.9,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - วันที่สิ้นสุด (เดือน)",
+      "name_en": "job4_end_month",
+      "description": "วันที่สิ้นสุดการทำงาน (เดือน) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_51",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        360.0,
+        507.5,
+        379.4,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - วันที่สิ้นสุด (ปี)",
+      "name_en": "job4_end_year",
+      "description": "วันที่สิ้นสุดการทำงาน (ปี พ.ศ.) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_52",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        461.9,
+        507.5,
+        481.2,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - อายุงานรวม (ปี)",
+      "name_en": "job4_tenure_years",
+      "description": "อายุงานรวม (ปี) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_53",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        487.7,
+        507.5,
+        507.1,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - อายุงานรวม (เดือน)",
+      "name_en": "job4_tenure_months",
+      "description": "อายุงานรวม (เดือน) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_54",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        528.0,
+        507.5,
+        547.4,
+        522.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - อายุงานรวม (วัน)",
+      "name_en": "job4_tenure_days",
+      "description": "อายุงานรวม (วัน) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_55",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        94.6,
+        527.2,
+        402.6,
+        541.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - บริษัท/องค์กร",
+      "name_en": "job4_company",
+      "description": "ชื่อบริษัทหรือองค์กร (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_56",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        454.8,
+        527.2,
+        555.2,
+        541.7
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - ตำแหน่งงาน",
+      "name_en": "job4_position",
+      "description": "ตำแหน่งงาน (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_57",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        90.6,
+        546.8,
+        171.5,
+        561.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - ฐานเงินเดือน",
+      "name_en": "job4_base_salary",
+      "description": "เงินเดือนฐาน (บาท) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_58",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        266.9,
+        546.8,
+        354.3,
+        561.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - เงินเดือนรวมเงินได้อื่นๆ",
+      "name_en": "job4_total_salary",
+      "description": "เงินเดือนรวมเงินได้อื่นๆ (บาท) (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_59",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        416.7,
+        546.8,
+        556.2,
+        561.3
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - สาเหตุที่ลาออก",
+      "name_en": "job4_reason_leaving",
+      "description": "สาเหตุที่ลาออกจากงาน (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_60",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        105.3,
+        566.5,
+        555.7,
+        581.0
+      ],
+      "ocr_label": "",
+      "label": "งานที่ 4 - ความรับผิดชอบ",
+      "name_en": "job4_responsibilities",
+      "description": "รายละเอียดความรับผิดชอบในตำแหน่ง (งานลำดับที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_61",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        637.4,
+        555.2,
+        651.9
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 1)",
+      "name_en": "experience_desc_line1",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 1)"
+    },
+    {
+      "field_name": "p3_uline_62",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        657.1,
+        557.3,
+        671.6
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 2)",
+      "name_en": "experience_desc_line2",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 2)"
+    },
+    {
+      "field_name": "p3_uline_63",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        676.8,
+        557.1,
+        691.3
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 3)",
+      "name_en": "experience_desc_line3",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 3)"
+    },
+    {
+      "field_name": "p3_uline_64",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        696.4,
+        557.1,
+        710.9
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 4)",
+      "name_en": "experience_desc_line4",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 4)"
+    },
+    {
+      "field_name": "p3_uline_65",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        716.0,
+        557.1,
+        730.5
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 5)",
+      "name_en": "experience_desc_line5",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 5)"
+    },
+    {
+      "field_name": "p3_uline_66",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        735.7,
+        557.1,
+        750.2
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 6)",
+      "name_en": "experience_desc_line6",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 6)"
+    },
+    {
+      "field_name": "p3_uline_67",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        755.4,
+        557.1,
+        769.9
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 7)",
+      "name_en": "experience_desc_line7",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 7)"
+    },
+    {
+      "field_name": "p3_uline_68",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        775.0,
+        557.1,
+        789.5
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 8)",
+      "name_en": "experience_desc_line8",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 8)"
+    },
+    {
+      "field_name": "p3_uline_69",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        41.9,
+        794.6,
+        557.1,
+        809.1
+      ],
+      "ocr_label": "",
+      "label": "บรรยายประสบการณ์ (บรรทัดที่ 9)",
+      "name_en": "experience_desc_line9",
+      "description": "บรรยายประสบการณ์ที่ผ่านมา (บรรทัดที่ 9)"
+    },
+    {
+      "field_name": "p4_uline_1",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        151.2,
+        141.1,
+        300.2,
+        155.6
+      ],
+      "ocr_label": "",
+      "label": "บุคคลติดต่อฉุกเฉิน ชื่อ-สกุล",
+      "name_en": "emergency_contact_name",
+      "description": "ชื่อ-นามสกุลบุคคลที่ติดต่อได้กรณีฉุกเฉิน"
+    },
+    {
+      "field_name": "p4_uline_2",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        379.1,
+        141.1,
+        434.2,
+        155.6
+      ],
+      "ocr_label": "",
+      "label": "เกี่ยวข้องกับผู้สมัคร",
+      "name_en": "emergency_contact_relation",
+      "description": "ความสัมพันธ์กับผู้สมัคร"
+    },
+    {
+      "field_name": "p4_uline_3",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        472.4,
+        141.1,
+        553.4,
+        155.6
+      ],
+      "ocr_label": "",
+      "label": "เบอร์โทรบุคคลฉุกเฉิน",
+      "name_en": "emergency_contact_phone",
+      "description": "เบอร์โทรศัพท์บุคคลติดต่อฉุกเฉิน"
+    },
+    {
+      "field_name": "p4_uline_4",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        62.9,
+        163.8,
+        552.2,
+        178.3
+      ],
+      "ocr_label": "",
+      "label": "ที่อยู่บุคคลฉุกเฉิน",
+      "name_en": "emergency_contact_address",
+      "description": "ที่อยู่บุคคลติดต่อฉุกเฉิน"
+    },
+    {
+      "field_name": "p4_uline_5",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        94.9,
+        220.9,
+        289.2,
+        235.4
+      ],
+      "ocr_label": "",
+      "label": "พนักงานที่รู้จัก ชื่อ-นามสกุล",
+      "name_en": "known_employee_name",
+      "description": "ชื่อ-นามสกุลพนักงานในบริษัทที่รู้จัก"
+    },
+    {
+      "field_name": "p4_uline_6",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        329.2,
+        220.9,
+        426.3,
+        235.4
+      ],
+      "ocr_label": "",
+      "label": "พนักงานที่รู้จัก ตำแหน่ง",
+      "name_en": "known_employee_position",
+      "description": "ตำแหน่งพนักงานในบริษัทที่รู้จัก"
+    },
+    {
+      "field_name": "p4_uline_7",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        484.3,
+        220.9,
+        552.2,
+        235.4
+      ],
+      "ocr_label": "",
+      "label": "พนักงานที่รู้จัก ความสัมพันธ์",
+      "name_en": "known_employee_relation",
+      "description": "ความสัมพันธ์กับพนักงานที่รู้จัก"
+    },
+    {
+      "field_name": "p4_uline_8",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        205.6,
+        278.2,
+        552.2,
+        292.7
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 1 ชื่อ",
+      "name_en": "ref1_name",
+      "description": "ชื่อบุคคลอ้างอิงคนที่ 1 (นายจ้าง/ผู้บังคับบัญชา)"
+    },
+    {
+      "field_name": "p4_uline_9",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        137.4,
+        300.7,
+        166.6,
+        315.2
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 1 เกี่ยวข้อง",
+      "name_en": "ref1_relation",
+      "description": "ความเกี่ยวข้องกับผู้สมัคร (บุคคลอ้างอิงที่ 1)"
+    },
+    {
+      "field_name": "p4_uline_10",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        244.2,
+        300.7,
+        354.3,
+        315.2
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 1 สถานที่ทำงาน",
+      "name_en": "ref1_workplace",
+      "description": "ชื่อ/สถานที่ทำงานของบุคคลอ้างอิงที่ 1"
+    },
+    {
+      "field_name": "p4_uline_11",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        394.3,
+        300.7,
+        455.7,
+        315.2
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 1 ตำแหน่ง",
+      "name_en": "ref1_position",
+      "description": "ตำแหน่งบุคคลอ้างอิงที่ 1"
+    },
+    {
+      "field_name": "p4_uline_12",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        496.2,
+        300.7,
+        554.4,
+        315.2
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 1 โทรศัพท์",
+      "name_en": "ref1_phone",
+      "description": "เบอร์โทรศัพท์บุคคลอ้างอิงที่ 1"
+    },
+    {
+      "field_name": "p4_uline_13",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        205.6,
+        323.4,
+        552.2,
+        337.9
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 2 ชื่อ",
+      "name_en": "ref2_name",
+      "description": "ชื่อบุคคลอ้างอิงคนที่ 2 (นายจ้าง/ผู้บังคับบัญชา)"
+    },
+    {
+      "field_name": "p4_uline_14",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        137.4,
+        346.0,
+        166.6,
+        360.5
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 2 เกี่ยวข้อง",
+      "name_en": "ref2_relation",
+      "description": "ความเกี่ยวข้องกับผู้สมัคร (บุคคลอ้างอิงที่ 2)"
+    },
+    {
+      "field_name": "p4_uline_15",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        244.2,
+        346.0,
+        354.3,
+        360.5
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 2 สถานที่ทำงาน",
+      "name_en": "ref2_workplace",
+      "description": "ชื่อ/สถานที่ทำงานของบุคคลอ้างอิงที่ 2"
+    },
+    {
+      "field_name": "p4_uline_16",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        394.3,
+        346.0,
+        455.7,
+        360.5
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 2 ตำแหน่ง",
+      "name_en": "ref2_position",
+      "description": "ตำแหน่งบุคคลอ้างอิงที่ 2"
+    },
+    {
+      "field_name": "p4_uline_17",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        496.2,
+        346.0,
+        554.4,
+        360.5
+      ],
+      "ocr_label": "",
+      "label": "บุคคลอ้างอิง 2 โทรศัพท์",
+      "name_en": "ref2_phone",
+      "description": "เบอร์โทรศัพท์บุคคลอ้างอิงที่ 2"
+    },
+    {
+      "field_name": "p4_cb_46_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        367.7,
+        403.8,
+        374.7,
+        417.1
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่เคยต้องโทษ/คดีอาญา",
+      "name_en": "criminal_record_no",
+      "description": "เลือกหากไม่เคยต้องโทษหรือถูกคดีอาญา"
+    },
+    {
+      "field_name": "p4_cb_47_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        439.7,
+        403.8,
+        446.7,
+        417.1
+      ],
+      "ocr_label": "เคย",
+      "label": "เคยต้องโทษ/คดีอาญา",
+      "name_en": "criminal_record_yes",
+      "description": "เลือกหากเคยต้องโทษหรือถูกคดีอาญา"
+    },
+    {
+      "field_name": "p4_uline_18",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        95.3,
+        425.8,
+        552.1,
+        440.3
+      ],
+      "ocr_label": "",
+      "label": "อธิบายคดีอาญา",
+      "name_en": "criminal_record_detail",
+      "description": "อธิบายรายละเอียดหากเคยต้องโทษหรือคดีอาญา"
+    },
+    {
+      "field_name": "p4_cb_48_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        367.7,
+        448.9,
+        374.7,
+        462.2
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่เคยถูกจำคุก",
+      "name_en": "prison_no",
+      "description": "เลือกหากไม่เคยต้องคำพิพากษาจำคุก"
+    },
+    {
+      "field_name": "p4_cb_49_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        439.7,
+        448.9,
+        446.7,
+        462.2
+      ],
+      "ocr_label": "เคย",
+      "label": "เคยถูกจำคุก",
+      "name_en": "prison_yes",
+      "description": "เลือกหากเคยต้องคำพิพากษาจำคุก"
+    },
+    {
+      "field_name": "p4_cb_50_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        367.7,
+        471.5,
+        374.7,
+        484.8
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่เคยป่วยหนัก/โรคติดต่อร้ายแรง",
+      "name_en": "serious_illness_no",
+      "description": "เลือกหากไม่เคยป่วยหนักหรือเป็นโรคติดต่อร้ายแรง"
+    },
+    {
+      "field_name": "p4_cb_51_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        439.7,
+        471.5,
+        446.7,
+        484.8
+      ],
+      "ocr_label": "เคย",
+      "label": "เคยป่วยหนัก/โรคติดต่อร้ายแรง",
+      "name_en": "serious_illness_yes",
+      "description": "เลือกหากเคยป่วยหนักหรือเป็นโรคติดต่อร้ายแรง"
+    },
+    {
+      "field_name": "p4_uline_19",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        130.7,
+        493.6,
+        552.0,
+        508.1
+      ],
+      "ocr_label": "",
+      "label": "ระบุโรคติดต่อร้ายแรง",
+      "name_en": "serious_illness_detail",
+      "description": "ระบุชื่อโรคหากเคยป่วยหนักหรือเป็นโรคติดต่อร้ายแรง"
+    },
+    {
+      "field_name": "p4_cb_52_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        367.7,
+        516.7,
+        374.7,
+        530.0
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่มีโรคประจำตัว/เรื้อรัง",
+      "name_en": "chronic_disease_no",
+      "description": "เลือกหากไม่มีโรคประจำตัวหรือโรคเรื้อรัง"
+    },
+    {
+      "field_name": "p4_cb_53_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        439.7,
+        516.7,
+        446.7,
+        530.0
+      ],
+      "ocr_label": "เคย",
+      "label": "มีโรคประจำตัว/เรื้อรัง",
+      "name_en": "chronic_disease_yes",
+      "description": "เลือกหากมีโรคประจำตัวหรือโรคเรื้อรัง"
+    },
+    {
+      "field_name": "p4_uline_20",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        130.7,
+        538.7,
+        552.0,
+        553.2
+      ],
+      "ocr_label": "",
+      "label": "ระบุโรคประจำตัว/เรื้อรัง",
+      "name_en": "chronic_disease_detail",
+      "description": "ระบุชื่อโรคประจำตัวหรือโรคเรื้อรัง"
+    },
+    {
+      "field_name": "p4_cb_54_วัณโรค_□_โรคหัวใจ",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        187.6,
+        561.9,
+        194.6,
+        575.2
+      ],
+      "ocr_label": "วัณโรค □ โรคหัวใจ",
+      "label": "วัณโรค",
+      "name_en": "disease_tuberculosis",
+      "description": "เลือกหากเคยเป็นวัณโรค"
+    },
+    {
+      "field_name": "p4_cb_55_โรคหัวใจ_□_โรคภูมิแพ้",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        259.6,
+        561.9,
+        266.6,
+        575.2
+      ],
+      "ocr_label": "โรคหัวใจ □ โรคภูมิแพ้",
+      "label": "โรคหัวใจ",
+      "name_en": "disease_heart",
+      "description": "เลือกหากเคยเป็นโรคหัวใจ"
+    },
+    {
+      "field_name": "p4_cb_56_โรคภูมิแพ้_□_โรคประสาท",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        331.7,
+        561.9,
+        338.7,
+        575.2
+      ],
+      "ocr_label": "โรคภูมิแพ้ □ โรคประสาท",
+      "label": "โรคภูมิแพ้",
+      "name_en": "disease_allergy",
+      "description": "เลือกหากเคยเป็นโรคภูมิแพ้"
+    },
+    {
+      "field_name": "p4_cb_57_โรคประสาท_□_โรคลำไส้",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        403.7,
+        561.9,
+        410.7,
+        575.2
+      ],
+      "ocr_label": "โรคประสาท □ โรคลำไส้",
+      "label": "โรคประสาท",
+      "name_en": "disease_neurological",
+      "description": "เลือกหากเคยเป็นโรคประสาท"
+    },
+    {
+      "field_name": "p4_cb_58_โรคลำไส้",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        475.7,
+        561.9,
+        482.7,
+        575.2
+      ],
+      "ocr_label": "โรคลำไส้",
+      "label": "โรคลำไส้",
+      "name_en": "disease_intestinal",
+      "description": "เลือกหากเคยเป็นโรคลำไส้"
+    },
+    {
+      "field_name": "p4_cb_59_โรคกระเพาะ_□_ลมบ้าหมู",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        187.6,
+        584.5,
+        194.6,
+        597.8
+      ],
+      "ocr_label": "โรคกระเพาะ □ ลมบ้าหมู",
+      "label": "โรคกระเพาะ",
+      "name_en": "disease_stomach",
+      "description": "เลือกหากเคยเป็นโรคกระเพาะ"
+    },
+    {
+      "field_name": "p4_cb_60_ลมบ้าหมู_□_อื่นๆ",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        259.6,
+        584.5,
+        266.6,
+        597.8
+      ],
+      "ocr_label": "ลมบ้าหมู □ อื่นๆ",
+      "label": "ลมบ้าหมู",
+      "name_en": "disease_epilepsy",
+      "description": "เลือกหากเคยเป็นลมบ้าหมู"
+    },
+    {
+      "field_name": "p4_cb_61_อื่นๆ_ระบุ",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        331.7,
+        584.5,
+        338.7,
+        597.8
+      ],
+      "ocr_label": "อื่นๆ ระบุ",
+      "label": "โรคอื่นๆ",
+      "name_en": "disease_other",
+      "description": "เลือกหากเคยเป็นโรคอื่นๆ"
+    },
+    {
+      "field_name": "p4_uline_21",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        383.2,
+        584.0,
+        470.6,
+        598.5
+      ],
+      "ocr_label": "",
+      "label": "ระบุโรคอื่นๆ",
+      "name_en": "disease_other_detail",
+      "description": "ระบุชื่อโรคอื่นๆ ที่เคยเป็น"
+    },
+    {
+      "field_name": "p4_cb_62_ไม่เคยเป็น",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        475.7,
+        584.5,
+        482.7,
+        597.8
+      ],
+      "ocr_label": "ไม่เคยเป็น",
+      "label": "ไม่เคยเป็นโรค",
+      "name_en": "disease_none",
+      "description": "เลือกหากไม่เคยเป็นโรคใดๆ ข้างต้น"
+    },
+    {
+      "field_name": "p4_cb_63_ไม่มี_□_มี",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        187.6,
+        607.1,
+        194.6,
+        620.4
+      ],
+      "ocr_label": "ไม่มี □ มี",
+      "label": "ไม่มีความพิการ",
+      "name_en": "disability_no",
+      "description": "เลือกหากไม่มีความพิการทางร่างกาย"
+    },
+    {
+      "field_name": "p4_cb_64_มี_ระบุ",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        259.6,
+        607.1,
+        266.6,
+        620.4
+      ],
+      "ocr_label": "มี ระบุ",
+      "label": "มีความพิการ",
+      "name_en": "disability_yes",
+      "description": "เลือกหากมีความพิการทางร่างกาย"
+    },
+    {
+      "field_name": "p4_uline_22",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        299.1,
+        606.5,
+        551.7,
+        621.0
+      ],
+      "ocr_label": "",
+      "label": "ระบุความพิการ",
+      "name_en": "disability_detail",
+      "description": "ระบุรายละเอียดความพิการทางร่างกาย"
+    },
+    {
+      "field_name": "p4_cb_65_ปกติ_□_ไม่ปกติ",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        187.6,
+        629.7,
+        194.6,
+        643.0
+      ],
+      "ocr_label": "ปกติ □ ไม่ปกติ",
+      "label": "สายตาปกติ",
+      "name_en": "eyesight_normal",
+      "description": "เลือกหากสายตาปกติ"
+    },
+    {
+      "field_name": "p4_cb_66_ไม่ปกติ_สายตาสั้น",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        259.6,
+        629.7,
+        266.6,
+        643.0
+      ],
+      "ocr_label": "ไม่ปกติ สายตาสั้น",
+      "label": "สายตาไม่ปกติ",
+      "name_en": "eyesight_abnormal",
+      "description": "เลือกหากสายตาไม่ปกติ"
+    },
+    {
+      "field_name": "p4_uline_23",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        369.5,
+        629.2,
+        398.6,
+        643.7
+      ],
+      "ocr_label": "",
+      "label": "สายตาสั้น (ค่า)",
+      "name_en": "eyesight_nearsighted",
+      "description": "ค่าสายตาสั้น"
+    },
+    {
+      "field_name": "p4_uline_24",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        444.9,
+        629.2,
+        474.0,
+        643.7
+      ],
+      "ocr_label": "",
+      "label": "สายตายาว (ค่า)",
+      "name_en": "eyesight_farsighted",
+      "description": "ค่าสายตายาว"
+    },
+    {
+      "field_name": "p4_uline_25",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        520.3,
+        629.2,
+        552.7,
+        643.7
+      ],
+      "ocr_label": "",
+      "label": "สายตาเอียง (ค่า)",
+      "name_en": "eyesight_astigmatism",
+      "description": "ค่าสายตาเอียง"
+    },
+    {
+      "field_name": "p4_cb_67_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        331.7,
+        652.3,
+        338.7,
+        665.6
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่เคยเป็นบุคคลวิกลจริต",
+      "name_en": "mental_illness_no",
+      "description": "เลือกหากไม่เคยเป็นบุคคลวิกลจริตหรือจิตฟั่นเฟือน"
+    },
+    {
+      "field_name": "p4_cb_68_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        403.7,
+        652.3,
+        410.7,
+        665.6
+      ],
+      "ocr_label": "เคย",
+      "label": "เคยเป็นบุคคลวิกลจริต",
+      "name_en": "mental_illness_yes",
+      "description": "เลือกหากเคยเป็นบุคคลวิกลจริตหรือจิตฟั่นเฟือน"
+    },
+    {
+      "field_name": "p4_cb_69_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        439.7,
+        674.9,
+        446.7,
+        688.2
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่เคยดำรงตำแหน่งในพรรคการเมือง",
+      "name_en": "political_position_no",
+      "description": "เลือกหากไม่เคยดำรงตำแหน่งในพรรคการเมือง"
+    },
+    {
+      "field_name": "p4_cb_70_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        511.7,
+        674.9,
+        518.7,
+        688.2
+      ],
+      "ocr_label": "เคย",
+      "label": "เคยดำรงตำแหน่งในพรรคการเมือง",
+      "name_en": "political_position_yes",
+      "description": "เลือกหากเคยดำรงตำแหน่งในพรรคการเมือง"
+    },
+    {
+      "field_name": "p4_cb_71_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        439.7,
+        697.6,
+        446.7,
+        710.9
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่เคยถูกไล่ออกเพราะทุจริต",
+      "name_en": "fired_fraud_no",
+      "description": "เลือกหากไม่เคยถูกไล่ออกเพราะทุจริตต่อหน้าที่"
+    },
+    {
+      "field_name": "p4_cb_72_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        511.7,
+        697.6,
+        518.7,
+        710.9
+      ],
+      "ocr_label": "เคย",
+      "label": "เคยถูกไล่ออกเพราะทุจริต",
+      "name_en": "fired_fraud_yes",
+      "description": "เลือกหากเคยถูกไล่ออกเพราะทุจริตต่อหน้าที่"
+    },
+    {
+      "field_name": "p4_cb_73_ไม่เคย_□_เคย",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        331.7,
+        720.1,
+        338.7,
+        733.4
+      ],
+      "ocr_label": "ไม่เคย □ เคย",
+      "label": "ไม่เคยสมัคร/ทำงานที่นี่",
+      "name_en": "prev_applied_no",
+      "description": "เลือกหากไม่เคยสมัครหรือทำงานที่บริษัทนี้"
+    },
+    {
+      "field_name": "p4_cb_74_เคย_ระบุ",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        403.7,
+        720.1,
+        410.7,
+        733.4
+      ],
+      "ocr_label": "เคย ระบุ",
+      "label": "เคยสมัคร/ทำงานที่นี่",
+      "name_en": "prev_applied_yes",
+      "description": "เลือกหากเคยสมัครหรือทำงานที่บริษัทนี้"
+    },
+    {
+      "field_name": "p4_uline_26",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        448.9,
+        719.6,
+        549.3,
+        734.1
+      ],
+      "ocr_label": "",
+      "label": "ระบุรายละเอียดที่เคยสมัคร/ทำงาน",
+      "name_en": "prev_applied_detail",
+      "description": "ระบุรายละเอียดที่เคยสมัครหรือทำงานที่บริษัทนี้"
+    },
+    {
+      "field_name": "p4_cb_75_ได้_□_ไม่ได้",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        331.7,
+        742.7,
+        338.7,
+        756.0
+      ],
+      "ocr_label": "ได้ □ ไม่ได้",
+      "label": "ทำงานเป็นกะได้",
+      "name_en": "shift_work_yes",
+      "description": "เลือกหากสามารถทำงานเป็นกะได้"
+    },
+    {
+      "field_name": "p4_cb_76_ไม่ได้",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        403.7,
+        742.7,
+        410.7,
+        756.0
+      ],
+      "ocr_label": "ไม่ได้",
+      "label": "ทำงานเป็นกะไม่ได้",
+      "name_en": "shift_work_no",
+      "description": "เลือกหากไม่สามารถทำงานเป็นกะได้"
+    },
+    {
+      "field_name": "p4_cb_77_ไม่สูบ_□_สูบ",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        259.6,
+        765.4,
+        266.6,
+        778.7
+      ],
+      "ocr_label": "ไม่สูบ □ สูบ",
+      "label": "ไม่สูบบุหรี่",
+      "name_en": "smoking_no",
+      "description": "เลือกหากไม่สูบบุหรี่"
+    },
+    {
+      "field_name": "p4_cb_78_สูบ_วันละกี่ม้วน",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        331.7,
+        765.4,
+        338.7,
+        778.7
+      ],
+      "ocr_label": "สูบ วันละกี่ม้วน",
+      "label": "สูบบุหรี่",
+      "name_en": "smoking_yes",
+      "description": "เลือกหากสูบบุหรี่"
+    },
+    {
+      "field_name": "p4_uline_27",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        406.1,
+        764.8,
+        441.8,
+        779.3
+      ],
+      "ocr_label": "",
+      "label": "สูบบุหรี่วันละกี่มวน",
+      "name_en": "smoking_per_day",
+      "description": "จำนวนบุหรี่ที่สูบต่อวัน (มวน)"
+    },
+    {
+      "field_name": "p4_cb_79_ไม่ดื่ม_□_ดื่ม",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        151.6,
+        787.9,
+        158.6,
+        801.2
+      ],
+      "ocr_label": "ไม่ดื่ม □ ดื่ม",
+      "label": "ไม่ดื่มเหล้า",
+      "name_en": "drinking_no",
+      "description": "เลือกหากไม่ดื่มเหล้า"
+    },
+    {
+      "field_name": "p4_cb_80_ดื่ม_ครั้งละกี่ขวด",
+      "type": "checkbox",
+      "page": 4,
+      "rect": [
+        223.6,
+        787.9,
+        230.6,
+        801.2
+      ],
+      "ocr_label": "ดื่ม ครั้งละกี่ขวด",
+      "label": "ดื่มเหล้า",
+      "name_en": "drinking_yes",
+      "description": "เลือกหากดื่มเหล้า"
+    },
+    {
+      "field_name": "p4_uline_28",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        300.9,
+        787.4,
+        333.3,
+        801.9
+      ],
+      "ocr_label": "",
+      "label": "ดื่มครั้งละกี่ขวด",
+      "name_en": "drinking_bottles",
+      "description": "จำนวนขวดที่ดื่มต่อครั้ง"
+    },
+    {
+      "field_name": "p4_uline_29",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        418.6,
+        787.4,
+        451.1,
+        801.9
+      ],
+      "ocr_label": "",
+      "label": "ช่วงเวลาดื่ม",
+      "name_en": "drinking_time",
+      "description": "ช่วงเวลาที่ดื่ม (เช้า/เย็น)"
+    },
+    {
+      "field_name": "p4_uline_30",
+      "type": "text",
+      "page": 4,
+      "rect": [
+        508.7,
+        787.4,
+        554.0,
+        801.9
+      ],
+      "ocr_label": "",
+      "label": "ดื่มบ่อยแค่ไหน",
+      "name_en": "drinking_frequency",
+      "description": "ความถี่ในการดื่มเหล้า"
+    },
+    {
+      "field_name": "p5_cb_81_ไม่เล่น_□",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        223.6,
+        126.6,
+        230.6,
+        140.0
+      ],
+      "ocr_label": "ไม่เล่น □",
+      "label": "ไม่เล่นการพนัน",
+      "name_en": "gambling_no",
+      "description": "เลือกหากไม่เล่นการพนัน"
+    },
+    {
+      "field_name": "p5_cb_82_เล่น_ระบุ",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        331.7,
+        126.6,
+        338.7,
+        140.0
+      ],
+      "ocr_label": "เล่น ระบุ",
+      "label": "เล่นการพนัน",
+      "name_en": "gambling_yes",
+      "description": "เลือกหากเล่นการพนัน"
+    },
+    {
+      "field_name": "p5_uline_1",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        380.1,
+        126.1,
+        555.0,
+        140.6
+      ],
+      "ocr_label": "",
+      "label": "ระบุการพนัน",
+      "name_en": "gambling_detail",
+      "description": "ระบุประเภทการพนันที่เล่น"
+    },
+    {
+      "field_name": "p5_cb_83_ไม่มี_□",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        223.6,
+        149.2,
+        230.6,
+        162.5
+      ],
+      "ocr_label": "ไม่มี □",
+      "label": "ไม่มีรอยสัก",
+      "name_en": "tattoo_no",
+      "description": "เลือกหากไม่มีรอยสัก"
+    },
+    {
+      "field_name": "p5_cb_84_มี_ระบุบริเวณ",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        331.7,
+        149.2,
+        338.7,
+        162.5
+      ],
+      "ocr_label": "มี ระบุบริเวณ",
+      "label": "มีรอยสัก",
+      "name_en": "tattoo_yes",
+      "description": "เลือกหากมีรอยสัก"
+    },
+    {
+      "field_name": "p5_uline_2",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        401.7,
+        148.7,
+        552.8,
+        163.2
+      ],
+      "ocr_label": "",
+      "label": "ระบุบริเวณรอยสัก",
+      "name_en": "tattoo_area",
+      "description": "ระบุบริเวณที่มีรอยสัก"
+    },
+    {
+      "field_name": "p5_cb_85_Facebook_□",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        223.6,
+        171.9,
+        230.6,
+        185.2
+      ],
+      "ocr_label": "Facebook □",
+      "label": "ทราบข่าวจาก Facebook",
+      "name_en": "source_facebook",
+      "description": "เลือกหากทราบข่าวรับสมัครจาก Facebook"
+    },
+    {
+      "field_name": "p5_cb_86_Job_Thai_□",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        331.7,
+        171.9,
+        338.7,
+        185.2
+      ],
+      "ocr_label": "Job Thai □",
+      "label": "ทราบข่าวจาก Job Thai",
+      "name_en": "source_jobthai",
+      "description": "เลือกหากทราบข่าวรับสมัครจาก Job Thai"
+    },
+    {
+      "field_name": "p5_cb_87_อื่นๆ_ระบุ",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        403.7,
+        171.9,
+        410.7,
+        185.2
+      ],
+      "ocr_label": "อื่นๆ ระบุ",
+      "label": "ทราบข่าวจากแหล่งอื่น",
+      "name_en": "source_other",
+      "description": "เลือกหากทราบข่าวรับสมัครจากแหล่งอื่น"
+    },
+    {
+      "field_name": "p5_uline_3",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        455.3,
+        171.4,
+        552.3,
+        185.9
+      ],
+      "ocr_label": "",
+      "label": "ระบุแหล่งข่าวรับสมัคร",
+      "name_en": "source_other_detail",
+      "description": "ระบุแหล่งที่ทราบข่าวรับสมัครงาน"
+    },
+    {
+      "field_name": "p5_cb_88_ยินยอม_□_ไม่ยินยอม",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        331.7,
+        194.4,
+        338.7,
+        207.8
+      ],
+      "ocr_label": "ยินยอม □ ไม่ยินยอม",
+      "label": "ยินยอมตรวจประวัติอาชญากรรม",
+      "name_en": "bg_check_consent",
+      "description": "เลือกหากยินยอมให้ตรวจประวัติอาชญากรรม"
+    },
+    {
+      "field_name": "p5_cb_89_ไม่ยินยอม_เพราะ",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        403.7,
+        194.4,
+        410.7,
+        207.8
+      ],
+      "ocr_label": "ไม่ยินยอม เพราะ",
+      "label": "ไม่ยินยอมตรวจประวัติอาชญากรรม",
+      "name_en": "bg_check_no_consent",
+      "description": "เลือกหากไม่ยินยอมให้ตรวจประวัติอาชญากรรม"
+    },
+    {
+      "field_name": "p5_uline_4",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        484.2,
+        193.9,
+        552.1,
+        208.4
+      ],
+      "ocr_label": "",
+      "label": "เหตุผลไม่ยินยอม",
+      "name_en": "bg_check_reason",
+      "description": "ระบุเหตุผลที่ไม่ยินยอมให้ตรวจประวัติอาชญากรรม"
+    },
+    {
+      "field_name": "p5_uline_5",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        262.1,
+        216.5,
+        553.8,
+        231.0
+      ],
+      "ocr_label": "",
+      "label": "ข้อดีอุปนิสัยส่วนตัว",
+      "name_en": "personal_strengths",
+      "description": "ลักษณะอุปนิสัยที่เป็นข้อดีของผู้สมัคร"
+    },
+    {
+      "field_name": "p5_uline_6",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        353.7,
+        239.0,
+        554.6,
+        253.5
+      ],
+      "ocr_label": "",
+      "label": "ข้อเสียอุปนิสัยส่วนตัว",
+      "name_en": "personal_weaknesses",
+      "description": "ลักษณะอุปนิสัยที่เป็นข้อเสียหรือต้องปรับปรุง"
+    },
+    {
+      "field_name": "p5_uline_7",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        249.1,
+        261.7,
+        553.5,
+        276.2
+      ],
+      "ocr_label": "",
+      "label": "รายละเอียดเพิ่มเติม",
+      "name_en": "additional_info",
+      "description": "รายละเอียดเพิ่มเติมที่เป็นประโยชน์ต่อการสมัครงาน"
+    },
+    {
+      "field_name": "p5_field_1",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        391.6,
+        506.7,
+        510.3,
+        521.9
+      ],
+      "ocr_label": "ลงชื่อ",
+      "label": "ลงชื่อผู้สมัครงาน",
+      "name_en": "applicant_signature",
+      "description": "ลายเซ็นผู้สมัครงาน"
+    },
+    {
+      "field_name": "p5_field_2",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        389.0,
+        529.3,
+        527.2,
+        544.4
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อผู้สมัคร (พิมพ์)",
+      "name_en": "applicant_name_print",
+      "description": "ชื่อ-นามสกุลผู้สมัคร (ตัวพิมพ์)"
+    },
+    {
+      "field_name": "p5_field_3",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        412.4,
+        551.8,
+        441.4,
+        567.0
+      ],
+      "ocr_label": "",
+      "label": "วันที่ลงชื่อ (วัน)",
+      "name_en": "applicant_sign_day",
+      "description": "วันที่ลงชื่อผู้สมัคร (วัน)"
+    },
+    {
+      "field_name": "p5_field_4",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        445.5,
+        551.8,
+        469.7,
+        567.0
+      ],
+      "ocr_label": "/",
+      "label": "วันที่ลงชื่อ (เดือน)",
+      "name_en": "applicant_sign_month",
+      "description": "วันที่ลงชื่อผู้สมัคร (เดือน)"
+    },
+    {
+      "field_name": "p5_field_5",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        473.7,
+        551.8,
+        500.5,
+        567.0
+      ],
+      "ocr_label": "/",
+      "label": "วันที่ลงชื่อ (ปี)",
+      "name_en": "applicant_sign_year",
+      "description": "วันที่ลงชื่อผู้สมัคร (ปี)"
+    },
+    {
+      "field_name": "p5_cb_90_ผ่านการสัมภาษณ์",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        55.5,
+        636.6,
+        62.5,
+        649.9
+      ],
+      "ocr_label": "ผ่านการสัมภาษณ์",
+      "label": "ผ่านการสัมภาษณ์",
+      "name_en": "interview_passed",
+      "description": "เลือกหากผู้สมัครผ่านการสัมภาษณ์"
+    },
+    {
+      "field_name": "p5_cb_91_ไม่ผ่านการสัมภาษณ์_เพราะ",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        175.3,
+        636.6,
+        182.3,
+        649.9
+      ],
+      "ocr_label": "ไม่ผ่านการสัมภาษณ์ เพราะ................................................................................................................",
+      "label": "ไม่ผ่านการสัมภาษณ์",
+      "name_en": "interview_failed",
+      "description": "เลือกหากผู้สมัครไม่ผ่านการสัมภาษณ์"
+    },
+    {
+      "field_name": "p5_field_6",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        296.1,
+        633.9,
+        567.7,
+        649.1
+      ],
+      "ocr_label": "□  ผ่านการสัมภาษณ์           □  ไม่ผา่นการสัมภาษณ์ เพราะ",
+      "label": "เหตุผลไม่ผ่านสัมภาษณ์",
+      "name_en": "interview_fail_reason",
+      "description": "ระบุเหตุผลที่ไม่ผ่านการสัมภาษณ์"
+    },
+    {
+      "field_name": "p5_field_7",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        146.5,
+        656.5,
+        321.4,
+        671.7
+      ],
+      "ocr_label": "ได้รับ นาย/นาง/นางสาว",
+      "label": "ได้รับ นาย/นาง/นางสาว",
+      "name_en": "hired_name",
+      "description": "ชื่อ-นามสกุลผู้ที่ได้รับเข้าทำงาน"
+    },
+    {
+      "field_name": "p5_field_8",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        358.0,
+        656.5,
+        451.4,
+        671.7
+      ],
+      "ocr_label": "ตำแหน่ง",
+      "label": "ตำแหน่งที่ได้รับ",
+      "name_en": "hired_position",
+      "description": "ตำแหน่งงานที่ได้รับ"
+    },
+    {
+      "field_name": "p5_field_9",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        481.4,
+        656.5,
+        567.6,
+        671.7
+      ],
+      "ocr_label": "แผนก",
+      "label": "แผนกที่ได้รับ",
+      "name_en": "hired_department",
+      "description": "แผนกที่ได้รับเข้าทำงาน"
+    },
+    {
+      "field_name": "p5_field_10",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        92.1,
+        679.2,
+        171.0,
+        694.3
+      ],
+      "ocr_label": "วันเริ่มงาน",
+      "label": "วันเริ่มงาน",
+      "name_en": "hired_start_date",
+      "description": "วันที่เริ่มทำงาน"
+    },
+    {
+      "field_name": "p5_field_11",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        221.3,
+        679.2,
+        238.1,
+        694.3
+      ],
+      "ocr_label": "ทดลองงาน",
+      "label": "ทดลองงาน (วัน)",
+      "name_en": "probation_days",
+      "description": "จำนวนวันทดลองงาน"
+    },
+    {
+      "field_name": "p5_cb_92_รายวัน_□_รายเดือน",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        343.9,
+        681.8,
+        350.9,
+        695.2
+      ],
+      "ocr_label": "รายวัน □ รายเดือน",
+      "label": "รับจ้างรายวัน",
+      "name_en": "hire_daily",
+      "description": "เลือกหากรับจ้างเป็นรายวัน"
+    },
+    {
+      "field_name": "p5_cb_93_รายเดือน_จำนวน_………………บาท",
+      "type": "checkbox",
+      "page": 5,
+      "rect": [
+        401.0,
+        681.8,
+        408.0,
+        695.2
+      ],
+      "ocr_label": "รายเดือน จำนวน …….........…………บาท",
+      "label": "รับจ้างรายเดือน",
+      "name_en": "hire_monthly",
+      "description": "เลือกหากรับจ้างเป็นรายเดือน"
+    },
+    {
+      "field_name": "p5_field_12",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        485.1,
+        679.2,
+        550.2,
+        694.3
+      ],
+      "ocr_label": "วนั          รับจ้างเปน็     □  รายวัน     □  รายเดือน จำนวน",
+      "label": "จำนวนเงินเดือน (บาท)",
+      "name_en": "hired_salary",
+      "description": "จำนวนเงินเดือนที่ได้รับ (บาท)"
+    },
+    {
+      "field_name": "p5_field_13",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        502.8,
+        701.7,
+        545.8,
+        716.9
+      ],
+      "ocr_label": "อัตราหลังบรรจุ",
+      "label": "อัตราหลังบรรจุ (บาท)",
+      "name_en": "permanent_salary",
+      "description": "อัตราเงินเดือนหลังบรรจุ (บาท)"
+    },
+    {
+      "field_name": "p5_field_14",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        459.7,
+        734.4,
+        553.2,
+        749.5
+      ],
+      "ocr_label": "",
+      "label": "ลงชื่อผู้มีอำนาจ",
+      "name_en": "authority_signature",
+      "description": "ลายเซ็นผู้มีอำนาจอนุมัติ"
+    },
+    {
+      "field_name": "p5_field_15",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        454.5,
+        754.1,
+        555.0,
+        769.2
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อผู้มีอำนาจ (พิมพ์)",
+      "name_en": "authority_name_print",
+      "description": "ชื่อ-นามสกุลผู้มีอำนาจอนุมัติ (ตัวพิมพ์)"
+    },
+    {
+      "field_name": "p5_field_16",
+      "type": "text",
+      "page": 5,
+      "rect": [
+        473.7,
+        773.7,
+        569.5,
+        788.9
+      ],
+      "ocr_label": "ตำแหน่ง",
+      "label": "ตำแหน่งผู้มีอำนาจ",
+      "name_en": "authority_position",
+      "description": "ตำแหน่งผู้มีอำนาจอนุมัติ"
+    },
+    {
+      "field_name": "p6_uline_1",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        125.4,
+        160.2,
+        141.6,
+        174.7
+      ],
+      "ocr_label": "",
+      "label": "วันเริ่มงาน (วัน) ประกันสังคม",
+      "name_en": "ss_start_day",
+      "description": "วันเริ่มงาน (วัน) สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_2",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        145.7,
+        160.2,
+        161.8,
+        174.7
+      ],
+      "ocr_label": "",
+      "label": "วันเริ่มงาน (เดือน) ประกันสังคม",
+      "name_en": "ss_start_month",
+      "description": "วันเริ่มงาน (เดือน) สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_3",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        165.9,
+        160.2,
+        185.3,
+        174.7
+      ],
+      "ocr_label": "",
+      "label": "วันเริ่มงาน (ปี) ประกันสังคม",
+      "name_en": "ss_start_year",
+      "description": "วันเริ่มงาน (ปี) สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_cb_94_รายวัน_□_รายเดือน",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        331.7,
+        160.7,
+        338.7,
+        174.0
+      ],
+      "ocr_label": "รายวัน □ รายเดือน",
+      "label": "ประเภทการจ้าง รายวัน",
+      "name_en": "ss_hire_daily",
+      "description": "เลือกหากประเภทการจ้างเป็นรายวัน"
+    },
+    {
+      "field_name": "p6_cb_95_รายเดือน",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        403.7,
+        160.7,
+        410.7,
+        174.0
+      ],
+      "ocr_label": "รายเดือน",
+      "label": "ประเภทการจ้าง รายเดือน",
+      "name_en": "ss_hire_monthly",
+      "description": "เลือกหากประเภทการจ้างเป็นรายเดือน"
+    },
+    {
+      "field_name": "p6_uline_4",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        137.2,
+        182.8,
+        247.2,
+        197.3
+      ],
+      "ocr_label": "",
+      "label": "เลขประจำตัวประชาชน (ประกันสังคม)",
+      "name_en": "ss_national_id",
+      "description": "เลขประจำตัวประชาชน 13 หลัก สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_5",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        402.7,
+        182.8,
+        554.8,
+        197.3
+      ],
+      "ocr_label": "",
+      "label": "คำนำหน้า ชื่อ-สกุล (ประกันสังคม)",
+      "name_en": "ss_full_name",
+      "description": "คำนำหน้า ชื่อ-นามสกุล สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_6",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        137.2,
+        205.4,
+        153.4,
+        219.9
+      ],
+      "ocr_label": "",
+      "label": "วันเกิด (วัน) ประกันสังคม",
+      "name_en": "ss_birth_day",
+      "description": "วันเกิด (วัน) สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_7",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        157.5,
+        205.4,
+        173.5,
+        219.9
+      ],
+      "ocr_label": "",
+      "label": "วันเกิด (เดือน) ประกันสังคม",
+      "name_en": "ss_birth_month",
+      "description": "วันเกิด (เดือน) สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_8",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        177.6,
+        205.4,
+        197.1,
+        219.9
+      ],
+      "ocr_label": "",
+      "label": "วันเกิด (ปี) ประกันสังคม",
+      "name_en": "ss_birth_year",
+      "description": "วันเกิด (ปี พ.ศ.) สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_9",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        233.4,
+        205.4,
+        291.6,
+        219.9
+      ],
+      "ocr_label": "",
+      "label": "สัญชาติ (ประกันสังคม)",
+      "name_en": "ss_nationality",
+      "description": "สัญชาติ สำหรับประกันสังคม"
+    },
+    {
+      "field_name": "p6_cb_96_หญิง_□_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        331.7,
+        206.0,
+        338.7,
+        219.3
+      ],
+      "ocr_label": "หญิง □ ชาย",
+      "label": "เพศหญิง (ประกันสังคม)",
+      "name_en": "ss_gender_female",
+      "description": "เลือกหากเป็นเพศหญิง (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_97_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        403.7,
+        206.0,
+        410.7,
+        219.3
+      ],
+      "ocr_label": "ชาย",
+      "label": "เพศชาย (ประกันสังคม)",
+      "name_en": "ss_gender_male",
+      "description": "เลือกหากเป็นเพศชาย (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_98_เคย_□_ไม่เคย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        187.6,
+        228.5,
+        194.6,
+        241.8
+      ],
+      "ocr_label": "เคย □ ไม่เคย",
+      "label": "เคยทำประกันสังคม",
+      "name_en": "ss_prev_yes",
+      "description": "เลือกหากเคยทำประกันสังคมจากที่อื่น"
+    },
+    {
+      "field_name": "p6_cb_99_ไม่เคย_(ถ้าไม่เคยกรุณากรอกข้อม",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        259.6,
+        228.5,
+        266.6,
+        241.8
+      ],
+      "ocr_label": "ไม่เคย (ถ้าไม่เคยกรุณากรอกข้อมูลในช่องด้านล่าง)",
+      "label": "ไม่เคยทำประกันสังคม",
+      "name_en": "ss_prev_no",
+      "description": "เลือกหากไม่เคยทำประกันสังคมจากที่อื่น"
+    },
+    {
+      "field_name": "p6_cb_100_โสด_□_สมรส",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        122.7,
+        256.6,
+        129.7,
+        269.9
+      ],
+      "ocr_label": "โสด □ สมรส",
+      "label": "โสด (ประกันสังคม)",
+      "name_en": "ss_status_single",
+      "description": "เลือกหากสถานภาพโสด (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_101_สมรส_□_หม้าย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        185.7,
+        256.6,
+        192.7,
+        269.9
+      ],
+      "ocr_label": "สมรส □ หม้าย",
+      "label": "สมรส (ประกันสังคม)",
+      "name_en": "ss_status_married",
+      "description": "เลือกหากสถานภาพสมรส (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_102_หม้าย_□_หย่า",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        252.7,
+        256.6,
+        259.7,
+        269.9
+      ],
+      "ocr_label": "หม้าย □ หย่า",
+      "label": "หม้าย (ประกันสังคม)",
+      "name_en": "ss_status_widowed",
+      "description": "เลือกหากสถานภาพหม้าย (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_103_หย่า_□_แยกกันอยู่",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        316.8,
+        256.6,
+        323.8,
+        269.9
+      ],
+      "ocr_label": "หย่า □ แยกกันอยู่",
+      "label": "หย่า (ประกันสังคม)",
+      "name_en": "ss_status_divorced",
+      "description": "เลือกหากสถานภาพหย่า (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_104_แยกกันอยู่",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        381.5,
+        256.6,
+        388.5,
+        269.9
+      ],
+      "ocr_label": "แยกกันอยู่",
+      "label": "แยกกันอยู่ (ประกันสังคม)",
+      "name_en": "ss_status_separated",
+      "description": "เลือกหากสถานภาพแยกกันอยู่ (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_105_ไม่มี_□_มี",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        185.3,
+        279.2,
+        192.3,
+        292.5
+      ],
+      "ocr_label": "ไม่มี □ มี",
+      "label": "ไม่มีบุตรอายุไม่เกิน 6 ปี",
+      "name_en": "ss_children_no",
+      "description": "เลือกหากไม่มีบุตรอายุไม่เกิน 6 ปี"
+    },
+    {
+      "field_name": "p6_cb_106_มี_จำนวนบุตร_คน",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        252.2,
+        279.2,
+        259.2,
+        292.5
+      ],
+      "ocr_label": "มี จำนวนบุตร คน",
+      "label": "มีบุตรอายุไม่เกิน 6 ปี",
+      "name_en": "ss_children_yes",
+      "description": "เลือกหากมีบุตรอายุไม่เกิน 6 ปี"
+    },
+    {
+      "field_name": "p6_uline_10",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        327.4,
+        278.7,
+        350.1,
+        293.2
+      ],
+      "ocr_label": "",
+      "label": "จำนวนบุตรอายุไม่เกิน 6 ปี",
+      "name_en": "ss_children_count",
+      "description": "จำนวนบุตรอายุไม่เกิน 6 ปี (คน)"
+    },
+    {
+      "field_name": "p6_uline_11",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        90.4,
+        301.3,
+        252.3,
+        315.8
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 ชื่อ-สกุล (ประกันสังคม)",
+      "name_en": "ss_child1_name",
+      "description": "ชื่อ-นามสกุลบุตรคนที่ 1 (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_uline_12",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        317.1,
+        301.3,
+        333.3,
+        315.8
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 วันเกิด (วัน) ประกันสังคม",
+      "name_en": "ss_child1_birth_day",
+      "description": "วันเกิดบุตรคนที่ 1 (วัน) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_13",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        337.4,
+        301.3,
+        353.6,
+        315.8
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 วันเกิด (เดือน) ประกันสังคม",
+      "name_en": "ss_child1_birth_month",
+      "description": "วันเกิดบุตรคนที่ 1 (เดือน) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_14",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        357.7,
+        301.3,
+        377.1,
+        315.8
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 วันเกิด (ปี) ประกันสังคม",
+      "name_en": "ss_child1_birth_year",
+      "description": "วันเกิดบุตรคนที่ 1 (ปี) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_15",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        399.8,
+        301.3,
+        422.5,
+        315.8
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 1 อายุ (ปี) ประกันสังคม",
+      "name_en": "ss_child1_age",
+      "description": "อายุบุตรคนที่ 1 (ปี) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_cb_107_หญิง_□_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        478.0,
+        301.9,
+        485.0,
+        315.2
+      ],
+      "ocr_label": "หญิง □ ชาย",
+      "label": "บุตรคนที่ 1 เพศหญิง (ประกันสังคม)",
+      "name_en": "ss_child1_female",
+      "description": "เลือกหากบุตรคนที่ 1 เป็นเพศหญิง (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_108_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        528.3,
+        301.9,
+        535.3,
+        315.2
+      ],
+      "ocr_label": "ชาย",
+      "label": "บุตรคนที่ 1 เพศชาย (ประกันสังคม)",
+      "name_en": "ss_child1_male",
+      "description": "เลือกหากบุตรคนที่ 1 เป็นเพศชาย (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_uline_16",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        90.4,
+        323.9,
+        252.3,
+        338.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 ชื่อ-สกุล (ประกันสังคม)",
+      "name_en": "ss_child2_name",
+      "description": "ชื่อ-นามสกุลบุตรคนที่ 2 (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_uline_17",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        317.1,
+        323.9,
+        333.3,
+        338.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 วันเกิด (วัน) ประกันสังคม",
+      "name_en": "ss_child2_birth_day",
+      "description": "วันเกิดบุตรคนที่ 2 (วัน) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_18",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        337.4,
+        323.9,
+        353.6,
+        338.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 วันเกิด (เดือน) ประกันสังคม",
+      "name_en": "ss_child2_birth_month",
+      "description": "วันเกิดบุตรคนที่ 2 (เดือน) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_19",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        357.7,
+        323.9,
+        377.1,
+        338.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 วันเกิด (ปี) ประกันสังคม",
+      "name_en": "ss_child2_birth_year",
+      "description": "วันเกิดบุตรคนที่ 2 (ปี) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_20",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        399.8,
+        323.9,
+        422.5,
+        338.4
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 2 อายุ (ปี) ประกันสังคม",
+      "name_en": "ss_child2_age",
+      "description": "อายุบุตรคนที่ 2 (ปี) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_cb_109_หญิง_□_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        478.0,
+        324.4,
+        485.0,
+        337.8
+      ],
+      "ocr_label": "หญิง □ ชาย",
+      "label": "บุตรคนที่ 2 เพศหญิง (ประกันสังคม)",
+      "name_en": "ss_child2_female",
+      "description": "เลือกหากบุตรคนที่ 2 เป็นเพศหญิง (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_110_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        528.3,
+        324.4,
+        535.3,
+        337.8
+      ],
+      "ocr_label": "ชาย",
+      "label": "บุตรคนที่ 2 เพศชาย (ประกันสังคม)",
+      "name_en": "ss_child2_male",
+      "description": "เลือกหากบุตรคนที่ 2 เป็นเพศชาย (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_uline_21",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        90.4,
+        346.5,
+        252.3,
+        361.0
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 ชื่อ-สกุล (ประกันสังคม)",
+      "name_en": "ss_child3_name",
+      "description": "ชื่อ-นามสกุลบุตรคนที่ 3 (แบบประกันสังคม)"
+    },
+    {
+      "field_name": "p6_uline_22",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        317.1,
+        346.5,
+        333.3,
+        361.0
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 วันเกิด (วัน) ประกันสังคม",
+      "name_en": "ss_child3_birth_day",
+      "description": "วันเกิดบุตรคนที่ 3 (วัน) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_23",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        337.4,
+        346.5,
+        353.6,
+        361.0
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 วันเกิด (เดือน) ประกันสังคม",
+      "name_en": "ss_child3_birth_month",
+      "description": "วันเกิดบุตรคนที่ 3 (เดือน) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_24",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        357.7,
+        346.5,
+        377.1,
+        361.0
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 วันเกิด (ปี) ประกันสังคม",
+      "name_en": "ss_child3_birth_year",
+      "description": "วันเกิดบุตรคนที่ 3 (ปี) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_uline_25",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        399.8,
+        346.5,
+        422.5,
+        361.0
+      ],
+      "ocr_label": "",
+      "label": "บุตรคนที่ 3 อายุ (ปี) ประกันสังคม",
+      "name_en": "ss_child3_age",
+      "description": "อายุบุตรคนที่ 3 (ปี) แบบประกันสังคม"
+    },
+    {
+      "field_name": "p6_cb_111_หญิง_□_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        478.0,
+        347.0,
+        485.0,
+        360.3
+      ],
+      "ocr_label": "หญิง □ ชาย",
+      "label": "บุตรคนที่ 3 เพศหญิง (ประกันสังคม)",
+      "name_en": "ss_child3_female",
+      "description": "เลือกหากบุตรคนที่ 3 เป็นเพศหญิง (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_112_ชาย",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        528.3,
+        347.0,
+        535.3,
+        360.3
+      ],
+      "ocr_label": "ชาย",
+      "label": "บุตรคนที่ 3 เพศชาย (ประกันสังคม)",
+      "name_en": "ss_child3_male",
+      "description": "เลือกหากบุตรคนที่ 3 เป็นเพศชาย (ประกันสังคม)"
+    },
+    {
+      "field_name": "p6_cb_113_เพื่อเรียงลำดับ_1,2_หรือ",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        170.1,
+        379.8,
+        177.1,
+        393.1
+      ],
+      "ocr_label": "เพื่อเรียงลำดับ 1,2 หรือ",
+      "label": "เรียงลำดับสถานพยาบาล",
+      "name_en": "hospital_ranking",
+      "description": "ใส่ตัวเลข 1, 2 หรือ 3 เพื่อเรียงลำดับสถานพยาบาล"
+    },
+    {
+      "field_name": "p6_cb_114_โรงพยาบาลบางปะกอก_3",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        45.2,
+        407.1,
+        59.7,
+        425.6
+      ],
+      "ocr_label": "โรงพยาบาลบางปะกอก 3",
+      "label": "โรงพยาบาลบางปะกอก 3",
+      "name_en": "hospital_bangpakok3",
+      "description": "เลือกโรงพยาบาลบางปะกอก 3"
+    },
+    {
+      "field_name": "p6_cb_115_โรงพยาบาลเปาโลพระประแดง",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        305.9,
+        407.1,
+        320.4,
+        425.6
+      ],
+      "ocr_label": "โรงพยาบาลเปาโลพระประแดง",
+      "label": "โรงพยาบาลเปาโลพระประแดง",
+      "name_en": "hospital_paolo",
+      "description": "เลือกโรงพยาบาลเปาโลพระประแดง"
+    },
+    {
+      "field_name": "p6_cb_116_โรงพยาบาลราษฎร์บูรณะ",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        45.2,
+        434.5,
+        59.7,
+        453.0
+      ],
+      "ocr_label": "โรงพยาบาลราษฎร์บูรณะ",
+      "label": "โรงพยาบาลราษฎร์บูรณะ",
+      "name_en": "hospital_ratburana",
+      "description": "เลือกโรงพยาบาลราษฎร์บูรณะ"
+    },
+    {
+      "field_name": "p6_cb_117_อื่นๆ",
+      "type": "checkbox",
+      "page": 6,
+      "rect": [
+        306.2,
+        434.5,
+        320.7,
+        453.0
+      ],
+      "ocr_label": "อื่นๆ",
+      "label": "โรงพยาบาลอื่นๆ",
+      "name_en": "hospital_other",
+      "description": "เลือกโรงพยาบาลอื่นๆ"
+    },
+    {
+      "field_name": "p6_field_3",
+      "type": "text",
+      "page": 6,
+      "rect": [
+        305.7,
+        455.7,
+        520.1,
+        470.2
+      ],
+      "ocr_label": "",
+      "label": "ระบุโรงพยาบาลอื่นๆ",
+      "name_en": "hospital_other_name",
+      "description": "ระบุชื่อโรงพยาบาลอื่นๆ"
+    },
+    {
+      "field_name": "p7_uline_1",
+      "type": "text",
+      "page": 7,
+      "rect": [
+        112.2,
+        175.7,
+        341.0,
+        190.2
+      ],
+      "ocr_label": "",
+      "label": "ชื่อผู้สมัคร (หนังสือยินยอม)",
+      "name_en": "consent_applicant_name",
+      "description": "ชื่อ-นามสกุลผู้สมัครในหนังสือให้ความยินยอม PDPA"
+    },
+    {
+      "field_name": "p8_field_1",
+      "type": "text",
+      "page": 8,
+      "rect": [
+        105.0,
+        578.1,
+        238.3,
+        593.3
+      ],
+      "ocr_label": "ลงชื่อ",
+      "label": "ลงชื่อผู้สมัคร (ยินยอม)",
+      "name_en": "consent_signature",
+      "description": "ลายเซ็นผู้สมัครในหนังสือยินยอม"
+    },
+    {
+      "field_name": "p8_field_2",
+      "type": "text",
+      "page": 8,
+      "rect": [
+        387.3,
+        578.1,
+        496.3,
+        593.3
+      ],
+      "ocr_label": "ผู้ให้คำยินยอม                    ลงชื่อ",
+      "label": "ลงชื่อผู้ให้คำยินยอม",
+      "name_en": "consent_guardian_signature",
+      "description": "ลายเซ็นผู้ให้คำยินยอม (กรณีผู้เยาว์)"
+    },
+    {
+      "field_name": "p8_field_3",
+      "type": "text",
+      "page": 8,
+      "rect": [
+        120.0,
+        597.8,
+        231.5,
+        612.9
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อผู้สมัคร (พิมพ์) ยินยอม",
+      "name_en": "consent_name_print",
+      "description": "ชื่อ-นามสกุลผู้สมัคร (ตัวพิมพ์) ในหนังสือยินยอม"
+    },
+    {
+      "field_name": "p8_field_4",
+      "type": "text",
+      "page": 8,
+      "rect": [
+        393.0,
+        597.8,
+        504.5,
+        612.9
+      ],
+      "ocr_label": ")                                              (",
+      "label": "ชื่อผู้ให้คำยินยอม (พิมพ์)",
+      "name_en": "consent_guardian_name_print",
+      "description": "ชื่อ-นามสกุลผู้ให้คำยินยอม (ตัวพิมพ์)"
+    },
+    {
+      "field_name": "p8_field_5",
+      "type": "text",
+      "page": 8,
+      "rect": [
+        105.8,
+        637.0,
+        244.0,
+        652.2
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่ลงชื่อยินยอม (ผู้สมัคร)",
+      "name_en": "consent_date",
+      "description": "วันที่ลงชื่อในหนังสือยินยอม (ผู้สมัคร)"
+    },
+    {
+      "field_name": "p8_field_6",
+      "type": "text",
+      "page": 8,
+      "rect": [
+        391.7,
+        637.0,
+        529.9,
+        652.2
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่ลงชื่อยินยอม (ผู้ให้คำยินยอม)",
+      "name_en": "consent_guardian_date",
+      "description": "วันที่ลงชื่อในหนังสือยินยอม (ผู้ให้คำยินยอม)"
+    }
+  ]
+}

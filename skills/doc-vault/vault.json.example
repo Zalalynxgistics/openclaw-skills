@@ -1,0 +1,27 @@
+{
+  "persons": {
+    "ชื่อ นามสกุล": {
+      "nickname": "ชื่อเล่น",
+      "documents": {
+        "id_card": {
+          "file": "docs/person/ชื่อ นามสกุล/id_card.pdf",
+          "id_number": "x-xxxx-xxxxx-xx-x",
+          "expiry": "2027-01-01",
+          "added": "2026-01-01",
+          "note": ""
+        }
+      }
+    }
+  },
+  "companies": {
+    "ชื่อบริษัท": {
+      "documents": {
+        "cert": {
+          "file": "docs/company/ชื่อบริษัท/cert.pdf",
+          "added": "2026-01-01",
+          "note": "หนังสือรับรอง"
+        }
+      }
+    }
+  }
+}

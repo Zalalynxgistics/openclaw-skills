@@ -1,0 +1,475 @@
+{
+  "form_name": "สัญญาซื้อขายรถยนต์",
+  "fields": [
+    {
+      "field_name": "p1_field_1",
+      "type": "text",
+      "page": 1,
+      "rect": [166.1, 117.8, 393.1, 132.6],
+      "ocr_label": "สัญญาฉบบัน้ีจดัทา ข้ึน ณ",
+      "label": "สถานที่ทำสัญญา",
+      "name_en": "contract_location",
+      "description": "สถานที่จัดทำสัญญา"
+    },
+    {
+      "field_name": "p1_field_2",
+      "type": "text",
+      "page": 1,
+      "rect": [429.5, 117.8, 534.1, 132.6],
+      "ocr_label": "เมื่อวนัที่",
+      "label": "วันที่ทำสัญญา",
+      "name_en": "contract_date",
+      "description": "วันเดือนปีที่จัดทำสัญญา"
+    },
+    {
+      "field_name": "p1_field_3",
+      "type": "text",
+      "page": 1,
+      "rect": [217.1, 143.8, 342.0, 158.6],
+      "ocr_label": "ระหว่าง นาย / นาง / นางสาว",
+      "label": "ชื่อผู้ขาย",
+      "name_en": "seller_name",
+      "description": "ชื่อ-นามสกุลผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_4",
+      "type": "text",
+      "page": 1,
+      "rect": [358.9, 143.8, 415.1, 158.6],
+      "ocr_label": "ุ",
+      "label": "อายุผู้ขาย",
+      "name_en": "seller_age",
+      "description": "อายุผู้ขาย (ปี)"
+    },
+    {
+      "field_name": "p1_field_5",
+      "type": "text",
+      "page": 1,
+      "rect": [483.8, 143.8, 529.7, 158.6],
+      "ocr_label": "อาศยัอยบู่า้นเลขที่",
+      "label": "บ้านเลขที่ผู้ขาย",
+      "name_en": "seller_house_number",
+      "description": "บ้านเลขที่ของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_6",
+      "type": "text",
+      "page": 1,
+      "rect": [114.0, 163.8, 190.3, 178.6],
+      "ocr_label": "ตรอก/ซอย",
+      "label": "ตรอก/ซอยผู้ขาย",
+      "name_en": "seller_soi",
+      "description": "ตรอกหรือซอยของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_7",
+      "type": "text",
+      "page": 1,
+      "rect": [213.5, 163.8, 287.6, 178.6],
+      "ocr_label": "ถนน",
+      "label": "ถนนผู้ขาย",
+      "name_en": "seller_road",
+      "description": "ถนนของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_8",
+      "type": "text",
+      "page": 1,
+      "rect": [336.5, 163.8, 408.1, 178.6],
+      "ocr_label": "ตา บล/แขวง",
+      "label": "ตำบล/แขวงผู้ขาย",
+      "name_en": "seller_subdistrict",
+      "description": "ตำบลหรือแขวงของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_9",
+      "type": "text",
+      "page": 1,
+      "rect": [452.1, 163.8, 533.7, 178.6],
+      "ocr_label": "อา เภอ/เขต",
+      "label": "อำเภอ/เขตผู้ขาย",
+      "name_en": "seller_district",
+      "description": "อำเภอหรือเขตของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_10",
+      "type": "text",
+      "page": 1,
+      "rect": [99.6, 183.8, 178.8, 198.6],
+      "ocr_label": "จงัหวดั",
+      "label": "จังหวัดผู้ขาย",
+      "name_en": "seller_province",
+      "description": "จังหวัดของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_11",
+      "type": "text",
+      "page": 1,
+      "rect": [291.3, 183.8, 367.6, 198.6],
+      "ocr_label": "บตัรประจา ตวัประชาชนเลขที่",
+      "label": "เลขบัตรประชาชนผู้ขาย",
+      "name_en": "seller_id_number",
+      "description": "เลขบัตรประจำตัวประชาชนของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_12",
+      "type": "text",
+      "page": 1,
+      "rect": [410.2, 183.8, 518.9, 198.6],
+      "ocr_label": "ออกให้โดย",
+      "label": "บัตรประชาชนผู้ขายออกให้โดย",
+      "name_en": "seller_id_issued_by",
+      "description": "หน่วยงานที่ออกบัตรประชาชนของผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_13",
+      "type": "text",
+      "page": 1,
+      "rect": [230.7, 223.8, 360.8, 238.6],
+      "ocr_label": "ฝ่ายหน่ึงกบั นาย / นาง / นางสาว",
+      "label": "ชื่อผู้ซื้อ",
+      "name_en": "buyer_name",
+      "description": "ชื่อ-นามสกุลผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_14",
+      "type": "text",
+      "page": 1,
+      "rect": [377.7, 223.8, 418.5, 238.6],
+      "ocr_label": "ุ",
+      "label": "อายุผู้ซื้อ",
+      "name_en": "buyer_age",
+      "description": "อายุผู้ซื้อ (ปี)"
+    },
+    {
+      "field_name": "p1_field_15",
+      "type": "text",
+      "page": 1,
+      "rect": [487.4, 223.8, 528.1, 238.6],
+      "ocr_label": "อาศยัอยบู่า้นเลขที่",
+      "label": "บ้านเลขที่ผู้ซื้อ",
+      "name_en": "buyer_house_number",
+      "description": "บ้านเลขที่ของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_16",
+      "type": "text",
+      "page": 1,
+      "rect": [114.0, 243.8, 190.3, 258.6],
+      "ocr_label": "ตรอก/ซอย",
+      "label": "ตรอก/ซอยผู้ซื้อ",
+      "name_en": "buyer_soi",
+      "description": "ตรอกหรือซอยของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_17",
+      "type": "text",
+      "page": 1,
+      "rect": [213.5, 243.8, 287.6, 258.6],
+      "ocr_label": "ถนน",
+      "label": "ถนนผู้ซื้อ",
+      "name_en": "buyer_road",
+      "description": "ถนนของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_18",
+      "type": "text",
+      "page": 1,
+      "rect": [336.5, 243.8, 408.1, 258.6],
+      "ocr_label": "ตา บล/แขวง",
+      "label": "ตำบล/แขวงผู้ซื้อ",
+      "name_en": "buyer_subdistrict",
+      "description": "ตำบลหรือแขวงของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_19",
+      "type": "text",
+      "page": 1,
+      "rect": [452.1, 243.8, 533.7, 258.6],
+      "ocr_label": "อา เภอ/เขต",
+      "label": "อำเภอ/เขตผู้ซื้อ",
+      "name_en": "buyer_district",
+      "description": "อำเภอหรือเขตของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_20",
+      "type": "text",
+      "page": 1,
+      "rect": [99.6, 263.8, 178.8, 278.6],
+      "ocr_label": "จงัหวดั",
+      "label": "จังหวัดผู้ซื้อ",
+      "name_en": "buyer_province",
+      "description": "จังหวัดของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_21",
+      "type": "text",
+      "page": 1,
+      "rect": [291.3, 263.8, 367.6, 278.6],
+      "ocr_label": "บตัรประจา ตวัประชาชนเลขที่",
+      "label": "เลขบัตรประชาชนผู้ซื้อ",
+      "name_en": "buyer_id_number",
+      "description": "เลขบัตรประจำตัวประชาชนของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_22",
+      "type": "text",
+      "page": 1,
+      "rect": [410.2, 263.8, 518.8, 278.6],
+      "ocr_label": "ออกให้โดย",
+      "label": "บัตรประชาชนผู้ซื้อออกให้โดย",
+      "name_en": "buyer_id_issued_by",
+      "description": "หน่วยงานที่ออกบัตรประชาชนของผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_23",
+      "type": "text",
+      "page": 1,
+      "rect": [314.3, 328.9, 401.9, 343.7],
+      "ocr_label": "ผซู้้ือตกลงซ้ือ และผขู้ายตกลงขายรถยนตป์ระเภท",
+      "label": "ประเภทรถยนต์",
+      "name_en": "vehicle_category",
+      "description": "ประเภทรถยนต์ เช่น รถเก๋ง รถกระบะ"
+    },
+    {
+      "field_name": "p1_field_24",
+      "type": "text",
+      "page": 1,
+      "rect": [424.3, 328.9, 525.7, 343.7],
+      "ocr_label": "ยหี่้อ",
+      "label": "ยี่ห้อ",
+      "name_en": "vehicle_brand",
+      "description": "ยี่ห้อรถยนต์"
+    },
+    {
+      "field_name": "p1_field_25",
+      "type": "text",
+      "page": 1,
+      "rect": [82.0, 348.9, 143.2, 363.7],
+      "ocr_label": "รุ่น",
+      "label": "รุ่น",
+      "name_en": "vehicle_model",
+      "description": "รุ่นของรถยนต์"
+    },
+    {
+      "field_name": "p1_field_26",
+      "type": "text",
+      "page": 1,
+      "rect": [149.6, 348.9, 200.6, 363.7],
+      "ocr_label": "ปี",
+      "label": "ปีรถ",
+      "name_en": "vehicle_year",
+      "description": "ปีที่ผลิตรถยนต์ (ค.ศ. หรือ พ.ศ.)"
+    },
+    {
+      "field_name": "p1_field_27",
+      "type": "text",
+      "page": 1,
+      "rect": [220.7, 348.9, 287.1, 363.7],
+      "ocr_label": "เกียร์",
+      "label": "เกียร์",
+      "name_en": "vehicle_transmission",
+      "description": "ประเภทเกียร์ เช่น ออโต้ ธรรมดา"
+    },
+    {
+      "field_name": "p1_field_28",
+      "type": "text",
+      "page": 1,
+      "rect": [293.3, 348.9, 367.1, 363.7],
+      "ocr_label": "สี",
+      "label": "สีรถ",
+      "name_en": "vehicle_color",
+      "description": "สีของรถยนต์"
+    },
+    {
+      "field_name": "p1_field_29",
+      "type": "text",
+      "page": 1,
+      "rect": [433.1, 348.9, 535.1, 363.7],
+      "ocr_label": "หมายเลขทะเบียน",
+      "label": "หมายเลขทะเบียน",
+      "name_en": "vehicle_registration_number",
+      "description": "หมายเลขทะเบียนรถยนต์"
+    },
+    {
+      "field_name": "p1_field_30",
+      "type": "text",
+      "page": 1,
+      "rect": [128.1, 368.9, 275.9, 383.7],
+      "ocr_label": "หมายเลขเครื่อง",
+      "label": "หมายเลขเครื่องยนต์",
+      "name_en": "engine_number",
+      "description": "หมายเลขเครื่องยนต์"
+    },
+    {
+      "field_name": "p1_field_31",
+      "type": "text",
+      "page": 1,
+      "rect": [360.9, 368.9, 533.8, 383.7],
+      "ocr_label": "์",
+      "label": "หมายเลขตัวถัง",
+      "name_en": "chassis_number",
+      "description": "หมายเลขตัวถังรถยนต์ (VIN)"
+    },
+    {
+      "field_name": "p1_field_32",
+      "type": "text",
+      "page": 1,
+      "rect": [397.7, 413.6, 519.0, 428.5],
+      "ocr_label": "คู่สัญญาท้งัสองฝ่ายตกลงซ้ือขายรถยนต์คันดังกล่าว ในราคาท้งัสิ้น",
+      "label": "ราคาซื้อขาย",
+      "name_en": "sale_price",
+      "description": "ราคาซื้อขายรถยนต์ (ตัวเลข) เป็นบาท"
+    },
+    {
+      "field_name": "p1_field_33",
+      "type": "text",
+      "page": 1,
+      "rect": [73.8, 433.6, 298.2, 448.5],
+      "ocr_label": "(",
+      "label": "ราคาเป็นตัวอักษร",
+      "name_en": "sale_price_text",
+      "description": "จำนวนเงินเป็นตัวอักษร เช่น หนึ่งแสนบาทถ้วน"
+    },
+    {
+      "field_name": "p1_cb_1_เงินสด_�_เช็ค",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [71.8, 456.0, 80.7, 469.5],
+      "ocr_label": "เงินสด � เช็ค",
+      "label": "ชำระเงินสด",
+      "name_en": "payment_cash",
+      "description": "เลือกเมื่อชำระเป็นเงินสด"
+    },
+    {
+      "field_name": "p1_cb_2_เช็ค_ธนาคารสาขาเลขที่เช็ค",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [112.8, 456.0, 121.7, 469.5],
+      "ocr_label": "เช็ค ธนาคาร........................................สาขา...........................................เลขที่เช็ค.......................................",
+      "label": "ชำระเช็ค",
+      "name_en": "payment_cheque",
+      "description": "เลือกเมื่อชำระเป็นเช็คธนาคาร"
+    },
+    {
+      "field_name": "p1_field_34",
+      "type": "text",
+      "page": 1,
+      "rect": [171.6, 453.2, 267.6, 468.5],
+      "ocr_label": "? เงินสด ? เช็ค ธนาคาร",
+      "label": "ธนาคาร",
+      "name_en": "cheque_bank",
+      "description": "ชื่อธนาคารที่ออกเช็ค"
+    },
+    {
+      "field_name": "p1_field_35",
+      "type": "text",
+      "page": 1,
+      "rect": [287.5, 453.2, 399.2, 468.5],
+      "ocr_label": "สาขา",
+      "label": "สาขาธนาคาร",
+      "name_en": "cheque_branch",
+      "description": "สาขาธนาคารที่ออกเช็ค"
+    },
+    {
+      "field_name": "p1_field_36",
+      "type": "text",
+      "page": 1,
+      "rect": [432.7, 453.2, 534.1, 468.5],
+      "ocr_label": "เลขที่เช็ค",
+      "label": "เลขที่เช็ค",
+      "name_en": "cheque_number",
+      "description": "เลขที่เช็ค"
+    },
+    {
+      "field_name": "p1_field_37",
+      "type": "text",
+      "page": 1,
+      "rect": [483.5, 661.6, 538.5, 676.9],
+      "ocr_label": "ตรงตามเจตนาของตน จึงไดล้งลายมือชื่อ ไวเ้ป็นสา คญัต่อหนา้พยาน และต่างยดึถือไวฝ้่ายละฉบบั ฉบบัน้ีสา หรับ",
+      "label": "ฉบับนี้สำหรับ",
+      "name_en": "copy_for",
+      "description": "ระบุว่าสัญญาฉบับนี้สำหรับฝ่ายใด เช่น ผู้ขาย หรือ ผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_38",
+      "type": "text",
+      "page": 1,
+      "rect": [107.0, 712.0, 247.3, 726.9],
+      "ocr_label": "ลงชื่อ",
+      "label": "ลงชื่อผู้ขาย",
+      "name_en": "seller_signature",
+      "description": "ลายมือชื่อผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_39",
+      "type": "text",
+      "page": 1,
+      "rect": [363.7, 712.0, 503.3, 726.9],
+      "ocr_label": "(ผขู้าย) ลงชื่อ",
+      "label": "ลงชื่อผู้ซื้อ",
+      "name_en": "buyer_signature",
+      "description": "ลายมือชื่อผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_40",
+      "type": "text",
+      "page": 1,
+      "rect": [104.2, 734.5, 254.2, 749.4],
+      "ocr_label": "(",
+      "label": "ชื่อผู้ขาย (ตัวบรรจง)",
+      "name_en": "seller_printed_name",
+      "description": "ชื่อตัวบรรจงผู้ขาย"
+    },
+    {
+      "field_name": "p1_field_41",
+      "type": "text",
+      "page": 1,
+      "rect": [359.5, 734.5, 509.5, 749.4],
+      "ocr_label": ") (",
+      "label": "ชื่อผู้ซื้อ (ตัวบรรจง)",
+      "name_en": "buyer_printed_name",
+      "description": "ชื่อตัวบรรจงผู้ซื้อ"
+    },
+    {
+      "field_name": "p1_field_42",
+      "type": "text",
+      "page": 1,
+      "rect": [106.0, 762.8, 245.9, 777.6],
+      "ocr_label": "ลงชื่อ",
+      "label": "ลงชื่อพยาน 1",
+      "name_en": "witness_1_signature",
+      "description": "ลายมือชื่อพยานคนที่ 1"
+    },
+    {
+      "field_name": "p1_field_43",
+      "type": "text",
+      "page": 1,
+      "rect": [361.3, 762.8, 501.2, 777.6],
+      "ocr_label": "(พยาน) ลงชื่อ",
+      "label": "ลงชื่อพยาน 2",
+      "name_en": "witness_2_signature",
+      "description": "ลายมือชื่อพยานคนที่ 2"
+    },
+    {
+      "field_name": "p1_field_44",
+      "type": "text",
+      "page": 1,
+      "rect": [104.2, 785.0, 254.2, 799.8],
+      "ocr_label": "(",
+      "label": "ชื่อพยาน 1 (ตัวบรรจง)",
+      "name_en": "witness_1_printed_name",
+      "description": "ชื่อตัวบรรจงพยานคนที่ 1"
+    },
+    {
+      "field_name": "p1_field_45",
+      "type": "text",
+      "page": 1,
+      "rect": [359.5, 785.0, 509.5, 799.8],
+      "ocr_label": ") (",
+      "label": "ชื่อพยาน 2 (ตัวบรรจง)",
+      "name_en": "witness_2_printed_name",
+      "description": "ชื่อตัวบรรจงพยานคนที่ 2"
+    }
+  ]
+}

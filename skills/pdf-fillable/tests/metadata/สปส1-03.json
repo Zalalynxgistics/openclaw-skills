@@ -1,0 +1,1415 @@
+{
+  "form_name": "สปส1-03",
+  "fields": [
+    {
+      "field_name": "p1_field_1",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        107.3,
+        88.2,
+        300.2,
+        102.4
+      ],
+      "ocr_label": "ชื่อสถานประกอบการ",
+      "label": "ชื่อสถานประกอบการ",
+      "name_en": "employer_name",
+      "description": "ชื่อสถานประกอบการ/บริษัทนายจ้าง"
+    },
+    {
+      "field_name": "p1_digits_1",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        392.5,
+        91.8,
+        421.4,
+        106.2
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัญชี (ส่วนที่ 1)",
+      "name_en": "account_number_part1",
+      "description": "เลขที่บัญชีนายจ้าง ส่วนที่ 1 (2 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_2",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        435.3,
+        91.8,
+        536.6,
+        106.2
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัญชี (ส่วนที่ 2)",
+      "name_en": "account_number_part2",
+      "description": "เลขที่บัญชีนายจ้าง ส่วนที่ 2 (7 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_3",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        549.2,
+        91.8,
+        563.6,
+        106.2
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัญชี (ส่วนที่ 3)",
+      "name_en": "account_number_part3",
+      "description": "เลขที่บัญชีนายจ้าง ส่วนที่ 3 (1 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_4",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        143.2,
+        108.1,
+        186.5,
+        122.5
+      ],
+      "ocr_label": "",
+      "label": "เลขทะเบียนนิติบุคคล (ส่วนที่ 1)",
+      "name_en": "juristic_id_part1",
+      "description": "เลขทะเบียนนิติบุคคล ส่วนที่ 1 (3 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_5",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        199.1,
+        108.1,
+        227.9,
+        122.5
+      ],
+      "ocr_label": "",
+      "label": "เลขทะเบียนนิติบุคคล (ส่วนที่ 2)",
+      "name_en": "juristic_id_part2",
+      "description": "เลขทะเบียนนิติบุคคล ส่วนที่ 2 (2 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_6",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        241.9,
+        108.1,
+        343.1,
+        122.5
+      ],
+      "ocr_label": "",
+      "label": "เลขทะเบียนนิติบุคคล (ส่วนที่ 3)",
+      "name_en": "juristic_id_part3",
+      "description": "เลขทะเบียนนิติบุคคล ส่วนที่ 3 (7 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_7",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        355.7,
+        108.1,
+        370.1,
+        122.5
+      ],
+      "ocr_label": "",
+      "label": "เลขทะเบียนนิติบุคคล (ส่วนที่ 4)",
+      "name_en": "juristic_id_part4",
+      "description": "เลขทะเบียนนิติบุคคล ส่วนที่ 4 (1 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_8",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        476.8,
+        108.1,
+        563.2,
+        122.5
+      ],
+      "ocr_label": "",
+      "label": "ลำดับที่สาขา",
+      "name_en": "branch_sequence",
+      "description": "ลำดับที่สาขาของนายจ้าง (6 หลัก)"
+    },
+    {
+      "field_name": "p1_field_2",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        126.4,
+        123.3,
+        253.3,
+        137.6
+      ],
+      "ocr_label": "วันที่ผู้ประกันตนเข้าท างาน",
+      "label": "วันที่ผู้ประกันตนเข้าทำงาน",
+      "name_en": "insured_start_date",
+      "description": "วัน เดือน ปี ที่ผู้ประกันตนเริ่มเข้าทำงาน"
+    },
+    {
+      "field_name": "p1_cb_1_รายวัน_รายเดือน_อื่น",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        339.7,
+        130.0,
+        347.1,
+        137.3
+      ],
+      "ocr_label": "รายวัน รายเดือน อื่น",
+      "label": "รายวัน",
+      "name_en": "employment_type_daily",
+      "description": "เลือกถ้าประเภทการจ้างเป็นรายวัน"
+    },
+    {
+      "field_name": "p1_cb_2_รายเดือน_อื่น_ๆ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        389.0,
+        129.2,
+        396.4,
+        136.6
+      ],
+      "ocr_label": "รายเดือน อื่น ๆ",
+      "label": "รายเดือน",
+      "name_en": "employment_type_monthly",
+      "description": "เลือกถ้าประเภทการจ้างเป็นรายเดือน"
+    },
+    {
+      "field_name": "p1_cb_3_อื่น_ๆ_(ระบุ)",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        448.1,
+        130.0,
+        455.5,
+        137.3
+      ],
+      "ocr_label": "อื่น ๆ (ระบุ).........................",
+      "label": "อื่น ๆ",
+      "name_en": "employment_type_other",
+      "description": "เลือกถ้าประเภทการจ้างเป็นอื่น ๆ"
+    },
+    {
+      "field_name": "p1_field_3",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        504.7,
+        123.3,
+        561.4,
+        137.6
+      ],
+      "ocr_label": "ประเภทการจ้าง         รายวัน     รายเดือน อื่น ๆ (ระบุ)",
+      "label": "ประเภทการจ้างอื่น ๆ (ระบุ)",
+      "name_en": "employment_type_other_specify",
+      "description": "ระบุประเภทการจ้างอื่น ๆ"
+    },
+    {
+      "field_name": "p1_cb_4_ไม่เคยขึ้นทะเบียนผู้ประกันตน",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        51.3,
+        166.5,
+        58.7,
+        173.8
+      ],
+      "ocr_label": "ไม่เคยขึ้นทะเบียนผู้ประกันตน",
+      "label": "ไม่เคยขึ้นทะเบียนผู้ประกันตน",
+      "name_en": "never_registered",
+      "description": "เลือกถ้าไม่เคยขึ้นทะเบียนเป็นผู้ประกันตนมาก่อน"
+    },
+    {
+      "field_name": "p1_cb_5_เคยขึ้นทะเบียนผู้ประกันตน_ท",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        51.0,
+        182.2,
+        58.3,
+        189.5
+      ],
+      "ocr_label": "เคยขึ้นทะเบียนผู้ประกันตน ท",
+      "label": "เคยขึ้นทะเบียนผู้ประกันตน",
+      "name_en": "previously_registered",
+      "description": "เลือกถ้าเคยขึ้นทะเบียนเป็นผู้ประกันตนมาก่อน"
+    },
+    {
+      "field_name": "p1_cb_6_ท_างานกับนายจ้างหลายแห่ง_1",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        193.4,
+        182.4,
+        200.8,
+        189.7
+      ],
+      "ocr_label": "ท างานกับนายจ้างหลายแห่ง 1.",
+      "label": "ทำงานกับนายจ้างหลายแห่ง",
+      "name_en": "multiple_employers",
+      "description": "เลือกถ้าทำงานกับนายจ้างหลายแห่ง"
+    },
+    {
+      "field_name": "p1_field_4",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        325.1,
+        177.5,
+        438.5,
+        191.7
+      ],
+      "ocr_label": "",
+      "label": "นายจ้างแห่งที่ 1",
+      "name_en": "employer_1_name",
+      "description": "ชื่อนายจ้างแห่งที่ 1 (กรณีทำงานหลายแห่ง)"
+    },
+    {
+      "field_name": "p1_field_5",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        451.9,
+        177.5,
+        567.7,
+        191.7
+      ],
+      "ocr_label": "",
+      "label": "นายจ้างแห่งที่ 2",
+      "name_en": "employer_2_name",
+      "description": "ชื่อนายจ้างแห่งที่ 2 (กรณีทำงานหลายแห่ง)"
+    },
+    {
+      "field_name": "p1_cb_7_นาย_นางสาว_นาง",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        70.2,
+        198.4,
+        77.5,
+        205.8
+      ],
+      "ocr_label": "นาย นางสาว นาง",
+      "label": "นาย",
+      "name_en": "title_mr",
+      "description": "เลือกถ้าคำนำหน้าชื่อเป็น นาย"
+    },
+    {
+      "field_name": "p1_cb_8_นางสาว_นาง_ชื่อ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        107.8,
+        198.2,
+        115.2,
+        205.5
+      ],
+      "ocr_label": "นางสาว นาง ชื่อ..............................................",
+      "label": "นางสาว",
+      "name_en": "title_miss",
+      "description": "เลือกถ้าคำนำหน้าชื่อเป็น นางสาว"
+    },
+    {
+      "field_name": "p1_cb_9_นาง_ชื่อ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        163.8,
+        198.4,
+        171.1,
+        205.8
+      ],
+      "ocr_label": "นาง ชื่อ..............................................",
+      "label": "นาง",
+      "name_en": "title_mrs",
+      "description": "เลือกถ้าคำนำหน้าชื่อเป็น นาง"
+    },
+    {
+      "field_name": "p1_field_6",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        216.0,
+        193.3,
+        320.3,
+        207.5
+      ],
+      "ocr_label": "2  ชื่อ นาย        นางสาว         นาง    ชื่อ",
+      "label": "ชื่อ",
+      "name_en": "insured_first_name",
+      "description": "ชื่อของผู้ประกันตน"
+    },
+    {
+      "field_name": "p1_field_7",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        359.2,
+        193.3,
+        456.8,
+        207.5
+      ],
+      "ocr_label": "ชื่อสกุล",
+      "label": "ชื่อสกุล",
+      "name_en": "insured_last_name",
+      "description": "นามสกุลของผู้ประกันตน"
+    },
+    {
+      "field_name": "p1_field_8",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        497.1,
+        193.3,
+        549.4,
+        207.5
+      ],
+      "ocr_label": "สัญชาติ",
+      "label": "สัญชาติ",
+      "name_en": "insured_nationality",
+      "description": "สัญชาติของผู้ประกันตน"
+    },
+    {
+      "field_name": "p1_field_9",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        77.2,
+        209.1,
+        111.3,
+        223.4
+      ],
+      "ocr_label": "เกิดวันที่",
+      "label": "เกิดวันที่",
+      "name_en": "birth_day",
+      "description": "วันเกิดของผู้ประกันตน"
+    },
+    {
+      "field_name": "p1_field_10",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        130.8,
+        209.1,
+        192.1,
+        223.4
+      ],
+      "ocr_label": "เดือน",
+      "label": "เดือนเกิด",
+      "name_en": "birth_month",
+      "description": "เดือนเกิดของผู้ประกันตน"
+    },
+    {
+      "field_name": "p1_field_11",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        211.5,
+        209.1,
+        261.8,
+        223.4
+      ],
+      "ocr_label": "",
+      "label": "ปีเกิด (พ.ศ.)",
+      "name_en": "birth_year",
+      "description": "ปีเกิดของผู้ประกันตน (พ.ศ.)"
+    },
+    {
+      "field_name": "p1_digits_9",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        308.0,
+        225.9,
+        322.4,
+        240.3
+      ],
+      "ocr_label": "",
+      "label": "เลขประจำตัวประชาชน (ส่วนที่ 1)",
+      "name_en": "national_id_part1",
+      "description": "เลขประจำตัวประชาชน หลักที่ 1 (1 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_10",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        335.0,
+        225.9,
+        390.9,
+        240.3
+      ],
+      "ocr_label": "",
+      "label": "เลขประจำตัวประชาชน (ส่วนที่ 2)",
+      "name_en": "national_id_part2",
+      "description": "เลขประจำตัวประชาชน หลักที่ 2-5 (4 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_11",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        403.5,
+        225.9,
+        471.9,
+        240.3
+      ],
+      "ocr_label": "",
+      "label": "เลขประจำตัวประชาชน (ส่วนที่ 3)",
+      "name_en": "national_id_part3",
+      "description": "เลขประจำตัวประชาชน หลักที่ 6-10 (5 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_12",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        482.6,
+        225.9,
+        511.4,
+        240.3
+      ],
+      "ocr_label": "",
+      "label": "เลขประจำตัวประชาชน (ส่วนที่ 4)",
+      "name_en": "national_id_part4",
+      "description": "เลขประจำตัวประชาชน หลักที่ 11-12 (2 หลัก)"
+    },
+    {
+      "field_name": "p1_digits_13",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        524.0,
+        225.9,
+        538.5,
+        240.3
+      ],
+      "ocr_label": "",
+      "label": "เลขประจำตัวประชาชน (ส่วนที่ 5)",
+      "name_en": "national_id_part5",
+      "description": "เลขประจำตัวประชาชน หลักสุดท้าย (1 หลัก)"
+    },
+    {
+      "field_name": "p1_cb_10_1_โสด_2",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        50.0,
+        262.9,
+        57.4,
+        270.2
+      ],
+      "ocr_label": "1. โสด 2.",
+      "label": "โสด",
+      "name_en": "marital_single",
+      "description": "เลือกถ้าสถานภาพสมรสเป็นโสด"
+    },
+    {
+      "field_name": "p1_cb_11_2_สมรส_3",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        104.8,
+        263.5,
+        112.2,
+        270.9
+      ],
+      "ocr_label": "2. สมรส 3.",
+      "label": "สมรส",
+      "name_en": "marital_married",
+      "description": "เลือกถ้าสถานภาพสมรสเป็นสมรส"
+    },
+    {
+      "field_name": "p1_cb_12_3_หม้าย_4",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        186.2,
+        262.4,
+        193.6,
+        269.8
+      ],
+      "ocr_label": "3. หม้าย 4.",
+      "label": "หม้าย",
+      "name_en": "marital_widowed",
+      "description": "เลือกถ้าสถานภาพสมรสเป็นหม้าย"
+    },
+    {
+      "field_name": "p1_cb_13_4_หย่า_5",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        249.2,
+        262.4,
+        256.5,
+        269.8
+      ],
+      "ocr_label": "4. หย่า 5.",
+      "label": "หย่า",
+      "name_en": "marital_divorced",
+      "description": "เลือกถ้าสถานภาพสมรสเป็นหย่า"
+    },
+    {
+      "field_name": "p1_cb_14_5_แยกกันอยู่",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        311.7,
+        262.7,
+        319.1,
+        270.0
+      ],
+      "ocr_label": "5. แยกกันอยู่",
+      "label": "แยกกันอยู่",
+      "name_en": "marital_separated",
+      "description": "เลือกถ้าสถานภาพสมรสเป็นแยกกันอยู่"
+    },
+    {
+      "field_name": "p1_cb_15_ไม่มีบุตร_มีบุตรอายุไม่เกิน_6",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        50.0,
+        278.2,
+        57.4,
+        285.5
+      ],
+      "ocr_label": "ไม่มีบุตร มีบุตรอายุไม่เกิน 6",
+      "label": "ไม่มีบุตร",
+      "name_en": "no_children",
+      "description": "เลือกถ้าไม่มีบุตร"
+    },
+    {
+      "field_name": "p1_cb_16_มีบุตรอายุไม่เกิน_6_ปี",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        104.1,
+        279.5,
+        111.4,
+        286.9
+      ],
+      "ocr_label": "มีบุตรอายุไม่เกิน 6 ปี",
+      "label": "มีบุตรอายุไม่เกิน 6 ปี",
+      "name_en": "has_children_under_6",
+      "description": "เลือกถ้ามีบุตรอายุไม่เกิน 6 ปี"
+    },
+    {
+      "field_name": "p1_field_12",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        228.1,
+        272.4,
+        253.1,
+        286.6
+      ],
+      "ocr_label": "ไม่มีบตุร มีบุตรอายไุมเ่กิน 6 ปี จ านวน",
+      "label": "จำนวนบุตร",
+      "name_en": "number_of_children",
+      "description": "จำนวนบุตรอายุไม่เกิน 6 ปี (คน)"
+    },
+    {
+      "field_name": "p1_small_digits_1",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        343.2,
+        278.5,
+        381.1,
+        287.9
+      ],
+      "ocr_label": "",
+      "label": "ปีเกิดบุตรคนที่ 1 (พ.ศ.)",
+      "name_en": "child_1_birth_year",
+      "description": "ปี พ.ศ. เกิดของบุตรคนที่ 1 (4 หลัก)"
+    },
+    {
+      "field_name": "p1_small_digits_2",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        454.8,
+        278.5,
+        492.3,
+        287.9
+      ],
+      "ocr_label": "",
+      "label": "ปีเกิดบุตรคนที่ 2 (พ.ศ.)",
+      "name_en": "child_2_birth_year",
+      "description": "ปี พ.ศ. เกิดของบุตรคนที่ 2 (4 หลัก)"
+    },
+    {
+      "field_name": "p1_small_digits_3",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        344.0,
+        296.3,
+        381.9,
+        305.6
+      ],
+      "ocr_label": "",
+      "label": "ปีเกิดบุตรคนที่ 3 (พ.ศ.)",
+      "name_en": "child_3_birth_year",
+      "description": "ปี พ.ศ. เกิดของบุตรคนที่ 3 (4 หลัก)"
+    },
+    {
+      "field_name": "p1_cb_17_1ปกติ_2พิการ_แนบส",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        109.9,
+        306.4,
+        117.2,
+        313.8
+      ],
+      "ocr_label": "1.ปกติ 2.พิการ แนบส",
+      "label": "ปกติ",
+      "name_en": "physical_normal",
+      "description": "เลือกถ้าสภาพร่างกายปกติ"
+    },
+    {
+      "field_name": "p1_cb_18_2พิการ_แนบส_าเนาบัตรประจ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        157.1,
+        306.9,
+        164.5,
+        314.2
+      ],
+      "ocr_label": "2.พิการ แนบส าเนาบัตรประจ",
+      "label": "พิการ",
+      "name_en": "physical_disabled",
+      "description": "เลือกถ้าพิการ (ต้องแนบสำเนาบัตรคนพิการ)"
+    },
+    {
+      "field_name": "p1_cb_19_21_ทางการมองเห็น_22",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        136.8,
+        322.8,
+        144.2,
+        330.1
+      ],
+      "ocr_label": "2.1 ทางการมองเห็น 2.2",
+      "label": "พิการทางการมองเห็น",
+      "name_en": "disability_vision",
+      "description": "เลือกถ้าพิการทางการมองเห็น"
+    },
+    {
+      "field_name": "p1_cb_20_22_ทางการได้ยิน/สื่อความหมาย_2",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        228.4,
+        322.7,
+        235.7,
+        330.0
+      ],
+      "ocr_label": "2.2 ทางการได้ยิน/สื่อความหมาย 2.3",
+      "label": "พิการทางการได้ยิน/สื่อความหมาย",
+      "name_en": "disability_hearing",
+      "description": "เลือกถ้าพิการทางการได้ยินหรือสื่อความหมาย"
+    },
+    {
+      "field_name": "p1_cb_21_23_ทางการเคลื่อนไหว_24",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        357.5,
+        322.1,
+        364.8,
+        329.5
+      ],
+      "ocr_label": "2.3 ทางการเคลื่อนไหว 2.4",
+      "label": "พิการทางการเคลื่อนไหว",
+      "name_en": "disability_mobility",
+      "description": "เลือกถ้าพิการทางการเคลื่อนไหว"
+    },
+    {
+      "field_name": "p1_cb_22_24_ทางจิตใจ/พฤติกรรม",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        459.5,
+        322.8,
+        466.8,
+        330.1
+      ],
+      "ocr_label": "2.4 ทางจิตใจ/พฤติกรรม",
+      "label": "พิการทางจิตใจ/พฤติกรรม",
+      "name_en": "disability_mental",
+      "description": "เลือกถ้าพิการทางจิตใจหรือพฤติกรรม"
+    },
+    {
+      "field_name": "p1_cb_23_25_ทางสติปัญญา_26",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        136.8,
+        336.7,
+        144.2,
+        344.1
+      ],
+      "ocr_label": "2.5 ทางสติปัญญา 2.6",
+      "label": "พิการทางสติปัญญา",
+      "name_en": "disability_intellectual",
+      "description": "เลือกถ้าพิการทางสติปัญญา"
+    },
+    {
+      "field_name": "p1_cb_24_26_ทางการเรียนรู้_27",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        228.4,
+        336.6,
+        235.7,
+        343.9
+      ],
+      "ocr_label": "2.6 ทางการเรียนรู้ 2.7",
+      "label": "พิการทางการเรียนรู้",
+      "name_en": "disability_learning",
+      "description": "เลือกถ้าพิการทางการเรียนรู้"
+    },
+    {
+      "field_name": "p1_cb_25_27_ออทิสติก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        314.1,
+        335.1,
+        321.5,
+        342.4
+      ],
+      "ocr_label": "2.7 ออทิสติก",
+      "label": "ออทิสติก",
+      "name_en": "disability_autism",
+      "description": "เลือกถ้าพิการประเภทออทิสติก"
+    },
+    {
+      "field_name": "p1_cb_26_หนังสือเดินทาง_(PASSPORT)_เลขท",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        52.0,
+        366.9,
+        59.3,
+        374.2
+      ],
+      "ocr_label": "หนังสือเดินทาง (PASSPORT) เลขที่......................................และใบอนุญาตท",
+      "label": "หนังสือเดินทาง (PASSPORT)",
+      "name_en": "doc_passport",
+      "description": "เลือกถ้าใช้หนังสือเดินทาง (สำหรับคนต่างด้าว)"
+    },
+    {
+      "field_name": "p1_field_13",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        195.2,
+        360.6,
+        281.3,
+        374.8
+      ],
+      "ocr_label": "หนังสือเดินทาง (PASSPORT) เลขที่",
+      "label": "เลขที่หนังสือเดินทาง",
+      "name_en": "passport_number",
+      "description": "เลขที่หนังสือเดินทาง (PASSPORT)"
+    },
+    {
+      "field_name": "p1_field_14",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        449.8,
+        360.6,
+        549.6,
+        374.8
+      ],
+      "ocr_label": "และใบอนญุาตท างาน (WORK PERMIT) เลขที่",
+      "label": "เลขที่ใบอนุญาตทำงาน (กรณี PASSPORT)",
+      "name_en": "work_permit_number_passport",
+      "description": "เลขที่ใบอนุญาตทำงาน (WORK PERMIT) กรณีใช้หนังสือเดินทาง"
+    },
+    {
+      "field_name": "p1_cb_27_อื่นๆ_(ระบุ)_เลขที่",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        52.0,
+        382.2,
+        59.3,
+        389.5
+      ],
+      "ocr_label": "อื่นๆ (ระบุ) ............................................เลขที่................................",
+      "label": "เอกสารอื่นๆ",
+      "name_en": "doc_other",
+      "description": "เลือกถ้าใช้เอกสารอื่น ๆ (สำหรับคนต่างด้าว)"
+    },
+    {
+      "field_name": "p1_field_15",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        108.8,
+        376.5,
+        208.7,
+        390.7
+      ],
+      "ocr_label": "อื่นๆ (ระบุ)",
+      "label": "ระบุเอกสารอื่น ๆ",
+      "name_en": "other_doc_specify",
+      "description": "ระบุประเภทเอกสารอื่น ๆ ที่ใช้แทนหนังสือเดินทาง"
+    },
+    {
+      "field_name": "p1_field_16",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        228.2,
+        376.5,
+        300.9,
+        390.7
+      ],
+      "ocr_label": "เลขที่",
+      "label": "เลขที่เอกสารอื่น",
+      "name_en": "other_doc_number",
+      "description": "เลขที่ของเอกสารอื่น ๆ"
+    },
+    {
+      "field_name": "p1_field_17",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        472.3,
+        376.5,
+        571.9,
+        390.7
+      ],
+      "ocr_label": "และใบอนุญาตท างาน (WORK PERMIT) เลขที่",
+      "label": "เลขที่ใบอนุญาตทำงาน (กรณีเอกสารอื่น)",
+      "name_en": "work_permit_number_other",
+      "description": "เลขที่ใบอนุญาตทำงาน (WORK PERMIT) กรณีใช้เอกสารอื่น"
+    },
+    {
+      "field_name": "p1_field_18",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        376.0,
+        426.1,
+        510.0,
+        440.4
+      ],
+      "ocr_label": "ลงชื่อ",
+      "label": "ลงชื่อนายจ้าง",
+      "name_en": "employer_signature",
+      "description": "ลายมือชื่อนายจ้างหรือผู้มีอำนาจ"
+    },
+    {
+      "field_name": "p1_field_19",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        375.0,
+        442.0,
+        511.3,
+        456.2
+      ],
+      "ocr_label": "นิติบุคคล             (",
+      "label": "ชื่อนายจ้าง (ตัวบรรจง)",
+      "name_en": "employer_print_name",
+      "description": "ชื่อ-นามสกุลนายจ้าง (พิมพ์ตัวบรรจง)"
+    },
+    {
+      "field_name": "p1_field_20",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        387.1,
+        457.8,
+        511.9,
+        472.1
+      ],
+      "ocr_label": "( ถ ้า ม  ี)                        ต าแหน่ง",
+      "label": "ตำแหน่งนายจ้าง",
+      "name_en": "employer_position",
+      "description": "ตำแหน่งของนายจ้างหรือผู้มีอำนาจลงนาม"
+    },
+    {
+      "field_name": "p1_field_21",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        372.5,
+        473.6,
+        510.9,
+        487.8
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่นายจ้างลงนาม",
+      "name_en": "employer_sign_date",
+      "description": "วันที่นายจ้างลงนาม"
+    },
+    {
+      "field_name": "p1_cb_28_มีบัตรรับรองสิทธิฯ_ปัจจุบันใช้",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        33.0,
+        518.2,
+        40.3,
+        525.6
+      ],
+      "ocr_label": "มีบัตรรับรองสิทธิฯ ปัจจุบันใช้สิทธิที่สถานพยาบาลชื่อ........................................",
+      "label": "มีบัตรรับรองสิทธิฯ",
+      "name_en": "has_medical_card",
+      "description": "เลือกถ้ามีบัตรรับรองสิทธิการรักษาพยาบาล"
+    },
+    {
+      "field_name": "p1_field_22",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        241.7,
+        513.4,
+        332.4,
+        527.6
+      ],
+      "ocr_label": "มีบัตรรับรองสิทธิฯ  ปัจจุบันใช้สิทธิที่สถานพยาบาลชื่อ",
+      "label": "ชื่อสถานพยาบาลปัจจุบัน",
+      "name_en": "current_hospital_name",
+      "description": "ชื่อสถานพยาบาลที่ใช้สิทธิอยู่ปัจจุบัน"
+    },
+    {
+      "field_name": "p1_cb_29_ไม่มีบัตรรับรองสิทธิฯ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        344.4,
+        517.8,
+        351.7,
+        525.2
+      ],
+      "ocr_label": "ไม่มีบัตรรับรองสิทธิฯ",
+      "label": "ไม่มีบัตรรับรองสิทธิฯ",
+      "name_en": "no_medical_card",
+      "description": "เลือกถ้าไม่มีบัตรรับรองสิทธิการรักษาพยาบาล"
+    },
+    {
+      "field_name": "p1_cb_30_ไม่เปลี่ยนแปลงสถานพยาบาล",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        47.3,
+        534.2,
+        54.7,
+        541.5
+      ],
+      "ocr_label": "ไม่เปลี่ยนแปลงสถานพยาบาล",
+      "label": "ไม่เปลี่ยนแปลงสถานพยาบาล",
+      "name_en": "no_hospital_change",
+      "description": "เลือกถ้าไม่ต้องการเปลี่ยนแปลงสถานพยาบาล"
+    },
+    {
+      "field_name": "p1_cb_31_ขอเปลี่ยนแปลงสถานพยาบาล_ล_าดับ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        47.3,
+        550.6,
+        54.7,
+        558.0
+      ],
+      "ocr_label": "ขอเปลี่ยนแปลงสถานพยาบาล ล าดับที่",
+      "label": "ขอเปลี่ยนแปลงสถานพยาบาล",
+      "name_en": "request_hospital_change",
+      "description": "เลือกถ้าต้องการเปลี่ยนแปลงสถานพยาบาล"
+    },
+    {
+      "field_name": "p1_field_23",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        215.1,
+        545.1,
+        335.3,
+        559.3
+      ],
+      "ocr_label": "",
+      "label": "สถานพยาบาลที่ขอเปลี่ยน ลำดับ 1",
+      "name_en": "change_hospital_1",
+      "description": "ชื่อสถานพยาบาลที่ขอเปลี่ยน ลำดับที่ 1"
+    },
+    {
+      "field_name": "p1_field_24",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        451.4,
+        545.1,
+        569.6,
+        559.3
+      ],
+      "ocr_label": "",
+      "label": "สถานพยาบาลที่เลือก ลำดับ 1",
+      "name_en": "select_hospital_1",
+      "description": "ชื่อสถานพยาบาลที่เลือกใหม่ ลำดับที่ 1"
+    },
+    {
+      "field_name": "p1_field_25",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        214.6,
+        560.9,
+        334.9,
+        575.2
+      ],
+      "ocr_label": "",
+      "label": "สถานพยาบาลที่ขอเปลี่ยน ลำดับ 2",
+      "name_en": "change_hospital_2",
+      "description": "ชื่อสถานพยาบาลที่ขอเปลี่ยน ลำดับที่ 2"
+    },
+    {
+      "field_name": "p1_field_26",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        451.1,
+        560.9,
+        569.3,
+        575.2
+      ],
+      "ocr_label": "",
+      "label": "สถานพยาบาลที่เลือก ลำดับ 2",
+      "name_en": "select_hospital_2",
+      "description": "ชื่อสถานพยาบาลที่เลือกใหม่ ลำดับที่ 2"
+    },
+    {
+      "field_name": "p1_field_27",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        215.0,
+        576.8,
+        335.3,
+        591.0
+      ],
+      "ocr_label": "",
+      "label": "สถานพยาบาลที่ขอเปลี่ยน ลำดับ 3",
+      "name_en": "change_hospital_3",
+      "description": "ชื่อสถานพยาบาลที่ขอเปลี่ยน ลำดับที่ 3"
+    },
+    {
+      "field_name": "p1_field_28",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        451.4,
+        576.8,
+        569.5,
+        591.0
+      ],
+      "ocr_label": "",
+      "label": "สถานพยาบาลที่เลือก ลำดับ 3",
+      "name_en": "select_hospital_3",
+      "description": "ชื่อสถานพยาบาลที่เลือกใหม่ ลำดับที่ 3"
+    },
+    {
+      "field_name": "p1_field_30",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        373.1,
+        640.0,
+        509.2,
+        654.2
+      ],
+      "ocr_label": "ลงชื่อ",
+      "label": "ลงชื่อผู้ประกันตน",
+      "name_en": "insured_signature",
+      "description": "ลายมือชื่อผู้ประกันตน"
+    },
+    {
+      "field_name": "p1_field_31",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        373.1,
+        655.9,
+        509.5,
+        670.1
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อผู้ประกันตน (ตัวบรรจง)",
+      "name_en": "insured_print_name",
+      "description": "ชื่อ-นามสกุลผู้ประกันตน (พิมพ์ตัวบรรจง)"
+    },
+    {
+      "field_name": "p1_field_33",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        369.4,
+        671.7,
+        517.0,
+        685.9
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่ผู้ประกันตนลงนาม",
+      "name_en": "insured_sign_date",
+      "description": "วันที่ผู้ประกันตนลงนาม"
+    },
+    {
+      "field_name": "p1_digits_14",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        143.6,
+        716.6,
+        157.9,
+        731.0
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัตรประกันสังคม (ส่วนที่ 1)",
+      "name_en": "sso_card_part1",
+      "description": "เลขที่บัตรประกันสังคม หลักที่ 1 (1 หลัก) - สำหรับเจ้าหน้าที่"
+    },
+    {
+      "field_name": "p1_digits_15",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        170.6,
+        716.6,
+        226.3,
+        731.0
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัตรประกันสังคม (ส่วนที่ 2)",
+      "name_en": "sso_card_part2",
+      "description": "เลขที่บัตรประกันสังคม ส่วนที่ 2 (4 หลัก) - สำหรับเจ้าหน้าที่"
+    },
+    {
+      "field_name": "p1_digits_16",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        238.9,
+        716.6,
+        307.4,
+        731.0
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัตรประกันสังคม (ส่วนที่ 3)",
+      "name_en": "sso_card_part3",
+      "description": "เลขที่บัตรประกันสังคม ส่วนที่ 3 (5 หลัก) - สำหรับเจ้าหน้าที่"
+    },
+    {
+      "field_name": "p1_digits_17",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        318.1,
+        716.6,
+        346.9,
+        731.0
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัตรประกันสังคม (ส่วนที่ 4)",
+      "name_en": "sso_card_part4",
+      "description": "เลขที่บัตรประกันสังคม ส่วนที่ 4 (2 หลัก) - สำหรับเจ้าหน้าที่"
+    },
+    {
+      "field_name": "p1_digits_18",
+      "type": "comb",
+      "page": 1,
+      "rect": [
+        359.5,
+        716.6,
+        373.9,
+        731.0
+      ],
+      "ocr_label": "",
+      "label": "เลขที่บัตรประกันสังคม (ส่วนที่ 5)",
+      "name_en": "sso_card_part5",
+      "description": "เลขที่บัตรประกันสังคม หลักสุดท้าย (1 หลัก) - สำหรับเจ้าหน้าที่"
+    },
+    {
+      "field_name": "p1_cb_32_เห็นสมควรออกบัตรรับรองสิทธิฯ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        51.0,
+        733.5,
+        58.4,
+        740.9
+      ],
+      "ocr_label": "เห็นสมควรออกบัตรรับรองสิทธิฯ",
+      "label": "เห็นสมควรออกบัตรรับรองสิทธิฯ",
+      "name_en": "approve_medical_card",
+      "description": "เจ้าหน้าที่เลือกถ้าเห็นสมควรออกบัตรรับรองสิทธิ"
+    },
+    {
+      "field_name": "p1_cb_33_ไม่สมควรออกบัตรรับรองสิทธิฯ_ระ",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        51.0,
+        749.3,
+        58.3,
+        756.7
+      ],
+      "ocr_label": "ไม่สมควรออกบัตรรับรองสิทธิฯ ระบุเหตุผล..........................................................",
+      "label": "ไม่สมควรออกบัตรรับรองสิทธิฯ",
+      "name_en": "reject_medical_card",
+      "description": "เจ้าหน้าที่เลือกถ้าไม่สมควรออกบัตรรับรองสิทธิ"
+    },
+    {
+      "field_name": "p1_field_34",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        221.4,
+        745.0,
+        353.0,
+        759.3
+      ],
+      "ocr_label": "ไม่สมควรออกบัตรรับรองสิทธิฯ ระบุเหตผุล",
+      "label": "เหตุผลที่ไม่สมควร",
+      "name_en": "reject_reason",
+      "description": "ระบุเหตุผลที่ไม่สมควรออกบัตรรับรองสิทธิ"
+    },
+    {
+      "field_name": "p1_field_35",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        379.2,
+        745.0,
+        497.1,
+        759.3
+      ],
+      "ocr_label": "ลงชื่อ",
+      "label": "ลงชื่อเจ้าหน้าที่",
+      "name_en": "officer_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้รับแบบ"
+    },
+    {
+      "field_name": "p1_field_36",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        379.1,
+        759.1,
+        497.3,
+        773.3
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อเจ้าหน้าที่ (ตัวบรรจง)",
+      "name_en": "officer_print_name",
+      "description": "ชื่อ-นามสกุลเจ้าหน้าที่ (พิมพ์ตัวบรรจง)"
+    },
+    {
+      "field_name": "p1_field_37",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        377.1,
+        773.3,
+        502.1,
+        787.6
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่เจ้าหน้าที่ลงนาม",
+      "name_en": "officer_sign_date",
+      "description": "วันที่เจ้าหน้าที่ลงนาม"
+    },
+    {
+      "field_name": "p2_cb_34_1_โสด_",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        60.9,
+        562.5,
+        70.5,
+        574.1
+      ],
+      "ocr_label": "1. โสด ",
+      "label": "โสด (หน้าที่ 2)",
+      "name_en": "p2_marital_single",
+      "description": "เลือกถ้าสถานภาพโสด (ส่วนข้อมูลหน้าที่ 2)"
+    },
+    {
+      "field_name": "p2_cb_35_4_หย่า_",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        350.9,
+        562.5,
+        360.4,
+        574.1
+      ],
+      "ocr_label": "4. หย่า ",
+      "label": "หย่า (หน้าที่ 2)",
+      "name_en": "p2_marital_divorced",
+      "description": "เลือกถ้าสถานภาพหย่า (ส่วนข้อมูลหน้าที่ 2)"
+    },
+    {
+      "field_name": "p2_cb_36_5_แยกกันอยู่",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        428.6,
+        562.5,
+        438.2,
+        574.1
+      ],
+      "ocr_label": "5. แยกกันอยู่",
+      "label": "แยกกันอยู่ (หน้าที่ 2)",
+      "name_en": "p2_marital_separated",
+      "description": "เลือกถ้าสถานภาพแยกกันอยู่ (ส่วนข้อมูลหน้าที่ 2)"
+    },
+    {
+      "field_name": "p2_cb_37_ไม่มีบุตร__มีบุตรอายุไม่เกิน",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        60.9,
+        575.7,
+        70.5,
+        587.3
+      ],
+      "ocr_label": "ไม่มีบุตร  มีบุตรอายุไม่เกิน",
+      "label": "ไม่มีบุตร (หน้าที่ 2)",
+      "name_en": "p2_no_children",
+      "description": "เลือกถ้าไม่มีบุตร (ส่วนข้อมูลหน้าที่ 2)"
+    },
+    {
+      "field_name": "p2_cb_38_ที่ผู้ประกันตนมีเอกสารหลักฐาน",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        216.9,
+        653.2,
+        226.5,
+        665.5
+      ],
+      "ocr_label": "ที่ผู้ประกันตนมีเอกสารหลักฐาน",
+      "label": "ผู้ประกันตนมีเอกสารหลักฐาน",
+      "name_en": "p2_has_supporting_documents",
+      "description": "เลือกถ้าผู้ประกันตนมีเอกสารหลักฐานประกอบ"
+    }
+  ]
+}

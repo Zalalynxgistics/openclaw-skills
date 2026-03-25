@@ -1,0 +1,845 @@
+{
+  "form_name": "DLT_คำขอโอนรับโอน",
+  "fields": [
+    {
+      "field_name": "p1_field_1",
+      "type": "text",
+      "page": 1,
+      "rect": [458.6, 65.6, 539.7, 80.0],
+      "ocr_label": "�ี",
+      "label": "คำขอที่",
+      "name_en": "application_number",
+      "description": "เลขที่คำขอ (สำหรับเจ้าหน้าที่)"
+    },
+    {
+      "field_name": "p1_field_2",
+      "type": "text",
+      "page": 1,
+      "rect": [459.1, 81.5, 540.2, 95.9],
+      "ocr_label": "�ี",
+      "label": "รับวันที่",
+      "name_en": "received_date",
+      "description": "วันที่รับคำขอ (สำหรับเจ้าหน้าที่)"
+    },
+    {
+      "field_name": "p1_field_3",
+      "type": "text",
+      "page": 1,
+      "rect": [444.8, 97.3, 541.0, 111.7],
+      "ocr_label": "ผรู้บั",
+      "label": "ผู้รับ",
+      "name_en": "received_by",
+      "description": "ชื่อเจ้าหน้าที่ผู้รับคำขอ"
+    },
+    {
+      "field_name": "p1_field_4",
+      "type": "text",
+      "page": 1,
+      "rect": [326.8, 209.9, 355.8, 226.2],
+      "ocr_label": "�ี",
+      "label": "วันที่",
+      "name_en": "application_day",
+      "description": "วันที่ยื่นคำขอ (วัน)"
+    },
+    {
+      "field_name": "p1_field_5",
+      "type": "text",
+      "page": 1,
+      "rect": [383.1, 209.9, 447.5, 226.2],
+      "ocr_label": "เดอืน",
+      "label": "เดือน",
+      "name_en": "application_month",
+      "description": "เดือนที่ยื่นคำขอ"
+    },
+    {
+      "field_name": "p1_field_6",
+      "type": "text",
+      "page": 1,
+      "rect": [471.6, 209.9, 524.3, 226.2],
+      "ocr_label": "",
+      "label": "พ.ศ.",
+      "name_en": "application_year",
+      "description": "ปี พ.ศ. ที่ยื่นคำขอ"
+    },
+    {
+      "field_name": "p1_field_7",
+      "type": "text",
+      "page": 1,
+      "rect": [186.2, 257.1, 367.6, 273.4],
+      "ocr_label": "ขา้พเจา้ผโู้อนชอ�ื",
+      "label": "ชื่อผู้โอน",
+      "name_en": "transferor_name",
+      "description": "ชื่อ-นามสกุลผู้โอน"
+    },
+    {
+      "field_name": "p1_field_8",
+      "type": "text",
+      "page": 1,
+      "rect": [388.7, 257.1, 433.1, 273.4],
+      "ocr_label": "ุ",
+      "label": "อายุผู้โอน",
+      "name_en": "transferor_age",
+      "description": "อายุผู้โอน (ปี)"
+    },
+    {
+      "field_name": "p1_field_9",
+      "type": "text",
+      "page": 1,
+      "rect": [481.1, 257.1, 525.0, 273.4],
+      "ocr_label": "ิ",
+      "label": "สัญชาติผู้โอน",
+      "name_en": "transferor_nationality",
+      "description": "สัญชาติของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_10",
+      "type": "text",
+      "page": 1,
+      "rect": [130.0, 275.1, 161.9, 291.4],
+      "ocr_label": "�ี",
+      "label": "บ้านเลขที่ผู้โอน",
+      "name_en": "transferor_house_number",
+      "description": "บ้านเลขที่ของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_11",
+      "type": "text",
+      "page": 1,
+      "rect": [186.4, 275.1, 224.1, 291.4],
+      "ocr_label": "�ี",
+      "label": "หมู่ที่ผู้โอน",
+      "name_en": "transferor_moo",
+      "description": "หมู่ที่ของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_12",
+      "type": "text",
+      "page": 1,
+      "rect": [244.1, 275.1, 310.7, 291.4],
+      "ocr_label": "ซอย",
+      "label": "ซอยผู้โอน",
+      "name_en": "transferor_soi",
+      "description": "ซอยของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_13",
+      "type": "text",
+      "page": 1,
+      "rect": [331.8, 275.1, 524.0, 291.4],
+      "ocr_label": "ถนน",
+      "label": "ถนนผู้โอน",
+      "name_en": "transferor_road",
+      "description": "ถนนของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_14",
+      "type": "text",
+      "page": 1,
+      "rect": [124.4, 293.1, 182.3, 309.4],
+      "ocr_label": "ตาํบล/แขวง",
+      "label": "ตำบล/แขวงผู้โอน",
+      "name_en": "transferor_subdistrict",
+      "description": "ตำบลหรือแขวงของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_15",
+      "type": "text",
+      "page": 1,
+      "rect": [232.6, 293.1, 331.0, 309.4],
+      "ocr_label": "อาํเภอ/เขต",
+      "label": "อำเภอ/เขตผู้โอน",
+      "name_en": "transferor_district",
+      "description": "อำเภอหรือเขตของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_16",
+      "type": "text",
+      "page": 1,
+      "rect": [362.1, 293.1, 440.3, 309.4],
+      "ocr_label": "จงัหวดั",
+      "label": "จังหวัดผู้โอน",
+      "name_en": "transferor_province",
+      "description": "จังหวัดของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_17",
+      "type": "text",
+      "page": 1,
+      "rect": [482.2, 293.1, 524.6, 309.4],
+      "ocr_label": "์",
+      "label": "โทรศัพท์ผู้โอน",
+      "name_en": "transferor_phone",
+      "description": "หมายเลขโทรศัพท์ของผู้โอน"
+    },
+    {
+      "field_name": "p1_field_18",
+      "type": "text",
+      "page": 1,
+      "rect": [198.2, 317.1, 369.1, 333.4],
+      "ocr_label": "ขา้พเจา้ผรู้บัโอนชอ�ื",
+      "label": "ชื่อผู้รับโอน",
+      "name_en": "transferee_name",
+      "description": "ชื่อ-นามสกุลผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_19",
+      "type": "text",
+      "page": 1,
+      "rect": [390.3, 317.1, 428.0, 333.4],
+      "ocr_label": "ุ",
+      "label": "อายุผู้รับโอน",
+      "name_en": "transferee_age",
+      "description": "อายุผู้รับโอน (ปี)"
+    },
+    {
+      "field_name": "p1_field_20",
+      "type": "text",
+      "page": 1,
+      "rect": [475.8, 317.1, 524.6, 333.4],
+      "ocr_label": "ิ",
+      "label": "สัญชาติผู้รับโอน",
+      "name_en": "transferee_nationality",
+      "description": "สัญชาติของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_21",
+      "type": "text",
+      "page": 1,
+      "rect": [130.0, 335.1, 161.9, 351.4],
+      "ocr_label": "�ี",
+      "label": "บ้านเลขที่ผู้รับโอน",
+      "name_en": "transferee_house_number",
+      "description": "บ้านเลขที่ของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_22",
+      "type": "text",
+      "page": 1,
+      "rect": [186.4, 335.1, 224.1, 351.4],
+      "ocr_label": "�ี",
+      "label": "หมู่ที่ผู้รับโอน",
+      "name_en": "transferee_moo",
+      "description": "หมู่ที่ของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_23",
+      "type": "text",
+      "page": 1,
+      "rect": [244.1, 335.1, 310.7, 351.4],
+      "ocr_label": "ซอย",
+      "label": "ซอยผู้รับโอน",
+      "name_en": "transferee_soi",
+      "description": "ซอยของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_24",
+      "type": "text",
+      "page": 1,
+      "rect": [331.8, 335.1, 524.0, 351.4],
+      "ocr_label": "ถนน",
+      "label": "ถนนผู้รับโอน",
+      "name_en": "transferee_road",
+      "description": "ถนนของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_25",
+      "type": "text",
+      "page": 1,
+      "rect": [124.4, 353.1, 182.3, 369.4],
+      "ocr_label": "ตาํบล/แขวง",
+      "label": "ตำบล/แขวงผู้รับโอน",
+      "name_en": "transferee_subdistrict",
+      "description": "ตำบลหรือแขวงของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_26",
+      "type": "text",
+      "page": 1,
+      "rect": [232.6, 353.1, 331.0, 369.4],
+      "ocr_label": "อาํเภอ/เขต",
+      "label": "อำเภอ/เขตผู้รับโอน",
+      "name_en": "transferee_district",
+      "description": "อำเภอหรือเขตของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_27",
+      "type": "text",
+      "page": 1,
+      "rect": [362.1, 353.1, 440.3, 369.4],
+      "ocr_label": "จงัหวดั",
+      "label": "จังหวัดผู้รับโอน",
+      "name_en": "transferee_province",
+      "description": "จังหวัดของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_28",
+      "type": "text",
+      "page": 1,
+      "rect": [482.2, 353.1, 524.6, 369.4],
+      "ocr_label": "์",
+      "label": "โทรศัพท์ผู้รับโอน",
+      "name_en": "transferee_phone",
+      "description": "หมายเลขโทรศัพท์ของผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_29",
+      "type": "text",
+      "page": 1,
+      "rect": [361.4, 413.7, 430.9, 430.0],
+      "ocr_label": "ขอแจง้ต่อนายทะเบยีนวา่ ผโู้อนไดโ้อนรถคนัเลขทะเบยีน",
+      "label": "เลขทะเบียนรถ",
+      "name_en": "vehicle_registration_number",
+      "description": "เลขทะเบียนรถที่โอน"
+    },
+    {
+      "field_name": "p1_field_30",
+      "type": "text",
+      "page": 1,
+      "rect": [462.0, 413.7, 525.4, 430.0],
+      "ocr_label": "จงัหวดั",
+      "label": "จังหวัดทะเบียนรถ",
+      "name_en": "vehicle_registration_province",
+      "description": "จังหวัดที่จดทะเบียนรถ"
+    },
+    {
+      "field_name": "p1_field_31",
+      "type": "text",
+      "page": 1,
+      "rect": [103.8, 431.7, 213.8, 448.0],
+      "ocr_label": "ชนิดรถ",
+      "label": "ชนิดรถ",
+      "name_en": "vehicle_type",
+      "description": "ชนิด/ประเภทของรถ เช่น รถยนต์นั่ง รถกระบะ"
+    },
+    {
+      "field_name": "p1_field_32",
+      "type": "text",
+      "page": 1,
+      "rect": [254.9, 431.7, 353.4, 448.0],
+      "ocr_label": "เลขตวัรถ",
+      "label": "เลขตัวรถ",
+      "name_en": "chassis_number",
+      "description": "เลขตัวถังรถ (VIN)"
+    },
+    {
+      "field_name": "p1_field_33",
+      "type": "text",
+      "page": 1,
+      "rect": [424.3, 431.7, 525.2, 448.0],
+      "ocr_label": "์",
+      "label": "เลขเครื่องยนต์",
+      "name_en": "engine_number",
+      "description": "เลขเครื่องยนต์"
+    },
+    {
+      "field_name": "p1_field_34",
+      "type": "text",
+      "page": 1,
+      "rect": [137.9, 449.7, 446.1, 466.0],
+      "ocr_label": "์",
+      "label": "ยี่ห้อรถ/สีรถ",
+      "name_en": "vehicle_brand_color",
+      "description": "ยี่ห้อรถและสีรถ"
+    },
+    {
+      "field_name": "p1_field_35",
+      "type": "text",
+      "page": 1,
+      "rect": [154.7, 467.7, 273.4, 484.0],
+      "ocr_label": "โดยซอ�ืขายในราคา",
+      "label": "ราคาซื้อขาย",
+      "name_en": "sale_price",
+      "description": "ราคาซื้อขาย (ตัวเลข) เป็นบาท"
+    },
+    {
+      "field_name": "p1_field_36",
+      "type": "text",
+      "page": 1,
+      "rect": [300.4, 467.7, 520.5, 484.0],
+      "ocr_label": "บาท (",
+      "label": "ราคาเป็นตัวอักษร",
+      "name_en": "sale_price_text",
+      "description": "จำนวนเงินเป็นตัวอักษร เช่น หนึ่งแสนบาทถ้วน"
+    },
+    {
+      "field_name": "p1_field_37",
+      "type": "text",
+      "page": 1,
+      "rect": [83.5, 515.7, 294.9, 532.0],
+      "ocr_label": "",
+      "label": "หลักฐานประกอบ 1",
+      "name_en": "supporting_doc_1",
+      "description": "รายการหลักฐานประกอบคำขอลำดับที่ 1"
+    },
+    {
+      "field_name": "p1_field_38",
+      "type": "text",
+      "page": 1,
+      "rect": [310.7, 515.7, 525.0, 532.0],
+      "ocr_label": "",
+      "label": "หลักฐานประกอบ 2",
+      "name_en": "supporting_doc_2",
+      "description": "รายการหลักฐานประกอบคำขอลำดับที่ 2"
+    },
+    {
+      "field_name": "p1_field_39",
+      "type": "text",
+      "page": 1,
+      "rect": [83.5, 533.7, 294.9, 550.0],
+      "ocr_label": "",
+      "label": "หลักฐานประกอบ 3",
+      "name_en": "supporting_doc_3",
+      "description": "รายการหลักฐานประกอบคำขอลำดับที่ 3"
+    },
+    {
+      "field_name": "p1_field_40",
+      "type": "text",
+      "page": 1,
+      "rect": [310.7, 533.7, 525.0, 550.0],
+      "ocr_label": "",
+      "label": "หลักฐานประกอบ 4",
+      "name_en": "supporting_doc_4",
+      "description": "รายการหลักฐานประกอบคำขอลำดับที่ 4"
+    },
+    {
+      "field_name": "p1_field_41",
+      "type": "text",
+      "page": 1,
+      "rect": [83.5, 551.7, 294.9, 568.0],
+      "ocr_label": "",
+      "label": "หลักฐานประกอบ 5",
+      "name_en": "supporting_doc_5",
+      "description": "รายการหลักฐานประกอบคำขอลำดับที่ 5"
+    },
+    {
+      "field_name": "p1_field_42",
+      "type": "text",
+      "page": 1,
+      "rect": [310.7, 551.7, 525.0, 568.0],
+      "ocr_label": "",
+      "label": "หลักฐานประกอบ 6",
+      "name_en": "supporting_doc_6",
+      "description": "รายการหลักฐานประกอบคำขอลำดับที่ 6"
+    },
+    {
+      "field_name": "p1_field_43",
+      "type": "text",
+      "page": 1,
+      "rect": [95.2, 605.7, 240.1, 622.0],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อพยานผู้โอน",
+      "name_en": "transferor_witness_signature",
+      "description": "ลายมือชื่อพยานฝ่ายผู้โอน"
+    },
+    {
+      "field_name": "p1_field_44",
+      "type": "text",
+      "page": 1,
+      "rect": [334.9, 605.7, 479.8, 622.0],
+      "ocr_label": "ผโู้อนลงชอ�ื",
+      "label": "ลงชื่อผู้โอน",
+      "name_en": "transferor_signature",
+      "description": "ลายมือชื่อผู้โอน"
+    },
+    {
+      "field_name": "p1_field_45",
+      "type": "text",
+      "page": 1,
+      "rect": [97.6, 629.7, 242.5, 646.0],
+      "ocr_label": "(",
+      "label": "ชื่อพยานผู้โอน",
+      "name_en": "transferor_witness_name",
+      "description": "ชื่อตัวบรรจงพยานฝ่ายผู้โอน"
+    },
+    {
+      "field_name": "p1_field_46",
+      "type": "text",
+      "page": 1,
+      "rect": [337.3, 629.7, 482.1, 646.0],
+      "ocr_label": ") (",
+      "label": "ชื่อผู้โอน (ตัวบรรจง)",
+      "name_en": "transferor_printed_name",
+      "description": "ชื่อตัวบรรจงผู้โอน"
+    },
+    {
+      "field_name": "p1_field_47",
+      "type": "text",
+      "page": 1,
+      "rect": [95.2, 676.7, 240.1, 693.0],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อพยานผู้รับโอน",
+      "name_en": "transferee_witness_signature",
+      "description": "ลายมือชื่อพยานฝ่ายผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_48",
+      "type": "text",
+      "page": 1,
+      "rect": [334.9, 676.7, 479.8, 693.0],
+      "ocr_label": "ผรู้บัโอนลงชอ�ื",
+      "label": "ลงชื่อผู้รับโอน",
+      "name_en": "transferee_signature",
+      "description": "ลายมือชื่อผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_49",
+      "type": "text",
+      "page": 1,
+      "rect": [97.6, 700.7, 242.5, 717.0],
+      "ocr_label": "(",
+      "label": "ชื่อพยานผู้รับโอน",
+      "name_en": "transferee_witness_name",
+      "description": "ชื่อตัวบรรจงพยานฝ่ายผู้รับโอน"
+    },
+    {
+      "field_name": "p1_field_50",
+      "type": "text",
+      "page": 1,
+      "rect": [337.3, 700.7, 482.1, 717.0],
+      "ocr_label": ") (",
+      "label": "ชื่อผู้รับโอน (ตัวบรรจง)",
+      "name_en": "transferee_printed_name",
+      "description": "ชื่อตัวบรรจงผู้รับโอน"
+    },
+    {
+      "field_name": "p2_field_1",
+      "type": "text",
+      "page": 2,
+      "rect": [245.2, 126.5, 337.9, 142.9],
+      "ocr_label": "ไดต้รวจสอบรถคนัเลขทะเบยีน",
+      "label": "เลขทะเบียนรถ (ตรวจสอบ)",
+      "name_en": "inspect_registration_number",
+      "description": "เลขทะเบียนรถที่ตรวจสอบ"
+    },
+    {
+      "field_name": "p2_field_2",
+      "type": "text",
+      "page": 2,
+      "rect": [369.0, 126.5, 467.5, 142.9],
+      "ocr_label": "จงัหวดั",
+      "label": "จังหวัดทะเบียน (ตรวจสอบ)",
+      "name_en": "inspect_registration_province",
+      "description": "จังหวัดจดทะเบียนของรถที่ตรวจสอบ"
+    },
+    {
+      "field_name": "p2_field_3",
+      "type": "text",
+      "page": 2,
+      "rect": [240.1, 148.5, 538.3, 164.9],
+      "ocr_label": "เลขตวัรถ เลขเครอ�ืงยนต ์และสรีถ ถกูตอ้ง",
+      "label": "ผลการตรวจสอบรถ",
+      "name_en": "inspect_verification_result",
+      "description": "ผลการตรวจสอบเลขตัวรถ เลขเครื่องยนต์ และสีรถ"
+    },
+    {
+      "field_name": "p2_field_4",
+      "type": "text",
+      "page": 2,
+      "rect": [56.7, 170.5, 537.5, 186.9],
+      "ocr_label": "",
+      "label": "หมายเหตุการตรวจสอบ",
+      "name_en": "inspect_remarks",
+      "description": "หมายเหตุหรือรายละเอียดเพิ่มเติมจากการตรวจสอบรถ"
+    },
+    {
+      "field_name": "p2_field_5",
+      "type": "text",
+      "page": 2,
+      "rect": [355.6, 214.5, 474.4, 230.8],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อผู้ตรวจสอบรถ",
+      "name_en": "inspector_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้ตรวจสอบรถ"
+    },
+    {
+      "field_name": "p2_field_6",
+      "type": "text",
+      "page": 2,
+      "rect": [358.4, 236.5, 471.4, 252.8],
+      "ocr_label": "(",
+      "label": "ชื่อผู้ตรวจสอบรถ",
+      "name_en": "inspector_name",
+      "description": "ชื่อตัวบรรจงเจ้าหน้าที่ผู้ตรวจสอบรถ"
+    },
+    {
+      "field_name": "p2_field_7",
+      "type": "text",
+      "page": 2,
+      "rect": [356.1, 258.5, 390.9, 274.8],
+      "ocr_label": "",
+      "label": "วันที่ตรวจสอบรถ (วัน)",
+      "name_en": "inspect_day",
+      "description": "วัน (ตัวเลข) ที่ตรวจสอบรถ"
+    },
+    {
+      "field_name": "p2_field_8",
+      "type": "text",
+      "page": 2,
+      "rect": [393.8, 258.5, 431.5, 274.8],
+      "ocr_label": "/",
+      "label": "วันที่ตรวจสอบรถ (เดือน)",
+      "name_en": "inspect_month",
+      "description": "เดือน (ตัวเลข) ที่ตรวจสอบรถ"
+    },
+    {
+      "field_name": "p2_field_9",
+      "type": "text",
+      "page": 2,
+      "rect": [434.4, 258.5, 474.9, 274.8],
+      "ocr_label": "/",
+      "label": "วันที่ตรวจสอบรถ (ปี)",
+      "name_en": "inspect_year",
+      "description": "ปี พ.ศ. ที่ตรวจสอบรถ"
+    },
+    {
+      "field_name": "p2_field_10",
+      "type": "text",
+      "page": 2,
+      "rect": [173.4, 355.2, 283.5, 371.6],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อผู้ตรวจสอบหลักฐาน",
+      "name_en": "doc_verifier_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้ตรวจสอบหลักฐาน"
+    },
+    {
+      "field_name": "p2_field_11",
+      "type": "text",
+      "page": 2,
+      "rect": [414.4, 355.2, 524.5, 371.6],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อผู้คำนวณค่าธรรมเนียม",
+      "name_en": "fee_calculator_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้คำนวณค่าธรรมเนียม"
+    },
+    {
+      "field_name": "p2_field_12",
+      "type": "text",
+      "page": 2,
+      "rect": [173.9, 377.2, 281.0, 393.6],
+      "ocr_label": "(",
+      "label": "ชื่อผู้ตรวจสอบหลักฐาน",
+      "name_en": "doc_verifier_name",
+      "description": "ชื่อตัวบรรจงเจ้าหน้าที่ผู้ตรวจสอบหลักฐาน"
+    },
+    {
+      "field_name": "p2_field_13",
+      "type": "text",
+      "page": 2,
+      "rect": [414.8, 377.2, 522.0, 393.6],
+      "ocr_label": ") (",
+      "label": "ชื่อผู้คำนวณค่าธรรมเนียม",
+      "name_en": "fee_calculator_name",
+      "description": "ชื่อตัวบรรจงเจ้าหน้าที่ผู้คำนวณค่าธรรมเนียม"
+    },
+    {
+      "field_name": "p2_field_14",
+      "type": "text",
+      "page": 2,
+      "rect": [196.4, 399.2, 216.7, 415.6],
+      "ocr_label": "�ี",
+      "label": "วันที่ตรวจสอบหลักฐาน (วัน)",
+      "name_en": "doc_verify_day",
+      "description": "วัน (ตัวเลข) ที่ตรวจสอบหลักฐาน"
+    },
+    {
+      "field_name": "p2_field_15",
+      "type": "text",
+      "page": 2,
+      "rect": [219.6, 399.2, 248.5, 415.6],
+      "ocr_label": "/",
+      "label": "วันที่ตรวจสอบหลักฐาน (เดือน)",
+      "name_en": "doc_verify_month",
+      "description": "เดือน (ตัวเลข) ที่ตรวจสอบหลักฐาน"
+    },
+    {
+      "field_name": "p2_field_16",
+      "type": "text",
+      "page": 2,
+      "rect": [251.5, 399.2, 283.3, 415.6],
+      "ocr_label": "/",
+      "label": "วันที่ตรวจสอบหลักฐาน (ปี)",
+      "name_en": "doc_verify_year",
+      "description": "ปี พ.ศ. ที่ตรวจสอบหลักฐาน"
+    },
+    {
+      "field_name": "p2_field_17",
+      "type": "text",
+      "page": 2,
+      "rect": [437.4, 399.2, 457.6, 415.6],
+      "ocr_label": "�ี",
+      "label": "วันที่คำนวณค่าธรรมเนียม (วัน)",
+      "name_en": "fee_calc_day",
+      "description": "วัน (ตัวเลข) ที่คำนวณค่าธรรมเนียม"
+    },
+    {
+      "field_name": "p2_field_18",
+      "type": "text",
+      "page": 2,
+      "rect": [460.6, 399.2, 489.5, 415.6],
+      "ocr_label": "/",
+      "label": "วันที่คำนวณค่าธรรมเนียม (เดือน)",
+      "name_en": "fee_calc_month",
+      "description": "เดือน (ตัวเลข) ที่คำนวณค่าธรรมเนียม"
+    },
+    {
+      "field_name": "p2_field_19",
+      "type": "text",
+      "page": 2,
+      "rect": [492.4, 399.2, 524.3, 415.6],
+      "ocr_label": "/",
+      "label": "วันที่คำนวณค่าธรรมเนียม (ปี)",
+      "name_en": "fee_calc_year",
+      "description": "ปี พ.ศ. ที่คำนวณค่าธรรมเนียม"
+    },
+    {
+      "field_name": "p2_field_20",
+      "type": "text",
+      "page": 2,
+      "rect": [173.4, 534.8, 283.5, 551.1],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อผู้รับเงิน",
+      "name_en": "cashier_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้รับเงินและออกใบเสร็จ"
+    },
+    {
+      "field_name": "p2_field_21",
+      "type": "text",
+      "page": 2,
+      "rect": [415.0, 534.8, 525.1, 551.1],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อผู้ตรวจสอบและเสนอ",
+      "name_en": "final_verifier_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้ตรวจสอบทั้งหมดและเสนอนายทะเบียน"
+    },
+    {
+      "field_name": "p2_field_22",
+      "type": "text",
+      "page": 2,
+      "rect": [173.8, 556.8, 281.0, 573.1],
+      "ocr_label": "(",
+      "label": "ชื่อผู้รับเงิน",
+      "name_en": "cashier_name",
+      "description": "ชื่อตัวบรรจงเจ้าหน้าที่ผู้รับเงิน"
+    },
+    {
+      "field_name": "p2_field_23",
+      "type": "text",
+      "page": 2,
+      "rect": [415.4, 556.8, 522.6, 573.1],
+      "ocr_label": ") (",
+      "label": "ชื่อผู้ตรวจสอบและเสนอ",
+      "name_en": "final_verifier_name",
+      "description": "ชื่อตัวบรรจงเจ้าหน้าที่ผู้ตรวจสอบทั้งหมด"
+    },
+    {
+      "field_name": "p2_field_24",
+      "type": "text",
+      "page": 2,
+      "rect": [196.3, 578.8, 216.6, 595.1],
+      "ocr_label": "�ี",
+      "label": "วันที่รับเงิน (วัน)",
+      "name_en": "cashier_day",
+      "description": "วัน (ตัวเลข) ที่รับเงิน"
+    },
+    {
+      "field_name": "p2_field_25",
+      "type": "text",
+      "page": 2,
+      "rect": [219.5, 578.8, 248.5, 595.1],
+      "ocr_label": "/",
+      "label": "วันที่รับเงิน (เดือน)",
+      "name_en": "cashier_month",
+      "description": "เดือน (ตัวเลข) ที่รับเงิน"
+    },
+    {
+      "field_name": "p2_field_26",
+      "type": "text",
+      "page": 2,
+      "rect": [251.4, 578.8, 283.3, 595.1],
+      "ocr_label": "/",
+      "label": "วันที่รับเงิน (ปี)",
+      "name_en": "cashier_year",
+      "description": "ปี พ.ศ. ที่รับเงิน"
+    },
+    {
+      "field_name": "p2_field_27",
+      "type": "text",
+      "page": 2,
+      "rect": [437.9, 578.8, 458.2, 595.1],
+      "ocr_label": "�ี",
+      "label": "วันที่ตรวจสอบและเสนอ (วัน)",
+      "name_en": "final_verify_day",
+      "description": "วัน (ตัวเลข) ที่ตรวจสอบทั้งหมดและเสนอ"
+    },
+    {
+      "field_name": "p2_field_28",
+      "type": "text",
+      "page": 2,
+      "rect": [461.1, 578.8, 490.1, 595.1],
+      "ocr_label": "/",
+      "label": "วันที่ตรวจสอบและเสนอ (เดือน)",
+      "name_en": "final_verify_month",
+      "description": "เดือน (ตัวเลข) ที่ตรวจสอบทั้งหมด"
+    },
+    {
+      "field_name": "p2_field_29",
+      "type": "text",
+      "page": 2,
+      "rect": [493.0, 578.8, 524.9, 595.1],
+      "ocr_label": "/",
+      "label": "วันที่ตรวจสอบและเสนอ (ปี)",
+      "name_en": "final_verify_year",
+      "description": "ปี พ.ศ. ที่ตรวจสอบทั้งหมด"
+    },
+    {
+      "field_name": "p2_field_30",
+      "type": "text",
+      "page": 2,
+      "rect": [238.9, 670.3, 380.8, 686.6],
+      "ocr_label": "ลงชอ�ื",
+      "label": "ลงชื่อนายทะเบียน",
+      "name_en": "registrar_signature",
+      "description": "ลายมือชื่อนายทะเบียน"
+    },
+    {
+      "field_name": "p2_field_31",
+      "type": "text",
+      "page": 2,
+      "rect": [238.8, 692.3, 377.8, 708.6],
+      "ocr_label": "(",
+      "label": "ชื่อนายทะเบียน",
+      "name_en": "registrar_name",
+      "description": "ชื่อตัวบรรจงนายทะเบียน"
+    },
+    {
+      "field_name": "p2_field_32",
+      "type": "text",
+      "page": 2,
+      "rect": [277.9, 714.3, 298.1, 730.6],
+      "ocr_label": "�ี",
+      "label": "วันที่นายทะเบียนลงนาม (วัน)",
+      "name_en": "registrar_day",
+      "description": "วัน (ตัวเลข) ที่นายทะเบียนลงนาม"
+    },
+    {
+      "field_name": "p2_field_33",
+      "type": "text",
+      "page": 2,
+      "rect": [301.1, 714.3, 332.9, 730.6],
+      "ocr_label": "/",
+      "label": "วันที่นายทะเบียนลงนาม (เดือน)",
+      "name_en": "registrar_month",
+      "description": "เดือน (ตัวเลข) ที่นายทะเบียนลงนาม"
+    },
+    {
+      "field_name": "p2_field_34",
+      "type": "text",
+      "page": 2,
+      "rect": [335.9, 714.3, 364.8, 730.6],
+      "ocr_label": "/",
+      "label": "วันที่นายทะเบียนลงนาม (ปี)",
+      "name_en": "registrar_year",
+      "description": "ปี พ.ศ. ที่นายทะเบียนลงนาม"
+    }
+  ]
+}

@@ -1,0 +1,1370 @@
+{
+  "form_name": "บต44",
+  "fields": [
+    {
+      "field_name": "p1_field_1",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        488.9,
+        121.7,
+        560.4,
+        135.9
+      ],
+      "ocr_label": "ี่",
+      "label": "เลขรับที่",
+      "name_en": "receipt_number",
+      "description": "เลขที่รับคำขอ (สำหรับเจ้าหน้าที่)"
+    },
+    {
+      "field_name": "p1_field_2",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        479.1,
+        137.7,
+        562.0,
+        152.0
+      ],
+      "ocr_label": "กรมการจัดหางาน คำขอเปลี่ยนรายการในใบอนญุาตทำงานวันที่รับ",
+      "label": "วันที่รับ",
+      "name_en": "receipt_date",
+      "description": "วันที่รับคำขอ (สำหรับเจ้าหน้าที่)"
+    },
+    {
+      "field_name": "p1_field_3",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        478.7,
+        153.8,
+        561.5,
+        168.1
+      ],
+      "ocr_label": "DEPARTMENT OF Request Form for Making Change(s) to Particulars of the Work Permit ชื่อผู้รับ",
+      "label": "ชื่อผู้รับ",
+      "name_en": "receiver_name",
+      "description": "ชื่อเจ้าหน้าที่ผู้รับคำขอ (สำหรับเจ้าหน้าที่)"
+    },
+    {
+      "field_name": "p1_field_4",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        452.0,
+        185.7,
+        565.5,
+        200.0
+      ],
+      "ocr_label": "",
+      "label": "หมายเลขประจำตัวคนต่างด้าว",
+      "name_en": "foreigner_id",
+      "description": "หมายเลขประจำตัวคนต่างด้าว"
+    },
+    {
+      "field_name": "p1_field_5",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        222.5,
+        268.3,
+        553.7,
+        282.5
+      ],
+      "ocr_label": "1 ชื่อผู้ยื่นคำขอ นาย/นาง/นางสาว",
+      "label": "ชื่อผู้ยื่นคำขอ",
+      "name_en": "applicant_name",
+      "description": "ชื่อ-นามสกุลผู้ยื่นคำขอ (นาย/นาง/นางสาว)"
+    },
+    {
+      "field_name": "p1_field_6",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        91.6,
+        296.4,
+        283.8,
+        310.6
+      ],
+      "ocr_label": "สัญชาติ",
+      "label": "สัญชาติ",
+      "name_en": "nationality",
+      "description": "สัญชาติของผู้ยื่นคำขอ"
+    },
+    {
+      "field_name": "p1_field_7",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        369.0,
+        296.4,
+        554.9,
+        310.6
+      ],
+      "ocr_label": "ประเภทของคนต่างด้าว",
+      "label": "ประเภทของคนต่างด้าว",
+      "name_en": "foreigner_type",
+      "description": "ประเภทของคนต่างด้าว"
+    },
+    {
+      "field_name": "p1_field_8",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        149.3,
+        330.3,
+        317.2,
+        344.5
+      ],
+      "ocr_label": "2 ใบอนุญาตทำงาน เลขที่",
+      "label": "ใบอนุญาตทำงาน เลขที่",
+      "name_en": "work_permit_number",
+      "description": "เลขที่ใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p1_field_9",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        382.5,
+        330.3,
+        556.1,
+        344.5
+      ],
+      "ocr_label": "ออกให้ที่ (จังหวัด)",
+      "label": "ออกให้ที่ (จังหวัด)",
+      "name_en": "permit_issued_province",
+      "description": "จังหวัดที่ออกใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p1_field_10",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        108.4,
+        358.5,
+        298.9,
+        372.7
+      ],
+      "ocr_label": "ี่",
+      "label": "ออกให้วันที่",
+      "name_en": "permit_issued_date",
+      "description": "วันที่ออกใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p1_field_11",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        342.5,
+        358.5,
+        556.0,
+        372.7
+      ],
+      "ocr_label": "ใช้ได้ถึงวันที่",
+      "label": "ใช้ได้ถึงวันที่",
+      "name_en": "permit_expiry_date",
+      "description": "วันที่ใบอนุญาตทำงานหมดอายุ"
+    },
+    {
+      "field_name": "p1_field_12",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        157.9,
+        392.3,
+        225.1,
+        406.5
+      ],
+      "ocr_label": "3 ที่อยู่ในประเทศไทย เลขที่",
+      "label": "ที่อยู่ในประเทศไทย เลขที่",
+      "name_en": "thai_address_number",
+      "description": "เลขที่ที่อยู่ในประเทศไทย"
+    },
+    {
+      "field_name": "p1_field_13",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        272.7,
+        392.3,
+        410.0,
+        406.5
+      ],
+      "ocr_label": "หมู่ที่/อาคาร",
+      "label": "หมู่ที่/อาคาร",
+      "name_en": "thai_address_moo_building",
+      "description": "หมู่ที่หรืออาคาร"
+    },
+    {
+      "field_name": "p1_field_14",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        426.6,
+        392.3,
+        556.7,
+        406.5
+      ],
+      "ocr_label": "ซอย",
+      "label": "ซอย",
+      "name_en": "thai_address_soi",
+      "description": "ซอย"
+    },
+    {
+      "field_name": "p1_field_15",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        81.0,
+        420.4,
+        213.9,
+        434.6
+      ],
+      "ocr_label": "ถนน",
+      "label": "ถนน",
+      "name_en": "thai_address_road",
+      "description": "ถนน"
+    },
+    {
+      "field_name": "p1_field_16",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        258.2,
+        420.4,
+        384.2,
+        434.6
+      ],
+      "ocr_label": "ตำบล/แขวง",
+      "label": "ตำบล/แขวง",
+      "name_en": "thai_address_subdistrict",
+      "description": "ตำบลหรือแขวง"
+    },
+    {
+      "field_name": "p1_field_17",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        425.5,
+        420.4,
+        558.2,
+        434.6
+      ],
+      "ocr_label": "อำเภอ/เขต",
+      "label": "อำเภอ/เขต",
+      "name_en": "thai_address_district",
+      "description": "อำเภอหรือเขต"
+    },
+    {
+      "field_name": "p1_field_18",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        89.4,
+        448.5,
+        216.5,
+        462.7
+      ],
+      "ocr_label": "จังหวัด",
+      "label": "จังหวัด",
+      "name_en": "thai_address_province",
+      "description": "จังหวัด"
+    },
+    {
+      "field_name": "p1_field_19",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        265.2,
+        448.5,
+        358.1,
+        462.7
+      ],
+      "ocr_label": "รหสัไปรษณีย์",
+      "label": "รหัสไปรษณีย์",
+      "name_en": "thai_address_postal_code",
+      "description": "รหัสไปรษณีย์"
+    },
+    {
+      "field_name": "p1_field_20",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        391.9,
+        448.5,
+        555.3,
+        462.7
+      ],
+      "ocr_label": "โทรศัพท์",
+      "label": "โทรศัพท์",
+      "name_en": "thai_address_phone",
+      "description": "หมายเลขโทรศัพท์"
+    },
+    {
+      "field_name": "p1_field_21",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        92.1,
+        473.2,
+        239.7,
+        487.4
+      ],
+      "ocr_label": "โทรสาร",
+      "label": "โทรสาร",
+      "name_en": "thai_address_fax",
+      "description": "หมายเลขโทรสาร"
+    },
+    {
+      "field_name": "p1_field_22",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        325.7,
+        473.2,
+        557.2,
+        487.4
+      ],
+      "ocr_label": "ไปรษณีย์อิเล็กทรอนิกส์",
+      "label": "ไปรษณีย์อิเล็กทรอนิกส์",
+      "name_en": "thai_address_email",
+      "description": "อีเมล"
+    },
+    {
+      "field_name": "p1_field_23",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        103.9,
+        553.7,
+        560.4,
+        567.9
+      ],
+      "ocr_label": "1 ชื่อนายจ้าง",
+      "label": "ชื่อนายจ้าง",
+      "name_en": "employer_name",
+      "description": "ชื่อนายจ้างหรือชื่อบริษัท"
+    },
+    {
+      "field_name": "p1_field_24",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        103.2,
+        581.1,
+        174.9,
+        595.3
+      ],
+      "ocr_label": "ที่อยู่ เลขที่",
+      "label": "ที่อยู่นายจ้าง เลขที่",
+      "name_en": "employer_address_number",
+      "description": "เลขที่ที่อยู่นายจ้าง"
+    },
+    {
+      "field_name": "p1_field_25",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        220.6,
+        581.1,
+        352.5,
+        595.3
+      ],
+      "ocr_label": "หมทู่ี่/อาคาร",
+      "label": "หมู่ที่/อาคาร",
+      "name_en": "employer_address_moo_building",
+      "description": "หมู่ที่หรืออาคารของนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_26",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        370.6,
+        581.1,
+        561.0,
+        595.3
+      ],
+      "ocr_label": "ซอย",
+      "label": "ซอย",
+      "name_en": "employer_address_soi",
+      "description": "ซอยของนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_27",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        81.0,
+        608.6,
+        190.6,
+        622.8
+      ],
+      "ocr_label": "ถนน",
+      "label": "ถนน",
+      "name_en": "employer_address_road",
+      "description": "ถนนของนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_28",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        237.1,
+        608.6,
+        366.9,
+        622.8
+      ],
+      "ocr_label": "ตำบล/แขวง",
+      "label": "ตำบล/แขวง",
+      "name_en": "employer_address_subdistrict",
+      "description": "ตำบลหรือแขวงของนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_29",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        410.3,
+        608.6,
+        560.3,
+        622.8
+      ],
+      "ocr_label": "อำเภอ/เขต",
+      "label": "อำเภอ/เขต",
+      "name_en": "employer_address_district",
+      "description": "อำเภอหรือเขตของนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_30",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        89.4,
+        635.6,
+        192.4,
+        649.8
+      ],
+      "ocr_label": "จังหวัด",
+      "label": "จังหวัด",
+      "name_en": "employer_address_province",
+      "description": "จังหวัดของนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_31",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        241.5,
+        635.6,
+        284.0,
+        649.8
+      ],
+      "ocr_label": "รหัสไปรษณีย์",
+      "label": "รหัสไปรษณีย์",
+      "name_en": "employer_address_postal_code",
+      "description": "รหัสไปรษณีย์ของนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_32",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        315.5,
+        635.6,
+        420.8,
+        649.8
+      ],
+      "ocr_label": "โทรศัพท์",
+      "label": "โทรศัพท์",
+      "name_en": "employer_phone",
+      "description": "หมายเลขโทรศัพท์นายจ้าง"
+    },
+    {
+      "field_name": "p1_field_33",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        448.9,
+        635.6,
+        560.9,
+        649.8
+      ],
+      "ocr_label": "โทรสาร",
+      "label": "โทรสาร",
+      "name_en": "employer_fax",
+      "description": "หมายเลขโทรสารนายจ้าง"
+    },
+    {
+      "field_name": "p1_field_34",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        193.1,
+        668.8,
+        242.5,
+        683.1
+      ],
+      "ocr_label": "2 สถานที่ทำงานของคนต่างด้าว เลขที่",
+      "label": "สถานที่ทำงาน เลขที่",
+      "name_en": "workplace_address_number",
+      "description": "เลขที่สถานที่ทำงานของคนต่างด้าว"
+    },
+    {
+      "field_name": "p1_field_35",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        288.2,
+        668.8,
+        411.3,
+        683.1
+      ],
+      "ocr_label": "หมู่ที่/อาคาร",
+      "label": "หมู่ที่/อาคาร",
+      "name_en": "workplace_address_moo_building",
+      "description": "หมู่ที่หรืออาคารสถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_36",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        427.3,
+        668.8,
+        559.4,
+        683.1
+      ],
+      "ocr_label": "ซอย",
+      "label": "ซอย",
+      "name_en": "workplace_address_soi",
+      "description": "ซอยสถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_37",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        81.0,
+        696.3,
+        195.2,
+        710.5
+      ],
+      "ocr_label": "ถนน",
+      "label": "ถนน",
+      "name_en": "workplace_address_road",
+      "description": "ถนนสถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_38",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        239.6,
+        696.3,
+        367.3,
+        710.5
+      ],
+      "ocr_label": "ตำบล/แขวง",
+      "label": "ตำบล/แขวง",
+      "name_en": "workplace_address_subdistrict",
+      "description": "ตำบลหรือแขวงสถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_39",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        410.3,
+        696.3,
+        560.3,
+        710.5
+      ],
+      "ocr_label": "อำเภอ/เขต",
+      "label": "อำเภอ/เขต",
+      "name_en": "workplace_address_district",
+      "description": "อำเภอหรือเขตสถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_40",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        89.4,
+        724.1,
+        194.6,
+        738.4
+      ],
+      "ocr_label": "จังหวัด",
+      "label": "จังหวัด",
+      "name_en": "workplace_address_province",
+      "description": "จังหวัดสถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_41",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        243.4,
+        724.1,
+        303.8,
+        738.4
+      ],
+      "ocr_label": "รหัสไปรษณีย์",
+      "label": "รหัสไปรษณีย์",
+      "name_en": "workplace_address_postal_code",
+      "description": "รหัสไปรษณีย์สถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_42",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        343.3,
+        724.1,
+        437.3,
+        738.4
+      ],
+      "ocr_label": "์",
+      "label": "โทรศัพท์",
+      "name_en": "workplace_phone",
+      "description": "หมายเลขโทรศัพท์สถานที่ทำงาน"
+    },
+    {
+      "field_name": "p1_field_43",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        466.9,
+        724.1,
+        560.9,
+        738.4
+      ],
+      "ocr_label": "โทรสาร",
+      "label": "โทรสาร",
+      "name_en": "workplace_fax",
+      "description": "หมายเลขโทรสารสถานที่ทำงาน"
+    },
+    {
+      "field_name": "p2_field_1",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        103.3,
+        101.0,
+        546.2,
+        115.3
+      ],
+      "ocr_label": "เปลี่ยนหรือแกไ้ข",
+      "label": "เปลี่ยนหรือแก้ไข",
+      "name_en": "change_from",
+      "description": "รายการเดิมที่ต้องการเปลี่ยนหรือแก้ไข"
+    },
+    {
+      "field_name": "p2_field_2",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        57.4,
+        130.4,
+        556.2,
+        144.7
+      ],
+      "ocr_label": "เป็น",
+      "label": "เป็น",
+      "name_en": "change_to",
+      "description": "รายการใหม่ที่ต้องการเปลี่ยนเป็น"
+    },
+    {
+      "field_name": "p2_field_3",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        42.6,
+        192.1,
+        559.2,
+        206.3
+      ],
+      "ocr_label": "",
+      "label": "เหตุผล บรรทัดที่ 1",
+      "name_en": "reason_line_1",
+      "description": "เหตุผลในการขอเปลี่ยนรายการ บรรทัดที่ 1"
+    },
+    {
+      "field_name": "p2_field_4",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        42.6,
+        213.9,
+        559.2,
+        228.2
+      ],
+      "ocr_label": "",
+      "label": "เหตุผล บรรทัดที่ 2",
+      "name_en": "reason_line_2",
+      "description": "เหตุผลในการขอเปลี่ยนรายการ บรรทัดที่ 2"
+    },
+    {
+      "field_name": "p2_field_5",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        42.6,
+        235.8,
+        559.2,
+        250.0
+      ],
+      "ocr_label": "",
+      "label": "เหตุผล บรรทัดที่ 3",
+      "name_en": "reason_line_3",
+      "description": "เหตุผลในการขอเปลี่ยนรายการ บรรทัดที่ 3"
+    },
+    {
+      "field_name": "p2_field_6",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        42.6,
+        257.6,
+        559.2,
+        271.9
+      ],
+      "ocr_label": "",
+      "label": "เหตุผล บรรทัดที่ 4",
+      "name_en": "reason_line_4",
+      "description": "เหตุผลในการขอเปลี่ยนรายการ บรรทัดที่ 4"
+    },
+    {
+      "field_name": "p2_cb_1_สำเนาเอกสารสำคัญประจำตัวของคนต",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        83.6,
+        369.4,
+        94.1,
+        382.1
+      ],
+      "ocr_label": "สำเนาเอกสารสำคัญประจำตัวของคนต่างด้าวที่ทางราชการออกให้",
+      "label": "สำเนาเอกสารสำคัญประจำตัวคนต่างด้าว",
+      "name_en": "doc_foreigner_id_copy",
+      "description": "ทำเครื่องหมายเมื่อแนบสำเนาเอกสารสำคัญประจำตัวของคนต่างด้าวที่ทางราชการออกให้"
+    },
+    {
+      "field_name": "p2_cb_2_สำเนาเอกสารหรือหลักฐานที่แสดงใ",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        83.6,
+        403.2,
+        94.1,
+        415.9
+      ],
+      "ocr_label": "สำเนาเอกสารหรือหลักฐานที่แสดงให้เห็นว่ามีการเปลี่ยนรายการในใบอนุญาตทำงานจริง",
+      "label": "สำเนาเอกสารหลักฐานการเปลี่ยนรายการ",
+      "name_en": "doc_change_evidence",
+      "description": "ทำเครื่องหมายเมื่อแนบสำเนาเอกสารหรือหลักฐานที่แสดงว่ามีการเปลี่ยนรายการจริง"
+    },
+    {
+      "field_name": "p2_cb_3_ใบอนุญาตทำงาน",
+      "type": "checkbox",
+      "page": 2,
+      "rect": [
+        83.6,
+        438.6,
+        94.1,
+        451.3
+      ],
+      "ocr_label": "ใบอนุญาตทำงาน",
+      "label": "ใบอนุญาตทำงาน",
+      "name_en": "doc_work_permit",
+      "description": "ทำเครื่องหมายเมื่อแนบใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p2_field_7",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        291.1,
+        538.6,
+        470.1,
+        552.8
+      ],
+      "ocr_label": "ลายมือชื่อ",
+      "label": "ลายมือชื่อผู้ยื่นคำขอ",
+      "name_en": "applicant_signature",
+      "description": "ลายมือชื่อของผู้ยื่นคำขอ"
+    },
+    {
+      "field_name": "p2_field_8",
+      "type": "text",
+      "page": 2,
+      "rect": [
+        271.8,
+        574.0,
+        473.2,
+        588.2
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่ลงนาม",
+      "name_en": "applicant_sign_date",
+      "description": "วันที่ผู้ยื่นคำขอลงนาม"
+    },
+    {
+      "field_name": "p3_cb_4_ครบถ้วน__ไม่ครบถ้วน",
+      "type": "checkbox",
+      "page": 3,
+      "rect": [
+        168.9,
+        90.2,
+        179.4,
+        102.9
+      ],
+      "ocr_label": "ครบถ้วน  ไม่ครบถ้วน",
+      "label": "เอกสารครบถ้วน",
+      "name_en": "doc_complete",
+      "description": "ทำเครื่องหมายเมื่อเอกสารครบถ้วน"
+    },
+    {
+      "field_name": "p3_cb_5_ไม่ครบถ้วน",
+      "type": "checkbox",
+      "page": 3,
+      "rect": [
+        256.3,
+        90.2,
+        266.8,
+        102.9
+      ],
+      "ocr_label": "ไม่ครบถ้วน",
+      "label": "เอกสารไม่ครบถ้วน",
+      "name_en": "doc_incomplete",
+      "description": "ทำเครื่องหมายเมื่อเอกสารไม่ครบถ้วน"
+    },
+    {
+      "field_name": "p3_cb_6_เห็นควรอนุญาต__เห็นควรไม่อนุญ",
+      "type": "checkbox",
+      "page": 3,
+      "rect": [
+        168.9,
+        105.9,
+        179.4,
+        118.7
+      ],
+      "ocr_label": "เห็นควรอนุญาต  เห็นควรไม่อนุญาต",
+      "label": "เห็นควรอนุญาต",
+      "name_en": "opinion_approve",
+      "description": "ทำเครื่องหมายเมื่อเจ้าหน้าที่เห็นควรอนุญาต"
+    },
+    {
+      "field_name": "p3_cb_7_เห็นควรไม่อนุญาต",
+      "type": "checkbox",
+      "page": 3,
+      "rect": [
+        256.3,
+        105.9,
+        266.8,
+        118.7
+      ],
+      "ocr_label": "เห็นควรไม่อนุญาต",
+      "label": "เห็นควรไม่อนุญาต",
+      "name_en": "opinion_disapprove",
+      "description": "ทำเครื่องหมายเมื่อเจ้าหน้าที่เห็นควรไม่อนุญาต"
+    },
+    {
+      "field_name": "p3_field_1",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        43.1,
+        119.4,
+        369.7,
+        133.6
+      ],
+      "ocr_label": "",
+      "label": "ความเห็นเจ้าหน้าที่ บรรทัดที่ 1",
+      "name_en": "officer_comment_line_1",
+      "description": "ความเห็นของเจ้าหน้าที่ บรรทัดที่ 1"
+    },
+    {
+      "field_name": "p3_field_2",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        426.8,
+        119.4,
+        556.2,
+        133.6
+      ],
+      "ocr_label": "ลายมือชื่อ",
+      "label": "ลายมือชื่อเจ้าหน้าที่",
+      "name_en": "reviewing_officer_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้ตรวจสอบ"
+    },
+    {
+      "field_name": "p3_field_3",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        43.1,
+        135.2,
+        369.8,
+        149.5
+      ],
+      "ocr_label": "",
+      "label": "ความเห็นเจ้าหน้าที่ บรรทัดที่ 2",
+      "name_en": "officer_comment_line_2",
+      "description": "ความเห็นของเจ้าหน้าที่ บรรทัดที่ 2"
+    },
+    {
+      "field_name": "p3_field_4",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        428.0,
+        135.2,
+        552.8,
+        149.5
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อเจ้าหน้าที่ (ในวงเล็บ)",
+      "name_en": "reviewing_officer_name",
+      "description": "ชื่อเจ้าหน้าที่ผู้ตรวจสอบ (พิมพ์ในวงเล็บ)"
+    },
+    {
+      "field_name": "p3_field_5",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        43.1,
+        151.1,
+        369.8,
+        165.3
+      ],
+      "ocr_label": "",
+      "label": "ความเห็นเจ้าหน้าที่ บรรทัดที่ 3",
+      "name_en": "officer_comment_line_3",
+      "description": "ความเห็นของเจ้าหน้าที่ บรรทัดที่ 3"
+    },
+    {
+      "field_name": "p3_field_6",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        421.2,
+        151.1,
+        557.4,
+        165.3
+      ],
+      "ocr_label": "ตำแหน่ง",
+      "label": "ตำแหน่งเจ้าหน้าที่",
+      "name_en": "reviewing_officer_position",
+      "description": "ตำแหน่งของเจ้าหน้าที่ผู้ตรวจสอบ"
+    },
+    {
+      "field_name": "p3_field_7",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        408.8,
+        166.9,
+        556.4,
+        181.1
+      ],
+      "ocr_label": "ี่",
+      "label": "วันที่ตรวจสอบ",
+      "name_en": "reviewing_officer_date",
+      "description": "วันที่เจ้าหน้าที่ตรวจสอบ"
+    },
+    {
+      "field_name": "p3_cb_8_อนุญาต_",
+      "type": "checkbox",
+      "page": 3,
+      "rect": [
+        57.8,
+        219.5,
+        68.3,
+        232.2
+      ],
+      "ocr_label": "อนุญาต ...................................................................................................................",
+      "label": "อนุญาต",
+      "name_en": "decision_approve",
+      "description": "ทำเครื่องหมายเมื่อนายทะเบียนอนุญาต"
+    },
+    {
+      "field_name": "p3_field_8",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        103.8,
+        217.1,
+        366.5,
+        231.3
+      ],
+      "ocr_label": " อนุญาต",
+      "label": "รายละเอียดการอนุญาต",
+      "name_en": "approve_details",
+      "description": "รายละเอียดเพิ่มเติมกรณีอนุญาต"
+    },
+    {
+      "field_name": "p3_cb_9_อนุญาตโดยมีเงื่อนไข",
+      "type": "checkbox",
+      "page": 3,
+      "rect": [
+        57.8,
+        235.2,
+        68.3,
+        247.9
+      ],
+      "ocr_label": "อนุญาตโดยมีเงื่อนไข................................................................................................",
+      "label": "อนุญาตโดยมีเงื่อนไข",
+      "name_en": "decision_approve_conditional",
+      "description": "ทำเครื่องหมายเมื่อนายทะเบียนอนุญาตโดยมีเงื่อนไข"
+    },
+    {
+      "field_name": "p3_field_10",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        147.6,
+        232.8,
+        366.5,
+        247.0
+      ],
+      "ocr_label": " อนุญาตโดยมีเงื่อนไข",
+      "label": "รายละเอียดเงื่อนไข",
+      "name_en": "conditional_details",
+      "description": "รายละเอียดเงื่อนไขในการอนุญาต"
+    },
+    {
+      "field_name": "p3_field_9",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        426.8,
+        226.8,
+        556.2,
+        241.0
+      ],
+      "ocr_label": "ลายมือชื่อ",
+      "label": "ลายมือชื่อนายทะเบียน",
+      "name_en": "registrar_signature",
+      "description": "ลายมือชื่อนายทะเบียน"
+    },
+    {
+      "field_name": "p3_cb_10_ไม่อนุญาต_เพราะ",
+      "type": "checkbox",
+      "page": 3,
+      "rect": [
+        57.8,
+        251.0,
+        68.3,
+        263.7
+      ],
+      "ocr_label": "ไม่อนุญาต เพราะ.....................................................................................................",
+      "label": "ไม่อนุญาต",
+      "name_en": "decision_disapprove",
+      "description": "ทำเครื่องหมายเมื่อนายทะเบียนไม่อนุญาต"
+    },
+    {
+      "field_name": "p3_field_12",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        136.1,
+        248.6,
+        366.4,
+        262.9
+      ],
+      "ocr_label": " ไม่อนุญาต เพราะ",
+      "label": "เหตุผลที่ไม่อนุญาต",
+      "name_en": "disapprove_reason",
+      "description": "เหตุผลที่นายทะเบียนไม่อนุญาต"
+    },
+    {
+      "field_name": "p3_field_11",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        428.0,
+        242.6,
+        555.1,
+        256.9
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อนายทะเบียน (ในวงเล็บ)",
+      "name_en": "registrar_name",
+      "description": "ชื่อนายทะเบียน (พิมพ์ในวงเล็บ)"
+    },
+    {
+      "field_name": "p3_field_13",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        421.2,
+        258.5,
+        557.3,
+        272.7
+      ],
+      "ocr_label": "ตำแหน่ง",
+      "label": "ตำแหน่งนายทะเบียน",
+      "name_en": "registrar_position",
+      "description": "ตำแหน่งของนายทะเบียน"
+    },
+    {
+      "field_name": "p3_field_14",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        405.8,
+        274.3,
+        555.6,
+        288.6
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่นายทะเบียนลงนาม",
+      "name_en": "registrar_date",
+      "description": "วันที่นายทะเบียนลงนาม"
+    },
+    {
+      "field_name": "p3_field_15",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        106.3,
+        324.5,
+        206.7,
+        338.7
+      ],
+      "ocr_label": "ี่",
+      "label": "ใบเสร็จเล่มที่",
+      "name_en": "receipt_book_number",
+      "description": "เลขที่เล่มใบเสร็จรับเงิน"
+    },
+    {
+      "field_name": "p3_field_16",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        226.2,
+        324.5,
+        372.2,
+        338.7
+      ],
+      "ocr_label": "เลขที่",
+      "label": "ใบเสร็จเลขที่",
+      "name_en": "receipt_number_official",
+      "description": "เลขที่ใบเสร็จรับเงิน"
+    },
+    {
+      "field_name": "p3_field_18",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        73.3,
+        340.3,
+        372.1,
+        354.6
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่ออกใบเสร็จ",
+      "name_en": "receipt_date_official",
+      "description": "วันที่ออกใบเสร็จรับเงิน"
+    },
+    {
+      "field_name": "p3_field_17",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        426.8,
+        334.3,
+        556.1,
+        348.6
+      ],
+      "ocr_label": "ลายมือชื่อ",
+      "label": "ลายมือชื่อเจ้าหน้าที่ออกใบเสร็จ",
+      "name_en": "receipt_officer_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้ออกใบเสร็จ"
+    },
+    {
+      "field_name": "p3_field_19",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        428.0,
+        350.1,
+        552.7,
+        364.3
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อเจ้าหน้าที่ออกใบเสร็จ (ในวงเล็บ)",
+      "name_en": "receipt_officer_name",
+      "description": "ชื่อเจ้าหน้าที่ผู้ออกใบเสร็จ (พิมพ์ในวงเล็บ)"
+    },
+    {
+      "field_name": "p3_field_20",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        421.2,
+        365.9,
+        557.2,
+        380.1
+      ],
+      "ocr_label": "ตำแหน่ง",
+      "label": "ตำแหน่งเจ้าหน้าที่ออกใบเสร็จ",
+      "name_en": "receipt_officer_position",
+      "description": "ตำแหน่งของเจ้าหน้าที่ผู้ออกใบเสร็จ"
+    },
+    {
+      "field_name": "p3_field_21",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        411.5,
+        381.7,
+        561.5,
+        396.0
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่เจ้าหน้าที่ออกใบเสร็จลงนาม",
+      "name_en": "receipt_officer_date",
+      "description": "วันที่เจ้าหน้าที่ผู้ออกใบเสร็จลงนาม"
+    },
+    {
+      "field_name": "p3_field_22",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        125.2,
+        431.9,
+        370.3,
+        446.1
+      ],
+      "ocr_label": "ใบอนุญาตทำงานเลม่ที่",
+      "label": "ใบอนุญาตทำงานเล่มที่",
+      "name_en": "wp_volume_number",
+      "description": "เลขที่เล่มใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p3_field_24",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        62.2,
+        447.7,
+        369.8,
+        462.0
+      ],
+      "ocr_label": "เลขที่",
+      "label": "ใบอนุญาตทำงานเลขที่",
+      "name_en": "wp_number",
+      "description": "เลขที่ใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p3_field_23",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        426.8,
+        441.7,
+        556.2,
+        456.0
+      ],
+      "ocr_label": "ลายมือชื่อ",
+      "label": "ลายมือชื่อเจ้าหน้าที่บันทึกข้อมูล",
+      "name_en": "data_officer_signature",
+      "description": "ลายมือชื่อเจ้าหน้าที่ผู้บันทึกข้อมูล"
+    },
+    {
+      "field_name": "p3_field_26",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        82.1,
+        463.6,
+        368.5,
+        477.8
+      ],
+      "ocr_label": "ออกให้เมื่อ",
+      "label": "ออกให้เมื่อ",
+      "name_en": "wp_issued_date",
+      "description": "วันที่ออกใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p3_field_25",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        428.0,
+        457.6,
+        557.4,
+        471.8
+      ],
+      "ocr_label": "(",
+      "label": "ชื่อเจ้าหน้าที่บันทึกข้อมูล (ในวงเล็บ)",
+      "name_en": "data_officer_name",
+      "description": "ชื่อเจ้าหน้าที่ผู้บันทึกข้อมูล (พิมพ์ในวงเล็บ)"
+    },
+    {
+      "field_name": "p3_field_28",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        68.1,
+        479.3,
+        368.8,
+        493.5
+      ],
+      "ocr_label": "จังหวัด",
+      "label": "จังหวัดที่ออกใบอนุญาต",
+      "name_en": "wp_issued_province",
+      "description": "จังหวัดที่ออกใบอนุญาตทำงาน"
+    },
+    {
+      "field_name": "p3_field_27",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        421.2,
+        473.3,
+        557.4,
+        487.5
+      ],
+      "ocr_label": "ตำแหน่ง",
+      "label": "ตำแหน่งเจ้าหน้าที่บันทึกข้อมูล",
+      "name_en": "data_officer_position",
+      "description": "ตำแหน่งของเจ้าหน้าที่ผู้บันทึกข้อมูล"
+    },
+    {
+      "field_name": "p3_field_30",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        158.7,
+        495.2,
+        369.7,
+        509.4
+      ],
+      "ocr_label": "หมายเลขประจำตัวคนตา่งด้าว",
+      "label": "หมายเลขประจำตัวคนต่างด้าว",
+      "name_en": "wp_foreigner_id",
+      "description": "หมายเลขประจำตัวคนต่างด้าว (บันทึกในใบอนุญาต)"
+    },
+    {
+      "field_name": "p3_field_29",
+      "type": "text",
+      "page": 3,
+      "rect": [
+        411.5,
+        489.2,
+        561.4,
+        503.4
+      ],
+      "ocr_label": "วันที่",
+      "label": "วันที่บันทึกข้อมูล",
+      "name_en": "data_officer_date",
+      "description": "วันที่เจ้าหน้าที่บันทึกข้อมูล"
+    }
+  ]
+}

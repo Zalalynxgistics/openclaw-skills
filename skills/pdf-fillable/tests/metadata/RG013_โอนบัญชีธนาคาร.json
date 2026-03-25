@@ -1,0 +1,285 @@
+{
+  "form_name": "RG013_โอนบัญชีธนาคาร",
+  "fields": [
+    {
+      "field_name": "p1_uscore_1",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        467.6,
+        82.3,
+        552.8,
+        97.7
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_2",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        108.5,
+        187.2,
+        308.6,
+        202.6
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_3",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        392.9,
+        187.2,
+        512.1,
+        202.6
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_4",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        248.3,
+        204.3,
+        414.3,
+        219.7
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_5",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        85.2,
+        221.2,
+        285.5,
+        236.6
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_1_L_1M1%ก%43$!-_/8ก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        64.8,
+        284.1,
+        74.4,
+        295.0
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_2_L_1M1%P\"R2$2NC'\"_R!&",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        259.6,
+        284.1,
+        269.1,
+        295.0
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_3_L_1M1%ก%43R!&_/8ก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        64.8,
+        301.1,
+        74.4,
+        312.1
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_4_L_1M1%!(56ก7_/8ก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        259.6,
+        301.1,
+        269.1,
+        312.1
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_5_L_1M1%ก%43F%\"2&4L&1_/8ก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        64.8,
+        318.2,
+        74.4,
+        329.1
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_6_L_1M1%R!&-1B(A&_/8ก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        259.6,
+        318.2,
+        269.1,
+        329.1
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_7_L_1M1%ก5(ก%R!&_/8ก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        64.8,
+        335.1,
+        74.4,
+        346.0
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_8_L_1M1%&D62'\"_/8ก",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        259.6,
+        335.1,
+        269.1,
+        346.0
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_9_L_1M1%!*1%R!&L_A1?",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        64.8,
+        352.1,
+        74.4,
+        363.1
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_6",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        85.3,
+        375.0,
+        251.4,
+        390.4
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_10_22C!%_-&_ก%=>5%1&",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        151.6,
+        392.1,
+        161.1,
+        403.0
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_cb_11_ก%=>5%1&",
+      "type": "checkbox",
+      "page": 1,
+      "rect": [
+        216.5,
+        392.1,
+        226.1,
+        403.0
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_7",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        103.2,
+        409.0,
+        252.3,
+        424.4
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_8",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        330.6,
+        651.5,
+        445.5,
+        666.9
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    },
+    {
+      "field_name": "p1_uscore_9",
+      "type": "text",
+      "page": 1,
+      "rect": [
+        335.5,
+        667.7,
+        446.2,
+        683.1
+      ],
+      "label": "",
+      "name_en": "",
+      "description": ""
+    }
+  ]
+}

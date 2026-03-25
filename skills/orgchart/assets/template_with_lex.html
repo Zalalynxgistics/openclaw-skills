@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<title>LYNX Organization Chart 2026 — With LEX</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:'Noto Sans Thai','Segoe UI',sans-serif;background:#fff;width:2200px;padding:40px 60px 30px 60px;}
+
+  .header{text-align:center;margin-bottom:35px;}
+  .header img{height:55px;vertical-align:middle;margin-right:20px;}
+  .chart-title{font-size:26px;font-weight:700;color:#0f172a;vertical-align:middle;}
+  .header-line{width:80px;height:3px;background:linear-gradient(90deg,#0F48B4,#3b82f6);margin:12px auto 0;border-radius:2px;}
+
+  .bx{display:inline-flex;flex-direction:column;align-items:center;text-align:center;position:relative;border-radius:12px;}
+
+  .bx.gm{background:linear-gradient(145deg,#0a2a6e,#0F48B4);color:#fff;padding:12px 24px 14px;box-shadow:0 6px 20px rgba(15,72,180,0.3);}
+  .bx.gm .nm{font-size:15px;font-weight:700;}.bx.gm .tt{font-size:11px;opacity:0.9;margin-top:2px;}
+  .bx.gm .photo{width:50px;height:50px;border-radius:50%;border:3px solid rgba(255,255,255,0.6);object-fit:cover;margin-bottom:6px;}
+
+  .bx.vp{background:linear-gradient(145deg,#0a2a6e,#2563eb);color:#fff;padding:10px 18px 12px;box-shadow:0 4px 14px rgba(15,72,180,0.25);}
+  .bx.vp .nm{font-size:13px;font-weight:700;}.bx.vp .tt{font-size:10px;opacity:0.9;margin-top:2px;}
+  .bx.vp .photo{width:44px;height:44px;border-radius:50%;border:2px solid rgba(255,255,255,0.6);object-fit:cover;margin-bottom:5px;}
+
+  .bx.dp{background:#eef4ff;border:2px solid #7dafe8;padding:7px 16px;border-radius:10px;}
+  .bx.dp .nm{font-size:13px;font-weight:700;color:#0a2a6e;}
+  .bx.dp.lex{background:#fff8f0;border-color:#e8a87d;}
+  .bx.dp.lex .nm{color:#a0522d;}
+
+  .bx.sc{background:#fff;border:2px solid #b8d4f0;padding:5px 10px;border-radius:8px;}
+  .bx.sc .nm{font-size:11px;font-weight:600;color:#0F48B4;}.bx.sc .sb{font-size:9px;color:#6b7280;}
+
+  .bx.pr{background:#fff;border:2px solid #7dafe8;padding:8px 10px 10px;border-radius:10px;min-width:125px;box-shadow:0 1px 4px rgba(15,72,180,0.1);}
+  .bx.pr .nm{font-size:11px;font-weight:700;color:#0a2a6e;line-height:1.3;}.bx.pr .tt{font-size:9px;color:#6b7280;margin-top:1px;line-height:1.3;}
+  .bx.pr .photo{width:40px;height:40px;border-radius:50%;border:2px solid #7dafe8;object-fit:cover;margin-bottom:5px;}
+
+  .vl{width:2px;background:#7dafe8;margin:0 auto;}
+  .vl.lex{background:#e8a87d;}
+  .col{display:flex;flex-direction:column;align-items:center;}
+  .note{font-size:11px;color:#94a3b8;text-align:center;margin-top:25px;font-style:italic;}
+
+  /* Horizontal connector line segments inside branch columns */
+  .cl{position:absolute;top:0;height:2px;background:#7dafe8;z-index:1;}
+  .cl.first{left:50%;right:-1px;}   /* first branch: center → right */
+  .cl.mid{left:-1px;right:-1px;}    /* middle branch: left → right */
+  .cl.last{left:-1px;right:50%;}    /* last branch: left → center */
+  .cl.lex-c{background:#e8a87d;}
+  /* Spacer between branches with top border */
+  .sp{flex:1;border-top:2px solid #7dafe8;min-width:10px;}
+  .sp.lex-s{border-color:#e8a87d;}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <img src="lynx_logo_square.jpg" alt="LYNX Logo">
+  <span class="chart-title">Organization Chart</span>
+  <div class="header-line"></div>
+</div>
+
+<!-- GM -->
+<div class="col">
+  <div class="bx gm">
+    <img class="photo" src="orgchart_photos/Tai.jpg" alt="Tai">
+    <div class="nm">Chaninrat (Tai)</div><div class="tt">General Manager</div>
+  </div>
+  <div class="vl" style="height:28px;"></div>
+</div>
+
+<!-- Four branches — horizontal line only between branches -->
+<div style="display:flex;width:1900px;margin:0 auto;align-items:flex-start;">
+
+  <!-- ① AGM → Operation (FIRST) -->
+  <div class="col" style="flex:0 0 auto;position:relative;">
+    <div class="cl first"></div>
+    <div class="vl" style="height:16px;"></div>
+    <div class="bx vp">
+      <img class="photo" src="orgchart_photos/Haw.jpg" alt="Haw">
+      <div class="nm">Sujika (Haw)</div><div class="tt">Assistant General Manager</div>
+    </div>
+    <div class="vl" style="height:20px;"></div>
+    <div class="bx dp"><div class="nm">Operation</div></div>
+    <div class="vl" style="height:14px;"></div>
+    <!-- Operation sub-depts — connector lines only between items -->
+    <div style="display:flex;align-items:flex-start;">
+      <div class="col" style="position:relative;"><div class="cl first"></div><div class="vl" style="height:10px;"></div><div class="bx sc"><div class="nm">Customer Service</div><div class="sb">(CSD)</div></div></div>
+      <div class="sp"></div>
+      <div class="col" style="position:relative;"><div class="cl mid"></div><div class="vl" style="height:10px;"></div><div class="bx sc"><div class="nm">Export Operation</div><div class="sb">(EXO)</div></div><div class="vl" style="height:8px;"></div>
+        <div class="bx pr"><img class="photo" src="orgchart_photos/Zan.jpg" alt="Zan"><div class="nm">Putida (Zan)</div><div class="tt">Export Operation<br>Supervisor</div></div></div>
+      <div class="sp"></div>
+      <div class="col" style="position:relative;"><div class="cl mid"></div><div class="vl" style="height:10px;"></div><div class="bx sc"><div class="nm">Import Operation</div><div class="sb">(IMO)</div></div><div class="vl" style="height:8px;"></div>
+        <div class="bx pr"><img class="photo" src="orgchart_photos/Fon.jpg" alt="Fon"><div class="nm">Pattama (Fon)</div><div class="tt">Asst. Import Operation<br>Manager</div></div></div>
+      <div class="sp"></div>
+      <div class="col" style="position:relative;"><div class="cl mid"></div><div class="vl" style="height:10px;"></div><div class="bx sc"><div class="nm">Customs Affairs</div><div class="sb">&amp; Licenses (CAL)</div></div><div class="vl" style="height:8px;"></div>
+        <div class="bx pr"><img class="photo" src="orgchart_photos/Kit.jpg" alt="Kit"><div class="nm">Sumeth (Kit)</div><div class="tt">CAL Manager</div></div></div>
+      <div class="sp"></div>
+      <div class="col" style="position:relative;"><div class="cl mid"></div><div class="vl" style="height:10px;"></div><div class="bx sc"><div class="nm">Project &amp; Multimodal</div><div class="sb">Logistics (PML)</div></div><div class="vl" style="height:8px;"></div>
+        <div class="bx pr"><img class="photo" src="orgchart_photos/Miw.jpg" alt="Miw"><div class="nm">Pitchaya (Miw)</div><div class="tt">PML Asst. Manager</div></div></div>
+      <div class="sp"></div>
+      <div class="col" style="position:relative;"><div class="cl last"></div><div class="vl" style="height:10px;"></div><div class="bx sc"><div class="nm">Customs Operation</div><div class="sb">(CUO)</div></div><div class="vl" style="height:8px;"></div>
+        <div class="bx pr"><img class="photo" src="orgchart_photos/Miw_CUO.jpg" alt="Miw"><div class="nm">Chatchayapha (Miw)</div><div class="tt">Asst. Customs Operation<br>Manager</div></div></div>
+    </div>
+  </div>
+
+  <div class="sp"></div>
+
+  <!-- ② DGM → Sales (MIDDLE) -->
+  <div class="col" style="flex:0 0 auto;position:relative;">
+    <div class="cl mid"></div>
+    <div class="vl" style="height:16px;"></div>
+    <div class="bx vp">
+      <img class="photo" src="orgchart_photos/Wudi.jpg" alt="Wudi">
+      <div class="nm">Mr.Di Wu (Wudi)</div><div class="tt">Deputy General Manager</div>
+    </div>
+    <div class="vl" style="height:20px;"></div>
+    <div class="bx dp"><div class="nm">Sales</div></div>
+    <div class="vl" style="height:12px;"></div>
+    <div class="bx pr"><img class="photo" src="orgchart_photos/Wudi.jpg" alt="Wudi"><div class="nm">Mr.Di Wu (Wudi)</div><div class="tt">Deputy General Manager</div></div>
+  </div>
+
+  <div class="sp"></div>
+
+  <!-- ③ Back Office (MIDDLE) — directly under GM -->
+  <div class="col" style="flex:0 0 auto;position:relative;">
+    <div class="cl mid"></div>
+    <div class="vl" style="height:86px;"></div>
+    <div class="bx dp"><div class="nm">Back Office</div></div>
+    <div class="vl" style="height:12px;"></div>
+    <div style="display:flex;align-items:flex-start;">
+      <div class="col" style="position:relative;"><div class="cl first"></div><div class="vl" style="height:8px;"></div><div class="bx sc"><div class="nm">Accounting</div><div class="sb">(ACC)</div></div><div class="vl" style="height:8px;"></div>
+        <div class="bx pr"><img class="photo" src="orgchart_photos/A-Care.jpg" alt="A-Care"><div class="nm">Aritacha (A-Care)</div><div class="tt">Accounting Supervisor</div></div></div>
+      <div class="sp"></div>
+      <div class="col" style="position:relative;"><div class="cl last"></div><div class="vl" style="height:8px;"></div><div class="bx sc"><div class="nm">HR &amp; Admin</div><div class="sb">(HRA)</div></div><div class="vl" style="height:8px;"></div>
+        <div class="bx pr"><img class="photo" src="orgchart_photos/Yui.jpg" alt="Yui"><div class="nm">Nathamon (Yui)</div><div class="tt">HR &amp; Admin Supervisor</div></div></div>
+    </div>
+  </div>
+
+  <div class="sp"></div>
+
+  <!-- ④ LEX (LAST) -->
+  <div class="col" style="flex:0 0 auto;position:relative;">
+    <div class="cl last"></div>
+    <div class="vl lex" style="height:86px;"></div>
+    <div class="bx dp lex"><div class="nm">LEX</div></div>
+    <div class="vl lex" style="height:12px;"></div>
+    <div style="display:flex;align-items:flex-start;">
+      <div class="col" style="position:relative;"><div class="cl first lex-c"></div><div class="vl lex" style="height:8px;"></div>
+        <div class="bx pr" style="border-color:#e8a87d;"><img class="photo" src="orgchart_photos/Jacky.jpg" alt="Jacky" style="border-color:#e8a87d;"><div class="nm">Zhang Zan (Jacky)</div><div class="tt">Marketing Manager</div></div></div>
+      <div class="sp lex-s"></div>
+      <div class="col" style="position:relative;"><div class="cl last lex-c"></div><div class="vl lex" style="height:8px;"></div>
+        <div class="bx pr" style="border-color:#e8a87d;"><img class="photo" src="orgchart_photos/LuLu.jpg" alt="LuLu" style="border-color:#e8a87d;"><div class="nm">Lu Lu (LuLu)</div><div class="tt">Regional Sales<br>Manager</div></div></div>
+    </div>
+  </div>
+
+</div>
+
+<div class="note">Updated: March 2026 — Data from Lynx Org Chart 2026.xlsx</div>
+
+</body>
+</html>
