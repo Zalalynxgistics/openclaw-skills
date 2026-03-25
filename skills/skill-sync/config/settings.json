@@ -1,0 +1,32 @@
+{
+  "ownSkills": [],
+  "syncSettings": {
+    "autoCommitToGit": true,
+    "autoPublishToClawhub": false,
+    "checkInterval": 60,
+    "retryFailedSync": true,
+    "maxRetries": 3,
+    "onlySyncOwnSkills": false
+  },
+  "gitSettings": {
+    "autoPush": true,
+    "commitMessageTemplate": "Update skill: {name} v{version}",
+    "branch": "master"
+  },
+  "clawhubSettings": {
+    "autoLogin": false,
+    "tags": ["latest"],
+    "timeout": 60000
+  },
+  "excludeSkills": [
+    ".git",
+    "node_modules",
+    ".DS_Store"
+  ],
+  "notifySettings": {
+    "onSuccess": true,
+    "onFailure": true,
+    "channel": "telegram",
+    "to": ""
+  }
+}
